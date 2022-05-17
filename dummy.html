@@ -1,0 +1,276 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>D3 Maps</title>
+    <meta charset="utf-8" />
+    <script src="https://d3js.org/d3.v3.min.js"></script>
+    <script src="https://unpkg.com/topojson-client@3"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/queue-async/1.0.7/queue.min.js"></script>
+    
+    <style type="text/css">
+      .button {
+        background-color: rgba(0, 0, 0, 0.637);
+        border: none;
+        color: white;
+        padding: 2px 4px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 20px;
+        margin: 4px 2px;
+        cursor: pointer;
+      }
+    </style>
+  </head>
+  <body>
+ <svg></svg>
+    <script type="text/javascript">
+        var url_string = window.location;
+        var url = new URL(url_string);
+        var no_of_rows = parseInt(url.searchParams.get("topchoice") ? url.searchParams.get("topchoice") : "5");
+              const width = 1300;
+      const height = 810;
+      //const zoom = d3.zoom().scaleExtent([1, 8]).on("zoom", zoomed);
+
+      //function render(d3Comparator) {
+      //  if (d3Comparator) data = data.sort(function (a, b) {});
+      // }
+
+      // const projection = d3
+      //   .geoAlbersUsa()
+      //   .translate([width / 2, height / 2])
+      //   .scale(800);
+
+      const svg = d3.select("svg").attr("viewBox", [0, 0, width, height]);
+
+      const g = svg.append("g");
+
+     // const path = d3.geoPath(null);
+
+      var statesdata = '{"states":[5,10,1,18,17]}';
+
+        var jasonstates = JSON.parse(statesdata);
+
+      let states,
+        us,
+        stateNames = [];
+      statesCensus = [];
+
+      var usDataUrl = 'https://gist.githubusercontent.com/d3byex/65a128a9a499f7f0b37d/raw/176771c2f08dbd3431009ae27bef9b2f2fb56e36/us-states.json',
+      citiesDataUrl = 'https://gist.githubusercontent.com/d3byex/65a128a9a499f7f0b37d/raw/176771c2f08dbd3431009ae27bef9b2f2fb56e36/us-cities.csv';
+
+      queue()
+       // .defer(d3.json, "https://d3js.org/us-10m.v1.json")
+        .defer(d3.json, usDataUrl)
+        .defer(d3.csv, citiesDataUrl)
+            
+        .defer(d3.csv, "states.csv", function (d) {
+          stateNames.push(d);
+        })
+        // .defer(d3.csv, "state_census.csv", function (d) {
+        //   statesCensus.push(d);
+        // })
+
+        .await(function (error, states, cities) {
+                var path = d3.geo.path();
+                var projection = d3.geo.albersUsa()
+                    .translate([width / 2, height / 2])
+                    .scale([1000]);
+                path.projection(projection);
+
+
+            svg.selectAll('path')
+              .data(states.features)
+              .enter()
+              .append('path')
+              .attr('d', path)
+              .style({
+                  fill: 'none',
+                  stroke: 'black'
+              });
+              svg.selectAll('circle')
+              .data(cities)
+              .enter()
+              .append('circle')
+              .each(function (d) {
+                      var location = projection([d.longitude, d.latitude]);
+                      d3.select(this).attr({
+                      cx: location[0], cy: location[1],
+                      r: Math.sqrt(+d.population * 0.00004)
+                      });
+              })
+              .style({
+                    fill: 'blue',
+                    opacity: 0.75
+              })
+              .append("title")
+              .text(d=>d.name)
+        })
+        
+        // document.getElementById("demo").addEventListener("click", myFunction);
+
+        // function myFunction() {
+        //   document.getElementById("demo").innerHTML =  ""
+        //  // <a href="county.html">california</a> 
+          
+        //  // "YOU CLICKED ME!";
+        // }
+
+      function ready(error, us) {
+        //var myColor = ["#5d158f", "#6d2c9a", "#7d44a5", "#9e73bc", "#8d5bb0"];
+        var clr = d3.scaleLinear()
+        .range(["#8d5bb0", "#e9dff0"])
+        .domain([0, 9]);
+
+        // var statesdata = "{'states':[5,9,12,6,8]}";
+
+        // var jasonstates = JSON.parse(statesdata);
+
+        var myColor = d3.range(10).map(function(d) {
+          return clr(d)
+        });
+
+        // statesCensus = statesCensus
+        //   .slice()
+        //   .sort(
+        //     (a, b) =>
+        //       d3.descending(parseInt(a.year), parseInt(b.year)) || d3.descending(parseInt(a.female), parseInt(b.female))
+        //   );
+
+        states = g
+          .append("g")
+          .attr("cursor", "pointer")
+          .selectAll("path")
+          .data(topojson.feature(us, us.objects.states).features)
+          .enter()
+          .append("path")
+          .attr("d", path)
+          .attr("fill", "#e0e0e0")
+          .on("click", function(d){
+            window.open('/county.html?statecode='+d.id);
+          });
+
+        states.attr("fill", function (d) {
+		  
+          for (let i = 0; i < no_of_rows; i++) {	
+			var selectedState = stateNames.find(x => parseInt(x.states_id) ===  parseInt(jasonstates.states[i]));
+            if (parseInt(selectedState.state_code) === parseInt(d.id)) {
+              return myColor[i];
+            }
+          }
+          return "#e0e0e0";
+        });
+
+        g.append("g")
+          .attr("class", "states-names")
+          .selectAll("text")
+          .data(topojson.feature(us, us.objects.states).features)
+          .enter()
+          .append("svg:text")
+          .text(function (d) {
+            for (let i = 0; i < no_of_rows; i++) {
+              var selstate = stateNames.find(x => parseInt(x.state_code) === parseInt(d.id) && parseInt(x.states_id) === parseInt(jasonstates.states[i]))
+              if(selstate) {
+                return selstate.state_name + " "+ (i+1);
+              } 
+            }
+            return stateNames.find(x => parseInt(x.state_code) === parseInt(d.id)).state_name;
+              
+            })
+
+
+          .attr("x", function (d) {
+            if (
+              [
+                " New Jersey",
+                " Massachusetts",
+                " Delaware",
+                " Maryland",
+                " New Hampshire",
+              ].includes(stateNames.find(x => parseInt(x.state_code) === parseInt(d.id)).state_name)
+            ) {
+              return path.centroid(d)[0] + 60;
+            } else if (stateNames.find(x => parseInt(x.state_code) === parseInt(d.id)).state_name == " Michigan") {
+              return path.centroid(d)[0] + 20;
+            } else if (stateNames.find(x => parseInt(x.state_code) === parseInt(d.id)).state_name == " Florida") {
+              return path.centroid(d)[0] + 16;
+            } else if (stateNames.find(x => parseInt(x.state_code) === parseInt(d.id)).state_name == " New York") {
+              return path.centroid(d)[0] + 10;
+            } else if (stateNames.find(x => parseInt(x.state_code) === parseInt(d.id)).state_name == " Connecticut") {
+              return path.centroid(d)[0] + 45;
+            } else if (stateNames.find(x => parseInt(x.state_code) === parseInt(d.id)).state_name == " Rhode Island") {
+              return path.centroid(d)[0] + 50;
+            } else if (stateNames.find(x => parseInt(x.state_code) === parseInt(d.id)).state_name == " Vermont") {
+              return path.centroid(d)[0] - 10;
+            } else if (stateNames.find(x => parseInt(x.state_code) === parseInt(d.id)).state_name == " Hawaii") {
+              return path.centroid(d)[0] - 40;
+            } else {
+              return path.centroid(d)[0];
+            }
+          })
+          .attr("y", function (d) {
+            if (
+              [" New Hampshire", " Maryland"].includes(
+                stateNames.find(x => parseInt(x.state_code) === parseInt(d.id)).state_name
+              )
+            ) {
+              return path.centroid(d)[1] + 20;
+            } else if (
+              stateNames.find(x => parseInt(x.state_code) === parseInt(d.id)).state_name == " Washington" ||
+              stateNames.find(x => parseInt(x.state_code) === parseInt(d.id)).state_name == " Louisiana"
+            ) {
+              return path.centroid(d)[1] + 15;
+            } else if (stateNames.find(x => parseInt(x.state_code) === parseInt(d.id)).state_name == " Connecticut") {
+              return path.centroid(d)[1] + 15;
+            } else if (stateNames.find(x => parseInt(x.state_code) === parseInt(d.id)).state_name == " Rhode Island") {
+              return path.centroid(d)[1] + 10;
+            } else if (stateNames.find(x => parseInt(x.state_code) === parseInt(d.id)).state_name == " Vermont") {
+              return path.centroid(d)[1] - 25;
+            } else if (stateNames.find(x => parseInt(x.state_code) === parseInt(d.id)).state_name == " Michigan") {
+              return path.centroid(d)[1] + 25;
+            } else {
+              return path.centroid(d)[1];
+            }
+          })
+          .style("font-size", function (d) {
+            if (
+              [
+                " Mississippi",
+                " Kentucky",
+                " District of Columbia",
+                " South Carolina",
+              ].includes(stateNames.find(x => parseInt(x.state_code) === parseInt(d.id)).state_name)
+            ) {
+              return "10px";
+            } else if (stateNames.find(x => parseInt(x.state_code) === parseInt(d.id)).state_name == " West Virginia") {
+              return "8px";
+            } else {
+              return "12px";
+            }
+          })
+          .attr("text-anchor", "middle")
+          .attr("fill", function (d) {
+            if (
+              [
+                " Hawaii",
+                " New Jersey",
+                " Massachusetts",
+                " Connecticut",
+                " Rhode Island",
+                " Delaware",
+                " Maryland",
+                " New Hampshire",
+                " Vermont",
+              ].includes(stateNames.find(x => parseInt(x.state_code) === parseInt(d.id)).state_name)
+            ) {
+              return "black";
+            } else {
+              return "white";
+            }
+          });
+        // svg.call(zoom); 
+      }
+    </script>
+  </body>
+</html>
+

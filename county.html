@@ -1,0 +1,201 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <style>
+            .outline {
+            fill: none;
+            stroke: #000;
+            stroke-width: 1.5px;
+            }
+
+            .feature {
+            fill: #ccc;
+            }
+
+            .mesh {
+            fill: none;
+            stroke: #fff;
+            stroke-width: .5px;
+            stroke-linejoin: round;
+            }
+
+            path {
+            /*fill: #ccc;*/ 
+            stroke: #fff;
+            stroke-width: .5px;
+            }
+            .county:hover{
+            fill:orange;
+            }
+
+        </style>
+        <script src="https://d3js.org/d3.v4.min.js"></script>
+        <script src="https://unpkg.com/topojson-client@3"></script>
+        <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/d3/5.7.0/d3.min.js"></script>
+        <script type="text/javascript" src="https://d3js.org/topojson.v3.min.js"></script>
+        
+    </head>
+    <body>
+        <svg></svg>
+        <div id="tooltip" class="hidden">
+            <p>County: <span id="county">County Name</span></p>
+        </div>
+        <script type="text/javascript">
+        
+            var width = 660,
+                height = 300;
+            
+            var projection = d3.geoAlbersUsa().translate([width / 2, height / 2])
+        .scale(800);
+            
+            /*
+            var projection = d3.geo.transverseMercator()
+                      .rotate([120 + 30 / 60, -38 - 50 / 60])
+            
+            */
+
+            //var selectedCountiesdata = '{"counties":[5,10,1,18,17]}';
+            //var selectedCountiesdata = '{"counties":[46081,21109,22105,46099,24043]}';
+            
+            
+            var selectedCountiesdata = '{"counties":["06093","06003","06089","06069","06071"]}';
+            //'{"counties":[06093,06003,06089,06069,06071]}';
+
+           
+            var jasoncounties = JSON.parse(selectedCountiesdata);
+            
+            
+            var path = d3.geoPath()
+                .projection(projection);
+            
+           const svg = d3.select("svg").attr("viewBox", [0, 0, width, height]);
+           const g = svg.append("g");
+           d3.json("https://cdn.jsdelivr.net/npm/us-atlas@3/counties-10m.json").then(readymap);
+
+            function readymap(us) {
+            
+                var clr = d3.scaleLinear()
+                .range(["#8d5bb0", "#e9dff0"])
+                .domain([0, 9]);
+
+                var myColor = d3.range(10).map(function(d) {
+                    return clr(d)
+                });
+
+                const queryString = window.location.search;
+
+                const urlParams = new URLSearchParams(queryString);
+
+              var states = topojson.feature(us, us.objects.states),
+                  state = states.features.filter(function(d) { 
+                      return parseInt(d.id) === parseInt(urlParams.get("statecode")); 
+                    })[0];
+            
+              projection.scale(1)
+                .translate([0, 0]);
+             
+              var b = path.bounds(state),
+                s = .95 / Math.max((b[1][0] - b[0][0]) / width, (b[1][1] - b[0][1]) / height),
+                t = [(width - s * (b[1][0] + b[0][0])) / 2, (height - s * (b[1][1] + b[0][1])) / 2];
+             
+              projection.scale(s)
+                .translate(t);
+             
+              svg.append("path")
+                  .datum(topojson.mesh(us, us.objects.states, function(a, b) { 
+                      return a !== b; 
+                    }))
+                  .attr("class", "mesh")
+                  .attr("d", path);
+            
+              svg.append("path")
+                  .datum(state)
+                  .attr("class", "outline")
+                  .attr("d", path)
+                  .attr('id', 'land');
+            
+               svg.append("clipPath")
+                  .attr("id", "clip-land")
+                  .append("use")
+                  .attr("xlink:href", "#land");
+            
+              let counties = svg.selectAll("path")
+                  .data(topojson.feature(us, us.objects.counties).features)
+                  .enter().append("path")
+                  .attr("d", path)
+                  .attr('county-id', function(d){
+                     return d.id
+                  }).attr("clip-path", "url(#clip-land)")
+                  .attr('class', 'county')
+                  .on("mouseover", function(d){
+						var xPosition = width/2 + 150;
+						var yPosition = height/2;
+// 						var xPosition = parseFloat(path.centroid(this).attr("cx"));
+// 						var yPosition = parseFloat(path.centroid(this).attr("cy"));
+						d3.select("#tooltip")
+						.style("left", xPosition + "px")
+						.style("top", yPosition + "px");
+						d3.select("#county")
+						.text(function()
+                        {   
+                            for (let i = 0; i < 5; i++) {	
+                                //var selectedCounties = stateNames.find(x => parseInt(x.states_id) ===  parseInt(jasonstates.states[i]));
+                                if (parseInt(jasoncounties.counties[i]) === parseInt(d.id)) {
+                                //return myColor[i];
+                                return d.properties.name + "--" + (i+1);
+                                }
+                            
+                            }
+
+                            return d.properties.name;
+                        });
+                        
+                                  
+
+                        
+						d3.select("#tooltip")
+						.classed("hidden", false);
+					})
+						.on("mouseout", function(){
+						d3.select("#tooltip").classed("hidden", true);
+						});
+                
+
+                counties.attr("fill", function (d) {
+		  
+                    for (let i = 0; i < 5; i++) {	
+                        //var selectedCounties = stateNames.find(x => parseInt(x.states_id) ===  parseInt(jasonstates.states[i]));
+                        if (parseInt(jasoncounties.counties[i]) === parseInt(d.id)) {
+                        return myColor[i];
+                        }
+                    }
+                    return "#e0e0e0";
+                });
+                // g.append("g")
+                // .attr("class", "counties-names")
+                // .selectAll("text")
+                // .data(topojson.feature(us, us.objects.counties).features)
+                // .enter()
+                // .append("svg:text")
+                // .text(function (d) {
+                //     for (let i = 0; i < 5; i++) {	
+                //         if (parseInt(jasoncounties.counties[i]) === parseInt(d.id)) {
+                //             return i+1;
+                            
+                //         }
+                //     }
+                    
+                // }).attr("x", function (d) {
+                //     return path.centroid(d)[0];
+                // }).attr("y", function (d) {
+                //     return path.centroid(d)[1];
+                // });
+            }
+            
+           
+        
+            </script>
+    </body>
+
+</html>

@@ -1,0 +1,2508 @@
+﻿ID,city,state,state_code,code,time_created
+1, Alabaster city, Alabama, 01, 00820, 2021-01-19 14:47:03
+2, Albertville city, Alabama, 01, 00988, 2021-01-19 14:47:03
+3, Anniston city, Alabama, 01, 01852, 2021-01-19 14:47:03
+4, Athens city, Alabama, 01, 02956, 2021-01-19 14:47:03
+5, Auburn city, Alabama, 01, 03076, 2021-01-19 14:47:03
+6, Bessemer city, Alabama, 01, 05980, 2021-01-19 14:47:03
+7, Birmingham city, Alabama, 01, 07000, 2021-01-19 14:47:03
+8, Daphne city, Alabama, 01, 19648, 2021-01-19 14:47:03
+9, Decatur city, Alabama, 01, 20104, 2021-01-19 14:47:03
+10, Dothan city, Alabama, 01, 21184, 2021-01-19 14:47:03
+11, Enterprise city, Alabama, 01, 24184, 2021-01-19 14:47:03
+12, Florence city, Alabama, 01, 26896, 2021-01-19 14:47:03
+13, Gadsden city, Alabama, 01, 28696, 2021-01-19 14:47:03
+14, Homewood city, Alabama, 01, 35800, 2021-01-19 14:47:03
+15, Hoover city, Alabama, 01, 35896, 2021-01-19 14:47:03
+16, Huntsville city, Alabama, 01, 37000, 2021-01-19 14:47:03
+17, Madison city, Alabama, 01, 45784, 2021-01-19 14:47:03
+18, Mobile city, Alabama, 01, 50000, 2021-01-19 14:47:03
+19, Montgomery city, Alabama, 01, 51000, 2021-01-19 14:47:03
+20, Mountain Brook city, Alabama, 01, 51696, 2021-01-19 14:47:03
+21, Northport city, Alabama, 01, 55200, 2021-01-19 14:47:03
+22, Opelika city, Alabama, 01, 57048, 2021-01-19 14:47:03
+23, Oxford city, Alabama, 01, 57576, 2021-01-19 14:47:03
+24, Pelham city, Alabama, 01, 58848, 2021-01-19 14:47:03
+25, Phenix City city, Alabama, 01, 59472, 2021-01-19 14:47:03
+26, Prattville city, Alabama, 01, 62328, 2021-01-19 14:47:03
+27, Prichard city, Alabama, 01, 62496, 2021-01-19 14:47:03
+28, Trussville city, Alabama, 01, 76944, 2021-01-19 14:47:03
+29, Tuscaloosa city, Alabama, 01, 77256, 2021-01-19 14:47:03
+30, Vestavia Hills city, Alabama, 01, 78552, 2021-01-19 14:47:03
+31, Anchorage municipality, Alaska, 02, 03000, 2021-01-19 14:47:03
+32, Badger CDP, Alaska, 02, 05000, 2021-01-19 14:47:03
+33, Fairbanks city, Alaska, 02, 24230, 2021-01-19 14:47:03
+34, Juneau city and borough, Alaska, 02, 36400, 2021-01-19 14:47:03
+35, Apache Junction city, Arizona, 04, 02830, 2021-01-19 14:47:03
+36, Avondale city, Arizona, 04, 04720, 2021-01-19 14:47:03
+37, Buckeye city, Arizona, 04, 07940, 2021-01-19 14:47:03
+38, Bullhead City city, Arizona, 04, 08220, 2021-01-19 14:47:03
+39, Casa Grande city, Arizona, 04, 10530, 2021-01-19 14:47:03
+40, Casas Adobes CDP, Arizona, 04, 10670, 2021-01-19 14:47:03
+41, Catalina Foothills CDP, Arizona, 04, 11230, 2021-01-19 14:47:03
+42, Chandler city, Arizona, 04, 12000, 2021-01-19 14:47:03
+43, Drexel Heights CDP, Arizona, 04, 20540, 2021-01-19 14:47:03
+44, El Mirage city, Arizona, 04, 22220, 2021-01-19 14:47:03
+45, Flagstaff city, Arizona, 04, 23620, 2021-01-19 14:47:03
+46, Florence town, Arizona, 04, 23760, 2021-01-19 14:47:03
+47, Fortuna Foothills CDP, Arizona, 04, 25030, 2021-01-19 14:47:03
+48, Fountain Hills town, Arizona, 04, 25300, 2021-01-19 14:47:03
+49, Gilbert town, Arizona, 04, 27400, 2021-01-19 14:47:03
+50, Glendale city, Arizona, 04, 27820, 2021-01-19 14:47:03
+51, Goodyear city, Arizona, 04, 28380, 2021-01-19 14:47:03
+52, Green Valley CDP, Arizona, 04, 29710, 2021-01-19 14:47:03
+53, Kingman city, Arizona, 04, 37620, 2021-01-19 14:47:03
+54, Lake Havasu City city, Arizona, 04, 39370, 2021-01-19 14:47:03
+55, Marana town, Arizona, 04, 44270, 2021-01-19 14:47:03
+56, Maricopa city, Arizona, 04, 44410, 2021-01-19 14:47:03
+57, Mesa city, Arizona, 04, 46000, 2021-01-19 14:47:03
+58, Nogales city, Arizona, 04, 49640, 2021-01-19 14:47:03
+59, Oro Valley town, Arizona, 04, 51600, 2021-01-19 14:47:03
+60, Peoria city, Arizona, 04, 54050, 2021-01-19 14:47:03
+61, Phoenix city, Arizona, 04, 55000, 2021-01-19 14:47:03
+62, Prescott city, Arizona, 04, 57380, 2021-01-19 14:47:03
+63, Prescott Valley town, Arizona, 04, 57450, 2021-01-19 14:47:03
+64, Queen Creek town, Arizona, 04, 58150, 2021-01-19 14:47:03
+65, Sahuarita town, Arizona, 04, 62140, 2021-01-19 14:47:03
+66, San Luis city, Arizona, 04, 63470, 2021-01-19 14:47:03
+67, San Tan Valley CDP, Arizona, 04, 64210, 2021-01-19 14:47:03
+68, Scottsdale city, Arizona, 04, 65000, 2021-01-19 14:47:03
+69, Sierra Vista city, Arizona, 04, 66820, 2021-01-19 14:47:03
+70, Sun City CDP, Arizona, 04, 70320, 2021-01-19 14:47:03
+71, Sun City West CDP, Arizona, 04, 70355, 2021-01-19 14:47:03
+72, Surprise city, Arizona, 04, 71510, 2021-01-19 14:47:03
+73, Tempe city, Arizona, 04, 73000, 2021-01-19 14:47:03
+74, Tucson city, Arizona, 04, 77000, 2021-01-19 14:47:03
+75, Yuma city, Arizona, 04, 85540, 2021-01-19 14:47:03
+76, Bella Vista city, Arkansas, 05, 04840, 2021-01-19 14:47:03
+77, Benton city, Arkansas, 05, 05290, 2021-01-19 14:47:03
+78, Bentonville city, Arkansas, 05, 05320, 2021-01-19 14:47:03
+79, Cabot city, Arkansas, 05, 10300, 2021-01-19 14:47:03
+80, Conway city, Arkansas, 05, 15190, 2021-01-19 14:47:03
+81, Fayetteville city, Arkansas, 05, 23290, 2021-01-19 14:47:03
+82, Fort Smith city, Arkansas, 05, 24550, 2021-01-19 14:47:03
+83, Hot Springs city, Arkansas, 05, 33400, 2021-01-19 14:47:03
+84, Jacksonville city, Arkansas, 05, 34750, 2021-01-19 14:47:03
+85, Jonesboro city, Arkansas, 05, 35710, 2021-01-19 14:47:03
+86, Little Rock city, Arkansas, 05, 41000, 2021-01-19 14:47:03
+87, North Little Rock city, Arkansas, 05, 50450, 2021-01-19 14:47:03
+88, Paragould city, Arkansas, 05, 53390, 2021-01-19 14:47:03
+89, Pine Bluff city, Arkansas, 05, 55310, 2021-01-19 14:47:03
+90, Rogers city, Arkansas, 05, 60410, 2021-01-19 14:47:03
+91, Russellville city, Arkansas, 05, 61670, 2021-01-19 14:47:03
+92, Searcy city, Arkansas, 05, 63020, 2021-01-19 14:47:03
+93, Sherwood city, Arkansas, 05, 63800, 2021-01-19 14:47:03
+94, Springdale city, Arkansas, 05, 66080, 2021-01-19 14:47:03
+95, Texarkana city, Arkansas, 05, 68810, 2021-01-19 14:47:03
+96, Van Buren city, Arkansas, 05, 71480, 2021-01-19 14:47:03
+97, West Memphis city, Arkansas, 05, 74540, 2021-01-19 14:47:03
+98, Adelanto city, California, 06, 00296, 2021-01-19 14:47:03
+99, Agoura Hills city, California, 06, 00394, 2021-01-19 14:47:03
+100, Alameda city, California, 06, 00562, 2021-01-19 14:47:03
+101, Alhambra city, California, 06, 00884, 2021-01-19 14:47:03
+102, Aliso Viejo city, California, 06, 00947, 2021-01-19 14:47:03
+103, Altadena CDP, California, 06, 01290, 2021-01-19 14:47:03
+104, American Canyon city, California, 06, 01640, 2021-01-19 14:47:03
+105, Anaheim city, California, 06, 02000, 2021-01-19 14:47:03
+106, Antelope CDP, California, 06, 02210, 2021-01-19 14:47:03
+107, Antioch city, California, 06, 02252, 2021-01-19 14:47:03
+108, Apple Valley town, California, 06, 02364, 2021-01-19 14:47:03
+109, Arcadia city, California, 06, 02462, 2021-01-19 14:47:03
+110, Arden-Arcade CDP, California, 06, 02553, 2021-01-19 14:47:03
+111, Arvin city, California, 06, 02924, 2021-01-19 14:47:03
+112, Ashland CDP, California, 06, 02980, 2021-01-19 14:47:03
+113, Atascadero city, California, 06, 03064, 2021-01-19 14:47:03
+114, Atwater city, California, 06, 03162, 2021-01-19 14:47:03
+115, Azusa city, California, 06, 03386, 2021-01-19 14:47:03
+116, Bakersfield city, California, 06, 03526, 2021-01-19 14:47:03
+117, Baldwin Park city, California, 06, 03666, 2021-01-19 14:47:03
+118, Banning city, California, 06, 03820, 2021-01-19 14:47:03
+119, Barstow city, California, 06, 04030, 2021-01-19 14:47:03
+120, Bay Point CDP, California, 06, 04415, 2021-01-19 14:47:03
+121, Beaumont city, California, 06, 04758, 2021-01-19 14:47:03
+122, Bell city, California, 06, 04870, 2021-01-19 14:47:03
+123, Bellflower city, California, 06, 04982, 2021-01-19 14:47:03
+124, Bell Gardens city, California, 06, 04996, 2021-01-19 14:47:03
+125, Belmont city, California, 06, 05108, 2021-01-19 14:47:03
+126, Benicia city, California, 06, 05290, 2021-01-19 14:47:03
+127, Berkeley city, California, 06, 06000, 2021-01-19 14:47:03
+128, Beverly Hills city, California, 06, 06308, 2021-01-19 14:47:03
+129, Bloomington CDP, California, 06, 07064, 2021-01-19 14:47:03
+130, Brawley city, California, 06, 08058, 2021-01-19 14:47:03
+131, Brea city, California, 06, 08100, 2021-01-19 14:47:03
+132, Brentwood city, California, 06, 08142, 2021-01-19 14:47:03
+133, Buena Park city, California, 06, 08786, 2021-01-19 14:47:03
+134, Burbank city, California, 06, 08954, 2021-01-19 14:47:03
+135, Burlingame city, California, 06, 09066, 2021-01-19 14:47:03
+136, Calabasas city, California, 06, 09598, 2021-01-19 14:47:03
+137, Calexico city, California, 06, 09710, 2021-01-19 14:47:03
+138, Camarillo city, California, 06, 10046, 2021-01-19 14:47:03
+139, Cameron Park CDP, California, 06, 10256, 2021-01-19 14:47:03
+140, Campbell city, California, 06, 10345, 2021-01-19 14:47:03
+141, Carlsbad city, California, 06, 11194, 2021-01-19 14:47:03
+142, Carmichael CDP, California, 06, 11390, 2021-01-19 14:47:03
+143, Carson city, California, 06, 11530, 2021-01-19 14:47:03
+144, Castaic CDP, California, 06, 11796, 2021-01-19 14:47:03
+145, Castro Valley CDP, California, 06, 11964, 2021-01-19 14:47:03
+146, Cathedral City city, California, 06, 12048, 2021-01-19 14:47:03
+147, Ceres city, California, 06, 12524, 2021-01-19 14:47:03
+148, Cerritos city, California, 06, 12552, 2021-01-19 14:47:03
+149, Chico city, California, 06, 13014, 2021-01-19 14:47:03
+150, Chino city, California, 06, 13210, 2021-01-19 14:47:03
+151, Chino Hills city, California, 06, 13214, 2021-01-19 14:47:03
+152, Chula Vista city, California, 06, 13392, 2021-01-19 14:47:03
+153, Citrus Heights city, California, 06, 13588, 2021-01-19 14:47:03
+154, Claremont city, California, 06, 13756, 2021-01-19 14:47:03
+155, Clovis city, California, 06, 14218, 2021-01-19 14:47:03
+156, Coachella city, California, 06, 14260, 2021-01-19 14:47:03
+157, Colton city, California, 06, 14890, 2021-01-19 14:47:03
+158, Compton city, California, 06, 15044, 2021-01-19 14:47:03
+159, Concord city, California, 06, 16000, 2021-01-19 14:47:03
+160, Corcoran city, California, 06, 16224, 2021-01-19 14:47:03
+161, Corona city, California, 06, 16350, 2021-01-19 14:47:03
+162, Coronado city, California, 06, 16378, 2021-01-19 14:47:03
+163, Costa Mesa city, California, 06, 16532, 2021-01-19 14:47:03
+164, Covina city, California, 06, 16742, 2021-01-19 14:47:03
+165, Cudahy city, California, 06, 17498, 2021-01-19 14:47:03
+166, Culver City city, California, 06, 17568, 2021-01-19 14:47:03
+167, Cupertino city, California, 06, 17610, 2021-01-19 14:47:03
+168, Cypress city, California, 06, 17750, 2021-01-19 14:47:03
+169, Daly City city, California, 06, 17918, 2021-01-19 14:47:03
+170, Dana Point city, California, 06, 17946, 2021-01-19 14:47:03
+171, Danville town, California, 06, 17988, 2021-01-19 14:47:03
+172, Davis city, California, 06, 18100, 2021-01-19 14:47:03
+173, Delano city, California, 06, 18394, 2021-01-19 14:47:03
+174, Desert Hot Springs city, California, 06, 18996, 2021-01-19 14:47:03
+175, Diamond Bar city, California, 06, 19192, 2021-01-19 14:47:03
+176, Dinuba city, California, 06, 19318, 2021-01-19 14:47:03
+177, Downey city, California, 06, 19766, 2021-01-19 14:47:03
+178, Duarte city, California, 06, 19990, 2021-01-19 14:47:03
+179, Dublin city, California, 06, 20018, 2021-01-19 14:47:03
+180, East Los Angeles CDP, California, 06, 20802, 2021-01-19 14:47:03
+181, East Palo Alto city, California, 06, 20956, 2021-01-19 14:47:03
+182, Eastvale city, California, 06, 21230, 2021-01-19 14:47:03
+183, El Cajon city, California, 06, 21712, 2021-01-19 14:47:03
+184, El Centro city, California, 06, 21782, 2021-01-19 14:47:03
+185, El Cerrito city, California, 06, 21796, 2021-01-19 14:47:03
+186, El Dorado Hills CDP, California, 06, 21880, 2021-01-19 14:47:03
+187, Elk Grove city, California, 06, 22020, 2021-01-19 14:47:03
+188, El Monte city, California, 06, 22230, 2021-01-19 14:47:03
+189, El Paso de Robles Paso Robles) city, California, 06, 22300, 2021-01-19 14:47:03
+190, Encinitas city, California, 06, 22678, 2021-01-19 14:47:03
+191, Escondido city, California, 06, 22804, 2021-01-19 14:47:03
+192, Eureka city, California, 06, 23042, 2021-01-19 14:47:03
+193, Fairfield city, California, 06, 23182, 2021-01-19 14:47:03
+194, Fair Oaks CDP, California, 06, 23294, 2021-01-19 14:47:03
+195, Fallbrook CDP, California, 06, 23462, 2021-01-19 14:47:03
+196, Florence-Graham CDP, California, 06, 24477, 2021-01-19 14:47:03
+197, Florin CDP, California, 06, 24498, 2021-01-19 14:47:03
+198, Folsom city, California, 06, 24638, 2021-01-19 14:47:03
+199, Fontana city, California, 06, 24680, 2021-01-19 14:47:03
+200, Foothill Farms CDP, California, 06, 24722, 2021-01-19 14:47:03
+201, Foster City city, California, 06, 25338, 2021-01-19 14:47:03
+202, Fountain Valley city, California, 06, 25380, 2021-01-19 14:47:03
+203, Fremont city, California, 06, 26000, 2021-01-19 14:47:03
+204, French Valley CDP, California, 06, 26067, 2021-01-19 14:47:03
+205, Fresno city, California, 06, 27000, 2021-01-19 14:47:03
+206, Fullerton city, California, 06, 28000, 2021-01-19 14:47:03
+207, Galt city, California, 06, 28112, 2021-01-19 14:47:03
+208, Gardena city, California, 06, 28168, 2021-01-19 14:47:03
+209, Garden Grove city, California, 06, 29000, 2021-01-19 14:47:03
+210, Gilroy city, California, 06, 29504, 2021-01-19 14:47:03
+211, Glendale city, California, 06, 30000, 2021-01-19 14:47:03
+212, Glendora city, California, 06, 30014, 2021-01-19 14:47:03
+213, Goleta city, California, 06, 30378, 2021-01-19 14:47:03
+214, Granite Bay CDP, California, 06, 30693, 2021-01-19 14:47:03
+215, Hacienda Heights CDP, California, 06, 31596, 2021-01-19 14:47:03
+216, Hanford city, California, 06, 31960, 2021-01-19 14:47:03
+217, Hawthorne city, California, 06, 32548, 2021-01-19 14:47:03
+218, Hayward city, California, 06, 33000, 2021-01-19 14:47:03
+219, Hemet city, California, 06, 33182, 2021-01-19 14:47:03
+220, Hercules city, California, 06, 33308, 2021-01-19 14:47:03
+221, Hesperia city, California, 06, 33434, 2021-01-19 14:47:03
+222, Highland city, California, 06, 33588, 2021-01-19 14:47:03
+223, Hollister city, California, 06, 34120, 2021-01-19 14:47:03
+224, Huntington Beach city, California, 06, 36000, 2021-01-19 14:47:03
+225, Huntington Park city, California, 06, 36056, 2021-01-19 14:47:03
+226, Imperial Beach city, California, 06, 36294, 2021-01-19 14:47:03
+227, Indio city, California, 06, 36448, 2021-01-19 14:47:03
+228, Inglewood city, California, 06, 36546, 2021-01-19 14:47:03
+229, Irvine city, California, 06, 36770, 2021-01-19 14:47:03
+230, Isla Vista CDP, California, 06, 36868, 2021-01-19 14:47:03
+231, Jurupa Valley city, California, 06, 37692, 2021-01-19 14:47:03
+232, La Cañada Flintridge city, California, 06, 39003, 2021-01-19 14:47:03
+233, Ladera Ranch CDP, California, 06, 39114, 2021-01-19 14:47:03
+234, Lafayette city, California, 06, 39122, 2021-01-19 14:47:03
+235, Elmwood Park village, Illinois, 17, 23724, 2021-01-19 14:47:03
+236, Evanston city, Illinois, 17, 24582, 2021-01-19 14:47:03
+237, Freeport city, Illinois, 17, 27884, 2021-01-19 14:47:03
+238, Galesburg city, Illinois, 17, 28326, 2021-01-19 14:47:03
+239, Geneva city, Illinois, 17, 28872, 2021-01-19 14:47:03
+240, Glendale Heights village, Illinois, 17, 29730, 2021-01-19 14:47:03
+241, Glen Ellyn village, Illinois, 17, 29756, 2021-01-19 14:47:03
+242, Glenview village, Illinois, 17, 29938, 2021-01-19 14:47:03
+243, Granite City city, Illinois, 17, 30926, 2021-01-19 14:47:03
+244, Grayslake village, Illinois, 17, 31121, 2021-01-19 14:47:03
+245, Gurnee village, Illinois, 17, 32018, 2021-01-19 14:47:03
+246, Hanover Park village, Illinois, 17, 32746, 2021-01-19 14:47:03
+247, Harvey city, Illinois, 17, 33383, 2021-01-19 14:47:03
+248, Highland Park city, Illinois, 17, 34722, 2021-01-19 14:47:03
+249, Hoffman Estates village, Illinois, 17, 35411, 2021-01-19 14:47:03
+250, Homer Glen village, Illinois, 17, 35835, 2021-01-19 14:47:03
+251, Huntley village, Illinois, 17, 36750, 2021-01-19 14:47:03
+252, Joliet city, Illinois, 17, 38570, 2021-01-19 14:47:03
+253, Kankakee city, Illinois, 17, 38934, 2021-01-19 14:47:03
+254, Lake in the Hills village, Illinois, 17, 41183, 2021-01-19 14:47:03
+255, Lake Zurich village, Illinois, 17, 41742, 2021-01-19 14:47:03
+256, Lansing village, Illinois, 17, 42028, 2021-01-19 14:47:03
+257, Libertyville village, Illinois, 17, 43250, 2021-01-19 14:47:03
+258, Lisle village, Illinois, 17, 43939, 2021-01-19 14:47:03
+259, Lockport city, Illinois, 17, 44225, 2021-01-19 14:47:03
+260, Lombard village, Illinois, 17, 44407, 2021-01-19 14:47:03
+261, Loves Park city, Illinois, 17, 45031, 2021-01-19 14:47:03
+262, McHenry city, Illinois, 17, 45694, 2021-01-19 14:47:03
+263, Machesney Park village, Illinois, 17, 45726, 2021-01-19 14:47:03
+264, Maywood village, Illinois, 17, 47774, 2021-01-19 14:47:03
+265, Melrose Park village, Illinois, 17, 48242, 2021-01-19 14:47:03
+266, Moline city, Illinois, 17, 49867, 2021-01-19 14:47:03
+267, Morton Grove village, Illinois, 17, 50647, 2021-01-19 14:47:03
+268, Mount Prospect village, Illinois, 17, 51089, 2021-01-19 14:47:03
+269, Mundelein village, Illinois, 17, 51349, 2021-01-19 14:47:03
+270, Naperville city, Illinois, 17, 51622, 2021-01-19 14:47:03
+271, New Lenox village, Illinois, 17, 52584, 2021-01-19 14:47:03
+272, Niles village, Illinois, 17, 53000, 2021-01-19 14:47:03
+273, Normal town, Illinois, 17, 53234, 2021-01-19 14:47:03
+274, Northbrook village, Illinois, 17, 53481, 2021-01-19 14:47:03
+275, North Chicago city, Illinois, 17, 53559, 2021-01-19 14:47:03
+276, Oak Forest city, Illinois, 17, 54638, 2021-01-19 14:47:03
+277, Oak Lawn village, Illinois, 17, 54820, 2021-01-19 14:47:03
+278, Oak Park village, Illinois, 17, 54885, 2021-01-19 14:47:03
+279, O\Fallon city, Illinois, 17, 55249, 2021-01-19 14:47:03
+280, Orland Park village, Illinois, 17, 56640, 2021-01-19 14:47:03
+281, Oswego village, Illinois, 17, 56887, 2021-01-19 14:47:03
+282, Palatine village, Illinois, 17, 57225, 2021-01-19 14:47:03
+283, Park Forest village, Illinois, 17, 57732, 2021-01-19 14:47:03
+284, Park Ridge city, Illinois, 17, 57875, 2021-01-19 14:47:03
+285, Pekin city, Illinois, 17, 58447, 2021-01-19 14:47:03
+286, Peoria city, Illinois, 17, 59000, 2021-01-19 14:47:03
+287, Plainfield village, Illinois, 17, 60287, 2021-01-19 14:47:03
+288, Quincy city, Illinois, 17, 62367, 2021-01-19 14:47:03
+289, Rockford city, Illinois, 17, 65000, 2021-01-19 14:47:03
+290, Rock Island city, Illinois, 17, 65078, 2021-01-19 14:47:03
+291, Rolling Meadows city, Illinois, 17, 65338, 2021-01-19 14:47:03
+292, Romeoville village, Illinois, 17, 65442, 2021-01-19 14:47:03
+293, Roselle village, Illinois, 17, 65806, 2021-01-19 14:47:03
+294, Round Lake Beach village, Illinois, 17, 66040, 2021-01-19 14:47:03
+295, St. Charles city, Illinois, 17, 66703, 2021-01-19 14:47:03
+296, Schaumburg village, Illinois, 17, 68003, 2021-01-19 14:47:03
+297, Skokie village, Illinois, 17, 70122, 2021-01-19 14:47:03
+298, South Elgin village, Illinois, 17, 70720, 2021-01-19 14:47:03
+299, South Holland village, Illinois, 17, 70850, 2021-01-19 14:47:03
+300, Springfield city, Illinois, 17, 72000, 2021-01-19 14:47:03
+301, Streamwood village, Illinois, 17, 73157, 2021-01-19 14:47:03
+302, Tinley Park village, Illinois, 17, 75484, 2021-01-19 14:47:03
+303, Urbana city, Illinois, 17, 77005, 2021-01-19 14:47:03
+304, Vernon Hills village, Illinois, 17, 77694, 2021-01-19 14:47:03
+305, Villa Park village, Illinois, 17, 77993, 2021-01-19 14:47:03
+306, Waukegan city, Illinois, 17, 79293, 2021-01-19 14:47:03
+307, West Chicago city, Illinois, 17, 80060, 2021-01-19 14:47:03
+308, Westmont village, Illinois, 17, 80645, 2021-01-19 14:47:03
+309, Wheaton city, Illinois, 17, 81048, 2021-01-19 14:47:03
+310, Wheeling village, Illinois, 17, 81087, 2021-01-19 14:47:03
+311, Wilmette village, Illinois, 17, 82075, 2021-01-19 14:47:03
+312, Woodridge village, Illinois, 17, 83245, 2021-01-19 14:47:03
+313, Woodstock city, Illinois, 17, 83349, 2021-01-19 14:47:03
+314, Zion city, Illinois, 17, 84220, 2021-01-19 14:47:03
+315, Anderson city, Indiana, 18, 01468, 2021-01-19 14:47:03
+316, Bloomington city, Indiana, 18, 05860, 2021-01-19 14:47:03
+317, Brownsburg town, Indiana, 18, 08416, 2021-01-19 14:47:03
+318, Carmel city, Indiana, 18, 10342, 2021-01-19 14:47:03
+319, Clarksville town, Indiana, 18, 12934, 2021-01-19 14:47:03
+320, Columbus city, Indiana, 18, 14734, 2021-01-19 14:47:03
+321, Crown Point city, Indiana, 18, 16138, 2021-01-19 14:47:03
+322, East Chicago city, Indiana, 18, 19486, 2021-01-19 14:47:03
+323, Elkhart city, Indiana, 18, 20728, 2021-01-19 14:47:03
+324, Evansville city, Indiana, 18, 22000, 2021-01-19 14:47:03
+325, Fishers city, Indiana, 18, 23278, 2021-01-19 14:47:03
+326, Fort Wayne city, Indiana, 18, 25000, 2021-01-19 14:47:03
+327, Franklin city, Indiana, 18, 25450, 2021-01-19 14:47:03
+328, Gary city, Indiana, 18, 27000, 2021-01-19 14:47:03
+329, Goshen city, Indiana, 18, 28386, 2021-01-19 14:47:03
+330, Granger CDP, Indiana, 18, 28800, 2021-01-19 14:47:03
+331, Greenfield city, Indiana, 18, 29520, 2021-01-19 14:47:03
+332, Greenwood city, Indiana, 18, 29898, 2021-01-19 14:47:03
+333, Hammond city, Indiana, 18, 31000, 2021-01-19 14:47:03
+334, Highland town, Indiana, 18, 33466, 2021-01-19 14:47:03
+335, Hobart city, Indiana, 18, 34114, 2021-01-19 14:47:03
+336, Indianapolis city balance, Indiana, 18, 36003, 2021-01-19 14:47:03
+337, Jeffersonville city, Indiana, 18, 38358, 2021-01-19 14:47:03
+338, Kokomo city, Indiana, 18, 40392, 2021-01-19 14:47:03
+339, Lafayette city, Indiana, 18, 40788, 2021-01-19 14:47:03
+340, La Porte city, Indiana, 18, 42246, 2021-01-19 14:47:03
+341, Lawrence city, Indiana, 18, 42426, 2021-01-19 14:47:03
+342, Marion city, Indiana, 18, 46908, 2021-01-19 14:47:03
+343, Merrillville town, Indiana, 18, 48528, 2021-01-19 14:47:03
+344, Michigan City city, Indiana, 18, 48798, 2021-01-19 14:47:03
+345, Mishawaka city, Indiana, 18, 49932, 2021-01-19 14:47:03
+346, Muncie city, Indiana, 18, 51876, 2021-01-19 14:47:03
+347, Munster town, Indiana, 18, 51912, 2021-01-19 14:47:03
+348, New Albany city, Indiana, 18, 52326, 2021-01-19 14:47:03
+349, Noblesville city, Indiana, 18, 54180, 2021-01-19 14:47:03
+350, Plainfield town, Indiana, 18, 60246, 2021-01-19 14:47:03
+351, Portage city, Indiana, 18, 61092, 2021-01-19 14:47:03
+352, Richmond city, Indiana, 18, 64260, 2021-01-19 14:47:03
+353, Schererville town, Indiana, 18, 68220, 2021-01-19 14:47:03
+354, South Bend city, Indiana, 18, 71000, 2021-01-19 14:47:03
+355, Terre Haute city, Indiana, 18, 75428, 2021-01-19 14:47:03
+356, Valparaiso city, Indiana, 18, 78326, 2021-01-19 14:47:03
+357, Westfield city, Indiana, 18, 82700, 2021-01-19 14:47:03
+358, West Lafayette city, Indiana, 18, 82862, 2021-01-19 14:47:03
+359, Zionsville town, Indiana, 18, 86372, 2021-01-19 14:47:03
+360, Ames city, Iowa, 19, 01855, 2021-01-19 14:47:03
+361, Ankeny city, Iowa, 19, 02305, 2021-01-19 14:47:03
+362, Bettendorf city, Iowa, 19, 06355, 2021-01-19 14:47:03
+363, Burlington city, Iowa, 19, 09550, 2021-01-19 14:47:03
+364, Cedar Falls city, Iowa, 19, 11755, 2021-01-19 14:47:03
+365, Cedar Rapids city, Iowa, 19, 12000, 2021-01-19 14:47:03
+366, Clinton city, Iowa, 19, 14430, 2021-01-19 14:47:03
+367, Coralville city, Iowa, 19, 16230, 2021-01-19 14:47:03
+368, Council Bluffs city, Iowa, 19, 16860, 2021-01-19 14:47:03
+369, Davenport city, Iowa, 19, 19000, 2021-01-19 14:47:03
+370, Des Moines city, Iowa, 19, 21000, 2021-01-19 14:47:03
+371, Dubuque city, Iowa, 19, 22395, 2021-01-19 14:47:03
+372, Fort Dodge city, Iowa, 19, 28515, 2021-01-19 14:47:03
+373, Iowa City city, Iowa, 19, 38595, 2021-01-19 14:47:03
+374, Johnston city, Iowa, 19, 39765, 2021-01-19 14:47:03
+375, Marion city, Iowa, 19, 49485, 2021-01-19 14:47:03
+376, Marshalltown city, Iowa, 19, 49755, 2021-01-19 14:47:03
+377, Mason City city, Iowa, 19, 50160, 2021-01-19 14:47:03
+378, Muscatine city, Iowa, 19, 55110, 2021-01-19 14:47:03
+379, Ottumwa city, Iowa, 19, 60465, 2021-01-19 14:47:03
+380, Sioux City city, Iowa, 19, 73335, 2021-01-19 14:47:03
+381, Urbandale city, Iowa, 19, 79950, 2021-01-19 14:47:03
+382, Waterloo city, Iowa, 19, 82425, 2021-01-19 14:47:03
+383, West Des Moines city, Iowa, 19, 83910, 2021-01-19 14:47:03
+384, Derby city, Kansas, 20, 17800, 2021-01-19 14:47:03
+385, Dodge City city, Kansas, 20, 18250, 2021-01-19 14:47:03
+386, Emporia city, Kansas, 20, 21275, 2021-01-19 14:47:03
+387, Garden City city, Kansas, 20, 25325, 2021-01-19 14:47:03
+388, Gardner city, Kansas, 20, 25425, 2021-01-19 14:47:03
+389, Hays city, Kansas, 20, 31100, 2021-01-19 14:47:03
+390, Hutchinson city, Kansas, 20, 33625, 2021-01-19 14:47:03
+391, Junction City city, Kansas, 20, 35750, 2021-01-19 14:47:03
+392, Kansas City city, Kansas, 20, 36000, 2021-01-19 14:47:03
+393, Lawrence city, Kansas, 20, 38900, 2021-01-19 14:47:03
+394, Leavenworth city, Kansas, 20, 39000, 2021-01-19 14:47:03
+395, Leawood city, Kansas, 20, 39075, 2021-01-19 14:47:03
+396, Lenexa city, Kansas, 20, 39350, 2021-01-19 14:47:03
+397, Liberal city, Kansas, 20, 39825, 2021-01-19 14:47:03
+398, Manhattan city, Kansas, 20, 44250, 2021-01-19 14:47:03
+399, Olathe city, Kansas, 20, 52575, 2021-01-19 14:47:03
+400, Overland Park city, Kansas, 20, 53775, 2021-01-19 14:47:03
+401, Pittsburg city, Kansas, 20, 56025, 2021-01-19 14:47:03
+402, Prairie Village city, Kansas, 20, 57575, 2021-01-19 14:47:03
+403, Salina city, Kansas, 20, 62700, 2021-01-19 14:47:03
+404, Shawnee city, Kansas, 20, 64500, 2021-01-19 14:47:03
+405, Topeka city, Kansas, 20, 71000, 2021-01-19 14:47:03
+406, Wichita city, Kansas, 20, 79000, 2021-01-19 14:47:03
+407, Ashland city, Kentucky, 21, 02368, 2021-01-19 14:47:03
+408, Bowling Green city, Kentucky, 21, 08902, 2021-01-19 14:47:03
+409, Covington city, Kentucky, 21, 17848, 2021-01-19 14:47:03
+410, Elizabethtown city, Kentucky, 21, 24274, 2021-01-19 14:47:03
+411, Florence city, Kentucky, 21, 27982, 2021-01-19 14:47:03
+412, Frankfort city, Kentucky, 21, 28900, 2021-01-19 14:47:03
+413, Georgetown city, Kentucky, 21, 30700, 2021-01-19 14:47:03
+414, Henderson city, Kentucky, 21, 35866, 2021-01-19 14:47:03
+415, Hopkinsville city, Kentucky, 21, 37918, 2021-01-19 14:47:03
+416, Independence city, Kentucky, 21, 39142, 2021-01-19 14:47:03
+417, Jeffersontown city, Kentucky, 21, 40222, 2021-01-19 14:47:03
+418, Lexington-Fayette urban county, Kentucky, 21, 46027, 2021-01-19 14:47:03
+419, Louisville/Jefferson County metro government balance, Kentucky, 21, 48006, 2021-01-19 14:47:03
+420, Nicholasville city, Kentucky, 21, 56136, 2021-01-19 14:47:03
+421, Owensboro city, Kentucky, 21, 58620, 2021-01-19 14:47:03
+422, Paducah city, Kentucky, 21, 58836, 2021-01-19 14:47:03
+423, Radcliff city, Kentucky, 21, 63912, 2021-01-19 14:47:03
+424, Richmond city, Kentucky, 21, 65226, 2021-01-19 14:47:03
+425, Alexandria city, Louisiana, 22, 00975, 2021-01-19 14:47:03
+426, Baton Rouge city, Louisiana, 22, 05000, 2021-01-19 14:47:03
+427, Bayou Cane CDP, Louisiana, 22, 05210, 2021-01-19 14:47:03
+428, Bossier City city, Louisiana, 22, 08920, 2021-01-19 14:47:03
+429, Central city, Louisiana, 22, 13960, 2021-01-19 14:47:03
+430, Chalmette CDP, Louisiana, 22, 14135, 2021-01-19 14:47:03
+431, Hammond city, Louisiana, 22, 32755, 2021-01-19 14:47:03
+432, Harvey CDP, Louisiana, 22, 33245, 2021-01-19 14:47:03
+433, Houma city, Louisiana, 22, 36255, 2021-01-19 14:47:03
+434, Kenner city, Louisiana, 22, 39475, 2021-01-19 14:47:03
+435, Lafayette city, Louisiana, 22, 40735, 2021-01-19 14:47:03
+436, Lake Charles city, Louisiana, 22, 41155, 2021-01-19 14:47:03
+437, Laplace CDP, Louisiana, 22, 42030, 2021-01-19 14:47:03
+438, Marrero CDP, Louisiana, 22, 48785, 2021-01-19 14:47:03
+439, Metairie CDP, Louisiana, 22, 50115, 2021-01-19 14:47:03
+440, Monroe city, Louisiana, 22, 51410, 2021-01-19 14:47:03
+441, New Iberia city, Louisiana, 22, 54035, 2021-01-19 14:47:03
+442, New Orleans city, Louisiana, 22, 55000, 2021-01-19 14:47:03
+443, Prairieville CDP, Louisiana, 22, 62385, 2021-01-19 14:47:03
+444, Ruston city, Louisiana, 22, 66655, 2021-01-19 14:47:03
+445, Shreveport city, Louisiana, 22, 70000, 2021-01-19 14:47:03
+446, Slidell city, Louisiana, 22, 70805, 2021-01-19 14:47:03
+447, Sulphur city, Louisiana, 22, 73640, 2021-01-19 14:47:03
+448, Terrytown CDP, Louisiana, 22, 75180, 2021-01-19 14:47:03
+449, Auburn city, Maine, 23, 02060, 2021-01-19 14:47:03
+450, Bangor city, Maine, 23, 02795, 2021-01-19 14:47:03
+451, Biddeford city, Maine, 23, 04860, 2021-01-19 14:47:03
+452, Lewiston city, Maine, 23, 38740, 2021-01-19 14:47:03
+453, Portland city, Maine, 23, 60545, 2021-01-19 14:47:03
+454, Sanford city, Maine, 23, 65725, 2021-01-19 14:47:03
+455, South Portland city, Maine, 23, 71990, 2021-01-19 14:47:03
+456, Annapolis city, Maryland, 24, 01600, 2021-01-19 14:47:03
+457, Arbutus CDP, Maryland, 24, 01975, 2021-01-19 14:47:03
+458, Arnold CDP, Maryland, 24, 02275, 2021-01-19 14:47:03
+459, Aspen Hill CDP, Maryland, 24, 02825, 2021-01-19 14:47:03
+460, Baltimore city, Maryland, 24, 04000, 2021-01-19 14:47:03
+461, Bel Air North CDP, Maryland, 24, 05825, 2021-01-19 14:47:03
+462, Bel Air South CDP, Maryland, 24, 05950, 2021-01-19 14:47:03
+463, Bethesda CDP, Maryland, 24, 07125, 2021-01-19 14:47:03
+464, Bowie city, Maryland, 24, 08775, 2021-01-19 14:47:03
+465, Camp Springs CDP, Maryland, 24, 12600, 2021-01-19 14:47:03
+466, Carney CDP, Maryland, 24, 13325, 2021-01-19 14:47:03
+467, Catonsville CDP, Maryland, 24, 14125, 2021-01-19 14:47:03
+468, Chillum CDP, Maryland, 24, 16875, 2021-01-19 14:47:03
+469, Clarksburg CDP, Maryland, 24, 17350, 2021-01-19 14:47:03
+470, Clinton CDP, Maryland, 24, 17900, 2021-01-19 14:47:03
+471, Cockeysville CDP, Maryland, 24, 18250, 2021-01-19 14:47:03
+472, College Park city, Maryland, 24, 18750, 2021-01-19 14:47:03
+473, Columbia CDP, Maryland, 24, 19125, 2021-01-19 14:47:03
+474, Crofton CDP, Maryland, 24, 20875, 2021-01-19 14:47:03
+475, Cumberland city, Maryland, 24, 21325, 2021-01-19 14:47:03
+476, Dundalk CDP, Maryland, 24, 23975, 2021-01-19 14:47:03
+477, Edgewood CDP, Maryland, 24, 25150, 2021-01-19 14:47:03
+478, Eldersburg CDP, Maryland, 24, 25575, 2021-01-19 14:47:03
+479, Ellicott City CDP, Maryland, 24, 26000, 2021-01-19 14:47:03
+480, Essex CDP, Maryland, 24, 26600, 2021-01-19 14:47:03
+481, Fairland CDP, Maryland, 24, 27250, 2021-01-19 14:47:03
+482, Fort Washington CDP, Maryland, 24, 29525, 2021-01-19 14:47:03
+483, Frederick city, Maryland, 24, 30325, 2021-01-19 14:47:03
+484, Gaithersburg city, Maryland, 24, 31175, 2021-01-19 14:47:03
+485, Germantown CDP, Maryland, 24, 32025, 2021-01-19 14:47:03
+486, Glen Burnie CDP, Maryland, 24, 32650, 2021-01-19 14:47:03
+487, Greenbelt city, Maryland, 24, 34775, 2021-01-19 14:47:03
+488, Hagerstown city, Maryland, 24, 36075, 2021-01-19 14:47:03
+489, Ilchester CDP, Maryland, 24, 41475, 2021-01-19 14:47:03
+490, Landover CDP, Maryland, 24, 45325, 2021-01-19 14:47:03
+491, Langley Park CDP, Maryland, 24, 45525, 2021-01-19 14:47:03
+492, Laurel city, Maryland, 24, 45900, 2021-01-19 14:47:03
+493, Lochearn CDP, Maryland, 24, 47450, 2021-01-19 14:47:03
+494, Middle River CDP, Maryland, 24, 52300, 2021-01-19 14:47:03
+495, Milford Mill CDP, Maryland, 24, 52562, 2021-01-19 14:47:03
+496, Montgomery Village CDP, Maryland, 24, 53325, 2021-01-19 14:47:03
+497, North Bethesda CDP, Maryland, 24, 56337, 2021-01-19 14:47:03
+498, North Laurel CDP, Maryland, 24, 56725, 2021-01-19 14:47:03
+499, North Potomac CDP, Maryland, 24, 56875, 2021-01-19 14:47:03
+500, Odenton CDP, Maryland, 24, 58300, 2021-01-19 14:47:03
+501, Olney CDP, Maryland, 24, 58900, 2021-01-19 14:47:03
+502, Owings Mills CDP, Maryland, 24, 59425, 2021-01-19 14:47:03
+503, Oxon Hill CDP, Maryland, 24, 59500, 2021-01-19 14:47:03
+504, Parkville CDP, Maryland, 24, 60275, 2021-01-19 14:47:03
+505, Pasadena CDP, Maryland, 24, 60475, 2021-01-19 14:47:03
+506, Perry Hall CDP, Maryland, 24, 60975, 2021-01-19 14:47:03
+507, Pikesville CDP, Maryland, 24, 61400, 2021-01-19 14:47:03
+508, Potomac CDP, Maryland, 24, 63300, 2021-01-19 14:47:03
+509, Randallstown CDP, Maryland, 24, 64950, 2021-01-19 14:47:03
+510, Reisterstown CDP, Maryland, 24, 65600, 2021-01-19 14:47:03
+511, Rockville city, Maryland, 24, 67675, 2021-01-19 14:47:03
+512, Salisbury city, Maryland, 24, 69925, 2021-01-19 14:47:03
+513, Severn CDP, Maryland, 24, 71150, 2021-01-19 14:47:03
+514, Severna Park CDP, Maryland, 24, 71200, 2021-01-19 14:47:03
+515, Silver Spring CDP, Maryland, 24, 72450, 2021-01-19 14:47:03
+516, South Laurel CDP, Maryland, 24, 73650, 2021-01-19 14:47:03
+517, Suitland CDP, Maryland, 24, 75725, 2021-01-19 14:47:03
+518, Towson CDP, Maryland, 24, 78425, 2021-01-19 14:47:03
+519, Waldorf CDP, Maryland, 24, 81175, 2021-01-19 14:47:03
+520, Wheaton CDP, Maryland, 24, 83775, 2021-01-19 14:47:03
+521, Woodlawn CDP Baltimore County, Maryland, 24, 86475, 2021-01-19 14:47:03
+522, Agawam Town city, Massachusetts, 25, 00840, 2021-01-19 14:47:03
+523, Arlington CDP, Massachusetts, 25, 01640, 2021-01-19 14:47:03
+524, Attleboro city, Massachusetts, 25, 02690, 2021-01-19 14:47:03
+525, Barnstable Town city, Massachusetts, 25, 03690, 2021-01-19 14:47:03
+526, Belmont CDP, Massachusetts, 25, 05105, 2021-01-19 14:47:03
+527, Beverly city, Massachusetts, 25, 05595, 2021-01-19 14:47:03
+528, Boston city, Massachusetts, 25, 07000, 2021-01-19 14:47:03
+529, Braintree Town city, Massachusetts, 25, 07740, 2021-01-19 14:47:03
+530, Brockton city, Massachusetts, 25, 09000, 2021-01-19 14:47:03
+531, Brookline CDP, Massachusetts, 25, 09210, 2021-01-19 14:47:03
+532, Burlington CDP, Massachusetts, 25, 09875, 2021-01-19 14:47:03
+533, Cambridge city, Massachusetts, 25, 11000, 2021-01-19 14:47:03
+534, Chelsea city, Massachusetts, 25, 13205, 2021-01-19 14:47:03
+535, Chicopee city, Massachusetts, 25, 13660, 2021-01-19 14:47:03
+536, Danvers CDP, Massachusetts, 25, 16285, 2021-01-19 14:47:03
+537, Dedham CDP, Massachusetts, 25, 16530, 2021-01-19 14:47:03
+538, Everett city, Massachusetts, 25, 21990, 2021-01-19 14:47:03
+539, Fall River city, Massachusetts, 25, 23000, 2021-01-19 14:47:03
+540, Fitchburg city, Massachusetts, 25, 23875, 2021-01-19 14:47:03
+541, Framingham city, Massachusetts, 25, 24960, 2021-01-19 14:47:03
+542, Franklin Town city, Massachusetts, 25, 25172, 2021-01-19 14:47:03
+543, Gardner city, Massachusetts, 25, 25485, 2021-01-19 14:47:03
+544, Gloucester city, Massachusetts, 25, 26150, 2021-01-19 14:47:03
+545, Haverhill city, Massachusetts, 25, 29405, 2021-01-19 14:47:03
+546, Holyoke city, Massachusetts, 25, 30840, 2021-01-19 14:47:03
+547, Lawrence city, Massachusetts, 25, 34550, 2021-01-19 14:47:03
+548, Leominster city, Massachusetts, 25, 35075, 2021-01-19 14:47:03
+549, Lexington CDP, Massachusetts, 25, 35250, 2021-01-19 14:47:03
+550, Lowell city, Massachusetts, 25, 37000, 2021-01-19 14:47:03
+551, Lynn city, Massachusetts, 25, 37490, 2021-01-19 14:47:03
+552, Malden city, Massachusetts, 25, 37875, 2021-01-19 14:47:03
+553, Marblehead CDP, Massachusetts, 25, 38435, 2021-01-19 14:47:03
+554, Marlborough city, Massachusetts, 25, 38715, 2021-01-19 14:47:03
+555, Medford city, Massachusetts, 25, 39835, 2021-01-19 14:47:03
+556, Melrose city, Massachusetts, 25, 40115, 2021-01-19 14:47:03
+557, Methuen Town city, Massachusetts, 25, 40710, 2021-01-19 14:47:03
+558, Milford CDP, Massachusetts, 25, 41200, 2021-01-19 14:47:03
+559, Milton CDP, Massachusetts, 25, 41725, 2021-01-19 14:47:03
+560, Needham CDP, Massachusetts, 25, 44140, 2021-01-19 14:47:03
+561, New Bedford city, Massachusetts, 25, 45000, 2021-01-19 14:47:03
+562, Newton city, Massachusetts, 25, 45560, 2021-01-19 14:47:03
+563, Northampton city, Massachusetts, 25, 46330, 2021-01-19 14:47:03
+564, Norwood CDP, Massachusetts, 25, 50285, 2021-01-19 14:47:03
+565, Peabody city, Massachusetts, 25, 52490, 2021-01-19 14:47:03
+566, Pittsfield city, Massachusetts, 25, 53960, 2021-01-19 14:47:03
+567, Quincy city, Massachusetts, 25, 55745, 2021-01-19 14:47:03
+568, Randolph CDP, Massachusetts, 25, 55990, 2021-01-19 14:47:03
+569, Reading CDP, Massachusetts, 25, 56165, 2021-01-19 14:47:03
+570, Revere city, Massachusetts, 25, 56585, 2021-01-19 14:47:03
+571, Salem city, Massachusetts, 25, 59105, 2021-01-19 14:47:03
+572, Saugus CDP, Massachusetts, 25, 60050, 2021-01-19 14:47:03
+573, Somerset CDP, Massachusetts, 25, 62465, 2021-01-19 14:47:03
+574, Somerville city, Massachusetts, 25, 62535, 2021-01-19 14:47:03
+575, Springfield city, Massachusetts, 25, 67000, 2021-01-19 14:47:03
+576, Stoneham CDP, Massachusetts, 25, 67700, 2021-01-19 14:47:03
+577, Taunton city, Massachusetts, 25, 69170, 2021-01-19 14:47:03
+578, Wakefield CDP, Massachusetts, 25, 72250, 2021-01-19 14:47:03
+579, Waltham city, Massachusetts, 25, 72600, 2021-01-19 14:47:03
+580, Watertown Town city, Massachusetts, 25, 73440, 2021-01-19 14:47:03
+581, Wellesley CDP, Massachusetts, 25, 74210, 2021-01-19 14:47:03
+582, Westfield city, Massachusetts, 25, 76030, 2021-01-19 14:47:03
+583, West Springfield Town city, Massachusetts, 25, 77890, 2021-01-19 14:47:03
+584, Weymouth Town city, Massachusetts, 25, 78972, 2021-01-19 14:47:03
+585, Wilmington CDP, Massachusetts, 25, 80195, 2021-01-19 14:47:03
+586, Winchester CDP, Massachusetts, 25, 80545, 2021-01-19 14:47:03
+587, Woburn city, Massachusetts, 25, 81035, 2021-01-19 14:47:03
+588, Worcester city, Massachusetts, 25, 82000, 2021-01-19 14:47:03
+589, Adrian city, Michigan, 26, 00440, 2021-01-19 14:47:03
+590, Allendale CDP, Michigan, 26, 01340, 2021-01-19 14:47:03
+591, Allen Park city, Michigan, 26, 01380, 2021-01-19 14:47:03
+592, Ann Arbor city, Michigan, 26, 03000, 2021-01-19 14:47:03
+593, Auburn Hills city, Michigan, 26, 04105, 2021-01-19 14:47:03
+594, Battle Creek city, Michigan, 26, 05920, 2021-01-19 14:47:03
+595, Bay City city, Michigan, 26, 06020, 2021-01-19 14:47:03
+596, Birmingham city, Michigan, 26, 08640, 2021-01-19 14:47:03
+597, Burton city, Michigan, 26, 12060, 2021-01-19 14:47:03
+598, Dearborn city, Michigan, 26, 21000, 2021-01-19 14:47:03
+599, Dearborn Heights city, Michigan, 26, 21020, 2021-01-19 14:47:03
+600, Detroit city, Michigan, 26, 22000, 2021-01-19 14:47:03
+601, East Lansing city, Michigan, 26, 24120, 2021-01-19 14:47:03
+602, Eastpointe city, Michigan, 26, 24290, 2021-01-19 14:47:03
+603, Farmington Hills city, Michigan, 26, 27440, 2021-01-19 14:47:03
+604, Ferndale city, Michigan, 26, 27880, 2021-01-19 14:47:03
+605, Flint city, Michigan, 26, 29000, 2021-01-19 14:47:03
+606, Forest Hills CDP, Michigan, 26, 29580, 2021-01-19 14:47:03
+607, Garden City city, Michigan, 26, 31420, 2021-01-19 14:47:03
+608, Grand Rapids city, Michigan, 26, 34000, 2021-01-19 14:47:03
+609, Hamtramck city, Michigan, 26, 36280, 2021-01-19 14:47:03
+610, Haslett CDP, Michigan, 26, 37100, 2021-01-19 14:47:03
+611, Holland city, Michigan, 26, 38640, 2021-01-19 14:47:03
+612, Holt CDP, Michigan, 26, 38780, 2021-01-19 14:47:03
+613, Inkster city, Michigan, 26, 40680, 2021-01-19 14:47:03
+614, Jackson city, Michigan, 26, 41420, 2021-01-19 14:47:03
+615, Kalamazoo city, Michigan, 26, 42160, 2021-01-19 14:47:03
+616, Kentwood city, Michigan, 26, 42820, 2021-01-19 14:47:03
+617, Lansing city, Michigan, 26, 46000, 2021-01-19 14:47:03
+618, Lincoln Park city, Michigan, 26, 47800, 2021-01-19 14:47:03
+619, Livonia city, Michigan, 26, 49000, 2021-01-19 14:47:03
+620, Madison Heights city, Michigan, 26, 50560, 2021-01-19 14:47:03
+621, Marquette city, Michigan, 26, 51900, 2021-01-19 14:47:03
+622, Midland city, Michigan, 26, 53780, 2021-01-19 14:47:03
+623, Monroe city, Michigan, 26, 55020, 2021-01-19 14:47:03
+624, Mount Pleasant city, Michigan, 26, 56020, 2021-01-19 14:47:03
+625, Muskegon city, Michigan, 26, 56320, 2021-01-19 14:47:03
+626, Norton Shores city, Michigan, 26, 59140, 2021-01-19 14:47:03
+627, Novi city, Michigan, 26, 59440, 2021-01-19 14:47:03
+628, Oak Park city, Michigan, 26, 59920, 2021-01-19 14:47:03
+629, Okemos CDP, Michigan, 26, 60340, 2021-01-19 14:47:03
+630, Pontiac city, Michigan, 26, 65440, 2021-01-19 14:47:03
+631, Portage city, Michigan, 26, 65560, 2021-01-19 14:47:03
+632, Port Huron city, Michigan, 26, 65820, 2021-01-19 14:47:03
+633, Rochester Hills city, Michigan, 26, 69035, 2021-01-19 14:47:03
+634, Romulus city, Michigan, 26, 69420, 2021-01-19 14:47:03
+635, Roseville city, Michigan, 26, 69800, 2021-01-19 14:47:03
+636, Royal Oak city, Michigan, 26, 70040, 2021-01-19 14:47:03
+637, Saginaw city, Michigan, 26, 70520, 2021-01-19 14:47:03
+638, St. Clair Shores city, Michigan, 26, 70760, 2021-01-19 14:47:03
+639, Southfield city, Michigan, 26, 74900, 2021-01-19 14:47:03
+640, Southgate city, Michigan, 26, 74960, 2021-01-19 14:47:03
+641, Sterling Heights city, Michigan, 26, 76460, 2021-01-19 14:47:03
+642, Taylor city, Michigan, 26, 79000, 2021-01-19 14:47:03
+643, Troy city, Michigan, 26, 80700, 2021-01-19 14:47:03
+644, Walker city, Michigan, 26, 82960, 2021-01-19 14:47:03
+645, Warren city, Michigan, 26, 84000, 2021-01-19 14:47:03
+646, Waverly CDP, Michigan, 26, 84800, 2021-01-19 14:47:03
+647, Westland city, Michigan, 26, 86000, 2021-01-19 14:47:03
+648, Wyandotte city, Michigan, 26, 88900, 2021-01-19 14:47:03
+649, Wyoming city, Michigan, 26, 88940, 2021-01-19 14:47:03
+650, Ypsilanti city, Michigan, 26, 89140, 2021-01-19 14:47:03
+651, Andover city, Minnesota, 27, 01486, 2021-01-19 14:47:03
+652, Apple Valley city, Minnesota, 27, 01900, 2021-01-19 14:47:03
+653, Austin city, Minnesota, 27, 02908, 2021-01-19 14:47:03
+654, Blaine city, Minnesota, 27, 06382, 2021-01-19 14:47:03
+655, Bloomington city, Minnesota, 27, 06616, 2021-01-19 14:47:03
+656, Brooklyn Center city, Minnesota, 27, 07948, 2021-01-19 14:47:03
+657, Brooklyn Park city, Minnesota, 27, 07966, 2021-01-19 14:47:03
+658, Burnsville city, Minnesota, 27, 08794, 2021-01-19 14:47:03
+659, Champlin city, Minnesota, 27, 10846, 2021-01-19 14:47:03
+660, Chanhassen city, Minnesota, 27, 10918, 2021-01-19 14:47:03
+661, Chaska city, Minnesota, 27, 10972, 2021-01-19 14:47:03
+662, Coon Rapids city, Minnesota, 27, 13114, 2021-01-19 14:47:03
+663, Cottage Grove city, Minnesota, 27, 13456, 2021-01-19 14:47:03
+664, Crystal city, Minnesota, 27, 14158, 2021-01-19 14:47:03
+665, Duluth city, Minnesota, 27, 17000, 2021-01-19 14:47:03
+666, Eagan city, Minnesota, 27, 17288, 2021-01-19 14:47:03
+667, Eden Prairie city, Minnesota, 27, 18116, 2021-01-19 14:47:03
+668, Edina city, Minnesota, 27, 18188, 2021-01-19 14:47:03
+669, Elk River city, Minnesota, 27, 18674, 2021-01-19 14:47:03
+670, Faribault city, Minnesota, 27, 20546, 2021-01-19 14:47:03
+671, Farmington city, Minnesota, 27, 20618, 2021-01-19 14:47:03
+672, Fridley city, Minnesota, 27, 22814, 2021-01-19 14:47:03
+673, Golden Valley city, Minnesota, 27, 24308, 2021-01-19 14:47:03
+674, Hastings city, Minnesota, 27, 27530, 2021-01-19 14:47:03
+675, Inver Grove Heights city, Minnesota, 27, 31076, 2021-01-19 14:47:03
+676, Lakeville city, Minnesota, 27, 35180, 2021-01-19 14:47:03
+677, Lino Lakes city, Minnesota, 27, 37322, 2021-01-19 14:47:03
+678, Mankato city, Minnesota, 27, 39878, 2021-01-19 14:47:03
+679, Maple Grove city, Minnesota, 27, 40166, 2021-01-19 14:47:03
+680, Maplewood city, Minnesota, 27, 40382, 2021-01-19 14:47:03
+681, Minneapolis city, Minnesota, 27, 43000, 2021-01-19 14:47:03
+682, Minnetonka city, Minnesota, 27, 43252, 2021-01-19 14:47:03
+683, Moorhead city, Minnesota, 27, 43864, 2021-01-19 14:47:03
+684, Laguna Beach city, California, 06, 39178, 2021-01-19 14:47:03
+685, Laguna Hills city, California, 06, 39220, 2021-01-19 14:47:03
+686, Laguna Niguel city, California, 06, 39248, 2021-01-19 14:47:03
+687, La Habra city, California, 06, 39290, 2021-01-19 14:47:03
+688, Lake Elsinore city, California, 06, 39486, 2021-01-19 14:47:03
+689, Lake Forest city, California, 06, 39496, 2021-01-19 14:47:03
+690, Lakeside CDP, California, 06, 39766, 2021-01-19 14:47:03
+691, Lakewood city, California, 06, 39892, 2021-01-19 14:47:03
+692, La Mesa city, California, 06, 40004, 2021-01-19 14:47:03
+693, La Mirada city, California, 06, 40032, 2021-01-19 14:47:03
+694, Lancaster city, California, 06, 40130, 2021-01-19 14:47:03
+695, La Presa CDP, California, 06, 40326, 2021-01-19 14:47:03);
+696, La Puente city, California, 06, 40340, 2021-01-19 14:47:03
+697, La Quinta city, California, 06, 40354, 2021-01-19 14:47:03
+698, Lathrop city, California, 06, 40704, 2021-01-19 14:47:03
+699, La Verne city, California, 06, 40830, 2021-01-19 14:47:03
+700, Lawndale city, California, 06, 40886, 2021-01-19 14:47:03
+701, Lemon Grove city, California, 06, 41124, 2021-01-19 14:47:03
+702, Lemoore city, California, 06, 41152, 2021-01-19 14:47:03
+703, Lennox CDP, California, 06, 41180, 2021-01-19 14:47:03
+704, Lincoln city, California, 06, 41474, 2021-01-19 14:47:03
+705, Livermore city, California, 06, 41992, 2021-01-19 14:47:03
+706, Lodi city, California, 06, 42202, 2021-01-19 14:47:03
+707, Loma Linda city, California, 06, 42370, 2021-01-19 14:47:03
+708, Lomita city, California, 06, 42468, 2021-01-19 14:47:03
+709, Lompoc city, California, 06, 42524, 2021-01-19 14:47:03
+710, Long Beach city, California, 06, 43000, 2021-01-19 14:47:03
+711, Los Altos city, California, 06, 43280, 2021-01-19 14:47:03
+712, Los Angeles city, California, 06, 44000, 2021-01-19 14:47:03
+713, Los Banos city, California, 06, 44028, 2021-01-19 14:47:03
+714, Los Gatos town, California, 06, 44112, 2021-01-19 14:47:03
+715, Lynwood city, California, 06, 44574, 2021-01-19 14:47:03
+716, Madera city, California, 06, 45022, 2021-01-19 14:47:03
+717, Manhattan Beach city, California, 06, 45400, 2021-01-19 14:47:03
+718, Manteca city, California, 06, 45484, 2021-01-19 14:47:03
+719, Marina city, California, 06, 45778, 2021-01-19 14:47:03
+720, Martinez city, California, 06, 46114, 2021-01-19 14:47:03
+721, Maywood city, California, 06, 46492, 2021-01-19 14:47:03
+722, Mead Valley CDP, California, 06, 46646, 2021-01-19 14:47:03
+723, Menifee city, California, 06, 46842, 2021-01-19 14:47:03
+724, Menlo Park city, California, 06, 46870, 2021-01-19 14:47:03
+725, Merced city, California, 06, 46898, 2021-01-19 14:47:03
+726, Millbrae city, California, 06, 47486, 2021-01-19 14:47:03
+727, Milpitas city, California, 06, 47766, 2021-01-19 14:47:03
+728, Mission Viejo city, California, 06, 48256, 2021-01-19 14:47:03
+729, Modesto city, California, 06, 48354, 2021-01-19 14:47:03
+730, Monrovia city, California, 06, 48648, 2021-01-19 14:47:03
+731, Montclair city, California, 06, 48788, 2021-01-19 14:47:03
+732, Montebello city, California, 06, 48816, 2021-01-19 14:47:03
+733, Monterey city, California, 06, 48872, 2021-01-19 14:47:03
+734, Monterey Park city, California, 06, 48914, 2021-01-19 14:47:03
+735, Moorpark city, California, 06, 49138, 2021-01-19 14:47:03
+736, Moreno Valley city, California, 06, 49270, 2021-01-19 14:47:03
+737, Morgan Hill city, California, 06, 49278, 2021-01-19 14:47:03
+738, Mountain View city, California, 06, 49670, 2021-01-19 14:47:03
+739, Murrieta city, California, 06, 50076, 2021-01-19 14:47:03
+740, Napa city, California, 06, 50258, 2021-01-19 14:47:03
+741, National City city, California, 06, 50398, 2021-01-19 14:47:03
+742, Newark city, California, 06, 50916, 2021-01-19 14:47:03
+743, Newport Beach city, California, 06, 51182, 2021-01-19 14:47:03
+744, Norco city, California, 06, 51560, 2021-01-19 14:47:03
+745, North Highlands CDP, California, 06, 51924, 2021-01-19 14:47:03
+746, North Tustin CDP, California, 06, 52379, 2021-01-19 14:47:03
+747, Norwalk city, California, 06, 52526, 2021-01-19 14:47:03
+748, Novato city, California, 06, 52582, 2021-01-19 14:47:03
+749, Oakdale city, California, 06, 52694, 2021-01-19 14:47:03
+750, Oakland city, California, 06, 53000, 2021-01-19 14:47:03
+751, Oakley city, California, 06, 53070, 2021-01-19 14:47:03
+752, Oceanside city, California, 06, 53322, 2021-01-19 14:47:03
+753, Oildale CDP, California, 06, 53448, 2021-01-19 14:47:03
+754, Ontario city, California, 06, 53896, 2021-01-19 14:47:03
+755, Orange city, California, 06, 53980, 2021-01-19 14:47:03
+756, Orangevale CDP, California, 06, 54092, 2021-01-19 14:47:03
+757, Orcutt CDP, California, 06, 54120, 2021-01-19 14:47:03
+758, Oxnard city, California, 06, 54652, 2021-01-19 14:47:03
+759, Pacifica city, California, 06, 54806, 2021-01-19 14:47:03
+760, Palmdale city, California, 06, 55156, 2021-01-19 14:47:03
+761, Palm Desert city, California, 06, 55184, 2021-01-19 14:47:03
+762, Palm Springs city, California, 06, 55254, 2021-01-19 14:47:03
+763, Palo Alto city, California, 06, 55282, 2021-01-19 14:47:03
+764, Paradise town, California, 06, 55520, 2021-01-19 14:47:03
+765, Paramount city, California, 06, 55618, 2021-01-19 14:47:03
+766, Pasadena city, California, 06, 56000, 2021-01-19 14:47:03
+767, Patterson city, California, 06, 56112, 2021-01-19 14:47:03
+768, Perris city, California, 06, 56700, 2021-01-19 14:47:03
+769, Petaluma city, California, 06, 56784, 2021-01-19 14:47:03
+770, Pico Rivera city, California, 06, 56924, 2021-01-19 14:47:03
+771, Pittsburg city, California, 06, 57456, 2021-01-19 14:47:03
+772, Placentia city, California, 06, 57526, 2021-01-19 14:47:03
+773, Pleasant Hill city, California, 06, 57764, 2021-01-19 14:47:03
+774, Pleasanton city, California, 06, 57792, 2021-01-19 14:47:03
+775, Pomona city, California, 06, 58072, 2021-01-19 14:47:03
+776, Porterville city, California, 06, 58240, 2021-01-19 14:47:03
+777, Port Hueneme city, California, 06, 58296, 2021-01-19 14:47:03
+778, Poway city, California, 06, 58520, 2021-01-19 14:47:03
+779, Ramona CDP, California, 06, 59346, 2021-01-19 14:47:03
+780, Rancho Cordova city, California, 06, 59444, 2021-01-19 14:47:03
+781, Rancho Cucamonga city, California, 06, 59451, 2021-01-19 14:47:03
+782, Rancho Palos Verdes city, California, 06, 59514, 2021-01-19 14:47:03
+783, Rancho San Diego CDP, California, 06, 59550, 2021-01-19 14:47:03
+784, Rancho Santa Margarita city, California, 06, 59587, 2021-01-19 14:47:03
+785, Redding city, California, 06, 59920, 2021-01-19 14:47:03
+786, Redlands city, California, 06, 59962, 2021-01-19 14:47:03
+787, Redondo Beach city, California, 06, 60018, 2021-01-19 14:47:03
+788, Redwood City city, California, 06, 60102, 2021-01-19 14:47:03
+789, Reedley city, California, 06, 60242, 2021-01-19 14:47:03
+790, Rialto city, California, 06, 60466, 2021-01-19 14:47:03
+791, Richmond city, California, 06, 60620, 2021-01-19 14:47:03
+792, Ridgecrest city, California, 06, 60704, 2021-01-19 14:47:03
+793, Riverbank city, California, 06, 61068, 2021-01-19 14:47:03
+794, Riverside city, California, 06, 62000, 2021-01-19 14:47:03
+795, Rocklin city, California, 06, 62364, 2021-01-19 14:47:03
+796, Rohnert Park city, California, 06, 62546, 2021-01-19 14:47:03
+797, Rosamond CDP, California, 06, 62826, 2021-01-19 14:47:03
+798, Rosemead city, California, 06, 62896, 2021-01-19 14:47:03
+799, Rosemont CDP, California, 06, 62910, 2021-01-19 14:47:03
+800, Roseville city, California, 06, 62938, 2021-01-19 14:47:03
+801, Rowland Heights CDP, California, 06, 63218, 2021-01-19 14:47:03
+802, Sacramento city, California, 06, 64000, 2021-01-19 14:47:03
+803, Salinas city, California, 06, 64224, 2021-01-19 14:47:03
+804, San Bernardino city, California, 06, 65000, 2021-01-19 14:47:03
+805, San Bruno city, California, 06, 65028, 2021-01-19 14:47:03
+806, San Buenaventura Ventura) city, California, 06, 65042, 2021-01-19 14:47:03
+807, San Carlos city, California, 06, 65070, 2021-01-19 14:47:03
+808, San Clemente city, California, 06, 65084, 2021-01-19 14:47:03
+809, San Diego city, California, 06, 66000, 2021-01-19 14:47:03
+810, San Dimas city, California, 06, 66070, 2021-01-19 14:47:03
+811, San Fernando city, California, 06, 66140, 2021-01-19 14:47:03
+812, San Francisco city, California, 06, 67000, 2021-01-19 14:47:03
+813, San Gabriel city, California, 06, 67042, 2021-01-19 14:47:03
+814, Sanger city, California, 06, 67056, 2021-01-19 14:47:03
+815, San Jacinto city, California, 06, 67112, 2021-01-19 14:47:03
+816, San Jose city, California, 06, 68000, 2021-01-19 14:47:03
+817, San Juan Capistrano city, California, 06, 68028, 2021-01-19 14:47:03
+818, San Leandro city, California, 06, 68084, 2021-01-19 14:47:03
+819, San Lorenzo CDP, California, 06, 68112, 2021-01-19 14:47:03
+820, San Luis Obispo city, California, 06, 68154, 2021-01-19 14:47:03
+821, San Marcos city, California, 06, 68196, 2021-01-19 14:47:03
+822, San Mateo city, California, 06, 68252, 2021-01-19 14:47:03
+823, San Pablo city, California, 06, 68294, 2021-01-19 14:47:03
+824, San Rafael city, California, 06, 68364, 2021-01-19 14:47:03
+825, San Ramon city, California, 06, 68378, 2021-01-19 14:47:03
+826, Santa Ana city, California, 06, 69000, 2021-01-19 14:47:03
+827, Santa Barbara city, California, 06, 69070, 2021-01-19 14:47:03
+828, Santa Clara city, California, 06, 69084, 2021-01-19 14:47:03
+829, Santa Clarita city, California, 06, 69088, 2021-01-19 14:47:03
+830, Santa Cruz city, California, 06, 69112, 2021-01-19 14:47:03
+831, Santa Maria city, California, 06, 69196, 2021-01-19 14:47:03
+832, Santa Monica city, California, 06, 70000, 2021-01-19 14:47:03
+833, Santa Paula city, California, 06, 70042, 2021-01-19 14:47:03
+834, Santa Rosa city, California, 06, 70098, 2021-01-19 14:47:03
+835, Santee city, California, 06, 70224, 2021-01-19 14:47:03
+836, Saratoga city, California, 06, 70280, 2021-01-19 14:47:03
+837, Seal Beach city, California, 06, 70686, 2021-01-19 14:47:03
+838, Seaside city, California, 06, 70742, 2021-01-19 14:47:03
+839, Selma city, California, 06, 70882, 2021-01-19 14:47:03
+840, Simi Valley city, California, 06, 72016, 2021-01-19 14:47:03
+841, Soledad city, California, 06, 72520, 2021-01-19 14:47:03
+842, South El Monte city, California, 06, 72996, 2021-01-19 14:47:03
+843, South Gate city, California, 06, 73080, 2021-01-19 14:47:03
+844, South Lake Tahoe city, California, 06, 73108, 2021-01-19 14:47:03
+845, South Pasadena city, California, 06, 73220, 2021-01-19 14:47:03
+846, South San Francisco city, California, 06, 73262, 2021-01-19 14:47:03
+847, South San Jose Hills CDP, California, 06, 73290, 2021-01-19 14:47:03
+848, South Whittier CDP, California, 06, 73430, 2021-01-19 14:47:03
+849, Spring Valley CDP San Diego County, California, 06, 73696, 2021-01-19 14:47:03
+850, Stanton city, California, 06, 73962, 2021-01-19 14:47:03
+851, Stockton city, California, 06, 75000, 2021-01-19 14:47:03
+852, Suisun City city, California, 06, 75630, 2021-01-19 14:47:03
+853, Sunnyvale city, California, 06, 77000, 2021-01-19 14:47:03
+854, Temecula city, California, 06, 78120, 2021-01-19 14:47:03
+855, Temescal Valley CDP, California, 06, 78138, 2021-01-19 14:47:03
+856, Temple City city, California, 06, 78148, 2021-01-19 14:47:03
+857, Thousand Oaks city, California, 06, 78582, 2021-01-19 14:47:03
+858, Torrance city, California, 06, 80000, 2021-01-19 14:47:03
+859, Tracy city, California, 06, 80238, 2021-01-19 14:47:03
+860, Tulare city, California, 06, 80644, 2021-01-19 14:47:03
+861, Turlock city, California, 06, 80812, 2021-01-19 14:47:03
+862, Tustin city, California, 06, 80854, 2021-01-19 14:47:03
+863, Twentynine Palms city, California, 06, 80994, 2021-01-19 14:47:03
+864, Union City city, California, 06, 81204, 2021-01-19 14:47:03
+865, Upland city, California, 06, 81344, 2021-01-19 14:47:03
+866, Vacaville city, California, 06, 81554, 2021-01-19 14:47:03
+867, Valinda CDP, California, 06, 81638, 2021-01-19 14:47:03
+868, Vallejo city, California, 06, 81666, 2021-01-19 14:47:03
+869, Victorville city, California, 06, 82590, 2021-01-19 14:47:03
+870, Vineyard CDP, California, 06, 82852, 2021-01-19 14:47:03
+871, Visalia city, California, 06, 82954, 2021-01-19 14:47:03
+872, Vista city, California, 06, 82996, 2021-01-19 14:47:03
+873, Walnut city, California, 06, 83332, 2021-01-19 14:47:03
+874, Walnut Creek city, California, 06, 83346, 2021-01-19 14:47:03
+875, Wasco city, California, 06, 83542, 2021-01-19 14:47:03
+876, Watsonville city, California, 06, 83668, 2021-01-19 14:47:03
+877, West Carson CDP, California, 06, 84144, 2021-01-19 14:47:03
+878, West Covina city, California, 06, 84200, 2021-01-19 14:47:03
+879, West Hollywood city, California, 06, 84410, 2021-01-19 14:47:03
+880, Westminster city, California, 06, 84550, 2021-01-19 14:47:03
+881, Westmont CDP, California, 06, 84592, 2021-01-19 14:47:03
+882, West Puente Valley CDP, California, 06, 84774, 2021-01-19 14:47:03
+883, West Rancho Dominguez CDP, California, 06, 84780, 2021-01-19 14:47:03
+884, West Sacramento city, California, 06, 84816, 2021-01-19 14:47:03
+885, West Whittier-Los Nietos CDP, California, 06, 84921, 2021-01-19 14:47:03
+886, Whittier city, California, 06, 85292, 2021-01-19 14:47:03
+887, Wildomar city, California, 06, 85446, 2021-01-19 14:47:03
+888, Windsor town, California, 06, 85922, 2021-01-19 14:47:03
+889, Winter Gardens CDP, California, 06, 85992, 2021-01-19 14:47:03
+890, Woodland city, California, 06, 86328, 2021-01-19 14:47:03
+891, Yorba Linda city, California, 06, 86832, 2021-01-19 14:47:03
+892, Yuba City city, California, 06, 86972, 2021-01-19 14:47:03
+893, Yucaipa city, California, 06, 87042, 2021-01-19 14:47:03
+894, Yucca Valley town, California, 06, 87056, 2021-01-19 14:47:03
+895, Arvada city, Colorado, 08, 03455, 2021-01-19 14:47:03
+896, Aurora city, Colorado, 08, 04000, 2021-01-19 14:47:03
+897, Boulder city, Colorado, 08, 07850, 2021-01-19 14:47:03
+898, Brighton city, Colorado, 08, 08675, 2021-01-19 14:47:03
+899, Broomfield city, Colorado, 08, 09280, 2021-01-19 14:47:03
+900, Castle Rock town, Colorado, 08, 12415, 2021-01-19 14:47:03
+901, Centennial city, Colorado, 08, 12815, 2021-01-19 14:47:03
+902, Clifton CDP, Colorado, 08, 15165, 2021-01-19 14:47:03
+903, Colorado Springs city, Colorado, 08, 16000, 2021-01-19 14:47:03
+904, Columbine CDP, Colorado, 08, 16110, 2021-01-19 14:47:03
+905, Commerce City city, Colorado, 08, 16495, 2021-01-19 14:47:03
+906, Dakota Ridge CDP, Colorado, 08, 19150, 2021-01-19 14:47:03
+907, Denver city, Colorado, 08, 20000, 2021-01-19 14:47:03
+908, Englewood city, Colorado, 08, 24785, 2021-01-19 14:47:03
+909, Erie town, Colorado, 08, 24950, 2021-01-19 14:47:03
+910, Evans city, Colorado, 08, 25280, 2021-01-19 14:47:03
+911, Fort Collins city, Colorado, 08, 27425, 2021-01-19 14:47:03
+912, Fountain city, Colorado, 08, 27865, 2021-01-19 14:47:03
+913, Golden city, Colorado, 08, 30835, 2021-01-19 14:47:03
+914, Grand Junction city, Colorado, 08, 31660, 2021-01-19 14:47:03
+915, Greeley city, Colorado, 08, 32155, 2021-01-19 14:47:03
+916, Highlands Ranch CDP, Colorado, 08, 36410, 2021-01-19 14:47:03
+917, Ken Caryl CDP, Colorado, 08, 40377, 2021-01-19 14:47:03
+918, Lafayette city, Colorado, 08, 41835, 2021-01-19 14:47:03
+919, Lakewood city, Colorado, 08, 43000, 2021-01-19 14:47:03
+920, Littleton city, Colorado, 08, 45255, 2021-01-19 14:47:03
+921, Longmont city, Colorado, 08, 45970, 2021-01-19 14:47:03
+922, Louisville city, Colorado, 08, 46355, 2021-01-19 14:47:03
+923, Loveland city, Colorado, 08, 46465, 2021-01-19 14:47:03
+924, Northglenn city, Colorado, 08, 54330, 2021-01-19 14:47:03
+925, Parker town, Colorado, 08, 57630, 2021-01-19 14:47:03
+926, Pueblo city, Colorado, 08, 62000, 2021-01-19 14:47:03
+927, Pueblo West CDP, Colorado, 08, 62220, 2021-01-19 14:47:03
+928, Security-Widefield CDP, Colorado, 08, 68847, 2021-01-19 14:47:03
+929, Thornton city, Colorado, 08, 77290, 2021-01-19 14:47:03
+930, Westminster city, Colorado, 08, 83835, 2021-01-19 14:47:03
+931, Wheat Ridge city, Colorado, 08, 84440, 2021-01-19 14:47:03
+932, Windsor town, Colorado, 08, 85485, 2021-01-19 14:47:03
+933, Bridgeport city, Connecticut, 09, 08000, 2021-01-19 14:47:03
+934, Bristol city, Connecticut, 09, 08420, 2021-01-19 14:47:03
+935, Danbury city, Connecticut, 09, 18430, 2021-01-19 14:47:03
+936, Darien CDP, Connecticut, 09, 18920, 2021-01-19 14:47:03
+937, East Hartford CDP, Connecticut, 09, 22700, 2021-01-19 14:47:03
+938, East Haven CDP, Connecticut, 09, 22980, 2021-01-19 14:47:03
+939, Hartford city, Connecticut, 09, 37000, 2021-01-19 14:47:03
+940, Manchester CDP, Connecticut, 09, 44690, 2021-01-19 14:47:03
+941, Meriden city, Connecticut, 09, 46450, 2021-01-19 14:47:03
+942, Middletown city, Connecticut, 09, 47290, 2021-01-19 14:47:03
+943, Milford city balance, Connecticut, 09, 47515, 2021-01-19 14:47:03
+944, Naugatuck borough, Connecticut, 09, 49880, 2021-01-19 14:47:03
+945, New Britain city, Connecticut, 09, 50370, 2021-01-19 14:47:03
+946, New Haven city, Connecticut, 09, 52000, 2021-01-19 14:47:03
+947, Newington CDP, Connecticut, 09, 52210, 2021-01-19 14:47:03
+948, New London city, Connecticut, 09, 52280, 2021-01-19 14:47:03
+949, North Haven CDP, Connecticut, 09, 54940, 2021-01-19 14:47:03
+950, Norwalk city, Connecticut, 09, 55990, 2021-01-19 14:47:03
+951, Norwich city, Connecticut, 09, 56200, 2021-01-19 14:47:03
+952, Shelton city, Connecticut, 09, 68100, 2021-01-19 14:47:03
+953, Stamford city, Connecticut, 09, 73000, 2021-01-19 14:47:03
+954, Stratford CDP, Connecticut, 09, 74260, 2021-01-19 14:47:03
+955, Torrington city, Connecticut, 09, 76500, 2021-01-19 14:47:03
+956, Trumbull CDP, Connecticut, 09, 77270, 2021-01-19 14:47:03
+957, Waterbury city, Connecticut, 09, 80000, 2021-01-19 14:47:03
+958, West Hartford CDP, Connecticut, 09, 82660, 2021-01-19 14:47:03
+959, West Haven city, Connecticut, 09, 82800, 2021-01-19 14:47:03
+960, Westport CDP, Connecticut, 09, 83570, 2021-01-19 14:47:03
+961, Wethersfield CDP, Connecticut, 09, 84970, 2021-01-19 14:47:03
+962, Dover city, Delaware, 10, 21200, 2021-01-19 14:47:03
+963, Middletown town, Delaware, 10, 47030, 2021-01-19 14:47:03
+964, Newark city, Delaware, 10, 50670, 2021-01-19 14:47:03
+965, Wilmington city, Delaware, 10, 77580, 2021-01-19 14:47:03
+966, Washington city, District of Columbia, 11, 50000, 2021-01-19 14:47:03
+967, Alafaya CDP, Florida, 12, 00410, 2021-01-19 14:47:03
+968, Altamonte Springs city, Florida, 12, 00950, 2021-01-19 14:47:03
+969, Apopka city, Florida, 12, 01700, 2021-01-19 14:47:03
+970, Aventura city, Florida, 12, 02681, 2021-01-19 14:47:03
+971, Bayonet Point CDP, Florida, 12, 04162, 2021-01-19 14:47:03
+972, Bellview CDP, Florida, 12, 05462, 2021-01-19 14:47:03
+973, Bloomingdale CDP, Florida, 12, 06875, 2021-01-19 14:47:03
+974, Boca Raton city, Florida, 12, 07300, 2021-01-19 14:47:03
+975, Bonita Springs city, Florida, 12, 07525, 2021-01-19 14:47:03
+976, Boynton Beach city, Florida, 12, 07875, 2021-01-19 14:47:03
+977, Bradenton city, Florida, 12, 07950, 2021-01-19 14:47:03
+978, Brandon CDP, Florida, 12, 08150, 2021-01-19 14:47:03
+979, Brent CDP, Florida, 12, 08300, 2021-01-19 14:47:03
+980, Buenaventura Lakes CDP, Florida, 12, 09415, 2021-01-19 14:47:03
+981, Cape Coral city, Florida, 12, 10275, 2021-01-19 14:47:03
+982, Carrollwood CDP, Florida, 12, 10825, 2021-01-19 14:47:03
+983, Casselberry city, Florida, 12, 11050, 2021-01-19 14:47:03
+984, Citrus Park CDP, Florida, 12, 12425, 2021-01-19 14:47:03
+985, Clearwater city, Florida, 12, 12875, 2021-01-19 14:47:03
+986, Clermont city, Florida, 12, 12925, 2021-01-19 14:47:03
+987, Coconut Creek city, Florida, 12, 13275, 2021-01-19 14:47:03
+988, Cooper City city, Florida, 12, 14125, 2021-01-19 14:47:03
+989, Coral Gables city, Florida, 12, 14250, 2021-01-19 14:47:03
+990, Coral Springs city, Florida, 12, 14400, 2021-01-19 14:47:03
+991, Coral Terrace CDP, Florida, 12, 14412, 2021-01-19 14:47:03
+992, Country Club CDP, Florida, 12, 14895, 2021-01-19 14:47:03
+993, Crestview city, Florida, 12, 15475, 2021-01-19 14:47:03
+994, Cutler Bay town, Florida, 12, 15968, 2021-01-19 14:47:03
+995, Dania Beach city, Florida, 12, 16335, 2021-01-19 14:47:03
+996, Davie town, Florida, 12, 16475, 2021-01-19 14:47:03
+997, Daytona Beach city, Florida, 12, 16525, 2021-01-19 14:47:03
+998, Deerfield Beach city, Florida, 12, 16725, 2021-01-19 14:47:03
+999, DeLand city, Florida, 12, 16875, 2021-01-19 14:47:03
+1000, Delray Beach city, Florida, 12, 17100, 2021-01-19 14:47:03
+1001, Deltona city, Florida, 12, 17200, 2021-01-19 14:47:03
+1002, Doral city, Florida, 12, 17935, 2021-01-19 14:47:03
+1003, Dunedin city, Florida, 12, 18575, 2021-01-19 14:47:03
+1004, East Lake CDP, Florida, 12, 19206, 2021-01-19 14:47:03
+1005, East Lake-Orient Park CDP, Florida, 12, 19212, 2021-01-19 14:47:03
+1006, Edgewater city, Florida, 12, 19825, 2021-01-19 14:47:03
+1007, Egypt Lake-Leto CDP, Florida, 12, 20108, 2021-01-19 14:47:03
+1008, Ensley CDP, Florida, 12, 20925, 2021-01-19 14:47:03
+1009, Estero village, Florida, 12, 21150, 2021-01-19 14:47:03
+1010, Ferry Pass CDP, Florida, 12, 22275, 2021-01-19 14:47:03
+1011, Fleming Island CDP, Florida, 12, 22660, 2021-01-19 14:47:03
+1012, Florida Ridge CDP, Florida, 12, 23050, 2021-01-19 14:47:03
+1013, Fort Lauderdale city, Florida, 12, 24000, 2021-01-19 14:47:03
+1014, Fort Myers city, Florida, 12, 24125, 2021-01-19 14:47:03
+1015, Fort Pierce city, Florida, 12, 24300, 2021-01-19 14:47:03
+1016, Fort Walton Beach city, Florida, 12, 24475, 2021-01-19 14:47:03
+1017, Fountainebleau CDP, Florida, 12, 24562, 2021-01-19 14:47:03
+1018, Four Corners CDP, Florida, 12, 24581, 2021-01-19 14:47:03
+1019, Fruit Cove CDP, Florida, 12, 24925, 2021-01-19 14:47:03
+1020, Gainesville city, Florida, 12, 25175, 2021-01-19 14:47:03
+1021, Golden Gate CDP, Florida, 12, 26300, 2021-01-19 14:47:03
+1022, Golden Glades CDP, Florida, 12, 26375, 2021-01-19 14:47:03
+1023, Greenacres city, Florida, 12, 27322, 2021-01-19 14:47:03
+1024, Haines City city, Florida, 12, 28400, 2021-01-19 14:47:03
+1025, Hallandale Beach city, Florida, 12, 28452, 2021-01-19 14:47:03
+1026, Hialeah city, Florida, 12, 30000, 2021-01-19 14:47:03
+1027, Hialeah Gardens city, Florida, 12, 30025, 2021-01-19 14:47:03
+1028, Holiday CDP, Florida, 12, 31075, 2021-01-19 14:47:03
+1029, Hollywood city, Florida, 12, 32000, 2021-01-19 14:47:03
+1030, Homestead city, Florida, 12, 32275, 2021-01-19 14:47:03
+1031, Horizon West CDP, Florida, 12, 32610, 2021-01-19 14:47:03
+1032, Hunters Creek CDP, Florida, 12, 32967, 2021-01-19 14:47:03
+1033, Immokalee CDP, Florida, 12, 33250, 2021-01-19 14:47:03
+1034, Jacksonville city, Florida, 12, 35000, 2021-01-19 14:47:03
+1035, Jacksonville Beach city, Florida, 12, 35050, 2021-01-19 14:47:03
+1036, Jasmine Estates CDP, Florida, 12, 35350, 2021-01-19 14:47:03
+1037, Jupiter town, Florida, 12, 35875, 2021-01-19 14:47:03
+1038, Kendale Lakes CDP, Florida, 12, 36062, 2021-01-19 14:47:03
+1039, Kendall CDP, Florida, 12, 36100, 2021-01-19 14:47:03
+1040, Kendall West CDP, Florida, 12, 36121, 2021-01-19 14:47:03
+1041, Keystone CDP, Florida, 12, 36462, 2021-01-19 14:47:03
+1042, Key West city, Florida, 12, 36550, 2021-01-19 14:47:03
+1043, Kissimmee city, Florida, 12, 36950, 2021-01-19 14:47:03
+1044, Lake Butler CDP, Florida, 12, 37648, 2021-01-19 14:47:03
+1045, Lakeland city, Florida, 12, 38250, 2021-01-19 14:47:03
+1046, Lake Magdalene CDP, Florida, 12, 38350, 2021-01-19 14:47:03
+1047, Lakeside CDP, Florida, 12, 38813, 2021-01-19 14:47:03
+1048, Lake Worth city, Florida, 12, 39075, 2021-01-19 14:47:03
+1049, Land O\ Lakes CDP, Florida, 12, 39200, 2021-01-19 14:47:03
+1050, Largo city, Florida, 12, 39425, 2021-01-19 14:47:03
+1051, Lauderdale Lakes city, Florida, 12, 39525, 2021-01-19 14:47:03
+1052, Lauderhill city, Florida, 12, 39550, 2021-01-19 14:47:03
+1053, Leesburg city, Florida, 12, 39875, 2021-01-19 14:47:03
+1054, Lehigh Acres CDP, Florida, 12, 39925, 2021-01-19 14:47:03
+1055, Leisure City CDP, Florida, 12, 39950, 2021-01-19 14:47:03
+1056, Lutz CDP, Florida, 12, 41775, 2021-01-19 14:47:03
+1057, Lynn Haven city, Florida, 12, 41825, 2021-01-19 14:47:03
+1058, Margate city, Florida, 12, 43125, 2021-01-19 14:47:03
+1059, Meadow Woods CDP, Florida, 12, 43800, 2021-01-19 14:47:03
+1060, Melbourne city, Florida, 12, 43975, 2021-01-19 14:47:03
+1061, Merritt Island CDP, Florida, 12, 44275, 2021-01-19 14:47:03
+1062, Miami city, Florida, 12, 45000, 2021-01-19 14:47:03
+1063, Miami Beach city, Florida, 12, 45025, 2021-01-19 14:47:03
+1064, Miami Gardens city, Florida, 12, 45060, 2021-01-19 14:47:03
+1065, Miami Lakes town, Florida, 12, 45100, 2021-01-19 14:47:03
+1066, Miramar city, Florida, 12, 45975, 2021-01-19 14:47:03
+1067, Naples city, Florida, 12, 47625, 2021-01-19 14:47:03
+1068, Navarre CDP, Florida, 12, 48050, 2021-01-19 14:47:03
+1069, New Smyrna Beach city, Florida, 12, 48625, 2021-01-19 14:47:03
+1070, Northdale CDP, Florida, 12, 49260, 2021-01-19 14:47:03
+1071, North Fort Myers CDP, Florida, 12, 49350, 2021-01-19 14:47:03
+1072, North Lauderdale city, Florida, 12, 49425, 2021-01-19 14:47:03
+1073, North Miami city, Florida, 12, 49450, 2021-01-19 14:47:03
+1074, North Miami Beach city, Florida, 12, 49475, 2021-01-19 14:47:03
+1075, North Port city, Florida, 12, 49675, 2021-01-19 14:47:03
+1076, Oakland Park city, Florida, 12, 50575, 2021-01-19 14:47:03
+1077, Oakleaf Plantation CDP, Florida, 12, 50630, 2021-01-19 14:47:03
+1078, Oak Ridge CDP, Florida, 12, 50638, 2021-01-19 14:47:03
+1079, Ocala city, Florida, 12, 50750, 2021-01-19 14:47:03
+1080, Ocoee city, Florida, 12, 51075, 2021-01-19 14:47:03
+1081, Orlando city, Florida, 12, 53000, 2021-01-19 14:47:03
+1082, Ormond Beach city, Florida, 12, 53150, 2021-01-19 14:47:03
+1083, Oviedo city, Florida, 12, 53575, 2021-01-19 14:47:03
+1084, Pace CDP, Florida, 12, 53725, 2021-01-19 14:47:03
+1085, Palm Bay city, Florida, 12, 54000, 2021-01-19 14:47:03
+1086, Palm Beach Gardens city, Florida, 12, 54075, 2021-01-19 14:47:03
+1087, Palm City CDP, Florida, 12, 54175, 2021-01-19 14:47:03
+1088, Palm Coast city, Florida, 12, 54200, 2021-01-19 14:47:03
+1089, Palmetto Bay village, Florida, 12, 54275, 2021-01-19 14:47:03
+1090, Palmetto Estates CDP, Florida, 12, 54300, 2021-01-19 14:47:03
+1091, Palm Harbor CDP, Florida, 12, 54350, 2021-01-19 14:47:03
+1092, Palm River-Clair Mel CDP, Florida, 12, 54387, 2021-01-19 14:47:03
+1093, Palm Springs village, Florida, 12, 54450, 2021-01-19 14:47:03
+1094, Palm Valley CDP, Florida, 12, 54525, 2021-01-19 14:47:03
+1095, Panama City city, Florida, 12, 54700, 2021-01-19 14:47:03
+1096, Parkland city, Florida, 12, 55125, 2021-01-19 14:47:03
+1097, Pembroke Pines city, Florida, 12, 55775, 2021-01-19 14:47:03
+1098, Pensacola city, Florida, 12, 55925, 2021-01-19 14:47:03
+1099, Pine Hills CDP, Florida, 12, 56825, 2021-01-19 14:47:03
+1100, Pinellas Park city, Florida, 12, 56975, 2021-01-19 14:47:03
+1101, Plantation city, Florida, 12, 57425, 2021-01-19 14:47:03
+1102, Plant City city, Florida, 12, 57550, 2021-01-19 14:47:03
+1103, Poinciana CDP, Florida, 12, 57900, 2021-01-19 14:47:03
+1104, Pompano Beach city, Florida, 12, 58050, 2021-01-19 14:47:03
+1105, Port Charlotte CDP, Florida, 12, 58350, 2021-01-19 14:47:03
+1106, Port Orange city, Florida, 12, 58575, 2021-01-19 14:47:03
+1107, Port St. Lucie city, Florida, 12, 58715, 2021-01-19 14:47:03
+1108, Princeton CDP, Florida, 12, 58975, 2021-01-19 14:47:03
+1109, Richmond West CDP, Florida, 12, 60230, 2021-01-19 14:47:03
+1110, Riverview CDP, Florida, 12, 60950, 2021-01-19 14:47:03
+1111, Riviera Beach city, Florida, 12, 60975, 2021-01-19 14:47:03
+1112, Rockledge city, Florida, 12, 61500, 2021-01-19 14:47:03
+1113, Royal Palm Beach village, Florida, 12, 62100, 2021-01-19 14:47:03
+1114, Ruskin CDP, Florida, 12, 62275, 2021-01-19 14:47:03
+1115, St. Cloud city, Florida, 12, 62625, 2021-01-19 14:47:03
+1116, St. Petersburg city, Florida, 12, 63000, 2021-01-19 14:47:03
+1117, San Carlos Park CDP, Florida, 12, 63425, 2021-01-19 14:47:03
+1118, Sanford city, Florida, 12, 63650, 2021-01-19 14:47:03
+1119, Sarasota city, Florida, 12, 64175, 2021-01-19 14:47:03
+1120, Sebastian city, Florida, 12, 64825, 2021-01-19 14:47:03
+1121, South Bradenton CDP, Florida, 12, 67258, 2021-01-19 14:47:03
+1122, South Miami Heights CDP, Florida, 12, 67575, 2021-01-19 14:47:03
+1123, Spring Hill CDP, Florida, 12, 68350, 2021-01-19 14:47:03
+1124, Sun City Center CDP, Florida, 12, 69250, 2021-01-19 14:47:03
+1125, Sunny Isles Beach city, Florida, 12, 69555, 2021-01-19 14:47:03
+1126, Sunrise city, Florida, 12, 69700, 2021-01-19 14:47:03
+1127, Sweetwater city, Florida, 12, 70345, 2021-01-19 14:47:03
+1128, Tallahassee city, Florida, 12, 70600, 2021-01-19 14:47:03
+1129, Tamarac city, Florida, 12, 70675, 2021-01-19 14:47:03
+1130, Tamiami CDP, Florida, 12, 70700, 2021-01-19 14:47:03
+1131, Tampa city, Florida, 12, 71000, 2021-01-19 14:47:03
+1132, Tarpon Springs city, Florida, 12, 71150, 2021-01-19 14:47:03
+1133, Temple Terrace city, Florida, 12, 71400, 2021-01-19 14:47:03
+1134, The Acreage CDP, Florida, 12, 71564, 2021-01-19 14:47:03
+1135, The Crossings CDP, Florida, 12, 71567, 2021-01-19 14:47:03
+1136, The Hammocks CDP, Florida, 12, 71569, 2021-01-19 14:47:03
+1137, The Villages CDP, Florida, 12, 71625, 2021-01-19 14:47:03
+1138, Three Lakes CDP, Florida, 12, 71741, 2021-01-19 14:47:03
+1139, Titusville city, Florida, 12, 71900, 2021-01-19 14:47:03
+1140, Town \n\ Country CDP, Florida, 12, 72145, 2021-01-19 14:47:03
+1141, University CDP Hillsborough County, Florida, 12, 73163, 2021-01-19 14:47:03
+1142, University CDP Orange County, Florida, 12, 73172, 2021-01-19 14:47:03
+1143, University Park CDP, Florida, 12, 73287, 2021-01-19 14:47:03
+1144, Valrico CDP, Florida, 12, 73700, 2021-01-19 14:47:03
+1145, Venice city, Florida, 12, 73900, 2021-01-19 14:47:03
+1146, Vero Beach South CDP, Florida, 12, 74200, 2021-01-19 14:47:03
+1147, Wekiwa Springs CDP, Florida, 12, 75725, 2021-01-19 14:47:03
+1148, Wellington village, Florida, 12, 75812, 2021-01-19 14:47:03
+1149, Wesley Chapel CDP, Florida, 12, 75875, 2021-01-19 14:47:03
+1150, Westchase CDP, Florida, 12, 76062, 2021-01-19 14:47:03
+1151, Westchester CDP, Florida, 12, 76075, 2021-01-19 14:47:03
+1152, West Little River CDP, Florida, 12, 76487, 2021-01-19 14:47:03
+1153, West Melbourne city, Florida, 12, 76500, 2021-01-19 14:47:03
+1154, Weston city, Florida, 12, 76582, 2021-01-19 14:47:03
+1155, West Palm Beach city, Florida, 12, 76600, 2021-01-19 14:47:03
+1156, West Pensacola CDP, Florida, 12, 76675, 2021-01-19 14:47:03
+1157, Winter Garden city, Florida, 12, 78250, 2021-01-19 14:47:03
+1158, Winter Haven city, Florida, 12, 78275, 2021-01-19 14:47:03
+1159, Winter Park city, Florida, 12, 78300, 2021-01-19 14:47:03
+1160, Winter Springs city, Florida, 12, 78325, 2021-01-19 14:47:03
+1161, Wright CDP, Florida, 12, 78800, 2021-01-19 14:47:03
+1162, Acworth city, Georgia, 13, 00408, 2021-01-19 14:47:03
+1163, Albany city, Georgia, 13, 01052, 2021-01-19 14:47:03
+1164, Alpharetta city, Georgia, 13, 01696, 2021-01-19 14:47:03
+1165, Athens-Clarke County unified government balance, Georgia, 13, 03440, 2021-01-19 14:47:03
+1166, Atlanta city, Georgia, 13, 04000, 2021-01-19 14:47:03
+1167, Augusta-Richmond County consolidated government balance, Georgia, 13, 04204, 2021-01-19 14:47:03
+1168, Brookhaven city, Georgia, 13, 10944, 2021-01-19 14:47:03
+1169, Candler-McAfee CDP, Georgia, 13, 12834, 2021-01-19 14:47:03
+1170, Canton city, Georgia, 13, 12988, 2021-01-19 14:47:03
+1171, Carrollton city, Georgia, 13, 13492, 2021-01-19 14:47:03
+1172, Cartersville city, Georgia, 13, 13688, 2021-01-19 14:47:03
+1173, Chamblee city, Georgia, 13, 15172, 2021-01-19 14:47:03
+1174, Columbus city, Georgia, 13, 19000, 2021-01-19 14:47:03
+1175, Dalton city, Georgia, 13, 21380, 2021-01-19 14:47:03
+1176, Decatur city, Georgia, 13, 22052, 2021-01-19 14:47:03
+1177, Douglasville city, Georgia, 13, 23900, 2021-01-19 14:47:03
+1178, Duluth city, Georgia, 13, 24600, 2021-01-19 14:47:03
+1179, Dunwoody city, Georgia, 13, 24768, 2021-01-19 14:47:03
+1180, East Point city, Georgia, 13, 25720, 2021-01-19 14:47:03
+1181, Evans CDP, Georgia, 13, 28044, 2021-01-19 14:47:03
+1182, Gainesville city, Georgia, 13, 31908, 2021-01-19 14:47:03
+1183, Griffin city, Georgia, 13, 35324, 2021-01-19 14:47:03
+1184, Hinesville city, Georgia, 13, 38964, 2021-01-19 14:47:03
+1185, Johns Creek city, Georgia, 13, 42425, 2021-01-19 14:47:03
+1186, Kennesaw city, Georgia, 13, 43192, 2021-01-19 14:47:03
+1187, LaGrange city, Georgia, 13, 44340, 2021-01-19 14:47:03
+1188, Lawrenceville city, Georgia, 13, 45488, 2021-01-19 14:47:03
+1189, Mableton CDP, Georgia, 13, 48288, 2021-01-19 14:47:03
+1190, McDonough city, Georgia, 13, 48624, 2021-01-19 14:47:03
+1191, Macon-Bibb County, Georgia, 13, 49008, 2021-01-19 14:47:03
+1192, Marietta city, Georgia, 13, 49756, 2021-01-19 14:47:03
+1193, Martinez CDP, Georgia, 13, 50036, 2021-01-19 14:47:03
+1194, Milton city, Georgia, 13, 51670, 2021-01-19 14:47:03
+1195, Newnan city, Georgia, 13, 55020, 2021-01-19 14:47:03
+1196, North Druid Hills CDP, Georgia, 13, 56168, 2021-01-19 14:47:03
+1197, Peachtree City city, Georgia, 13, 59724, 2021-01-19 14:47:03
+1198, Peachtree Corners city, Georgia, 13, 59735, 2021-01-19 14:47:03
+1199, Pooler city, Georgia, 13, 62104, 2021-01-19 14:47:03
+1200, Redan CDP, Georgia, 13, 63952, 2021-01-19 14:47:03
+1201, Rome city, Georgia, 13, 66668, 2021-01-19 14:47:03
+1202, Roswell city, Georgia, 13, 67284, 2021-01-19 14:47:03
+1203, Sandy Springs city, Georgia, 13, 68516, 2021-01-19 14:47:03
+1204, Savannah city, Georgia, 13, 69000, 2021-01-19 14:47:03
+1205, Smyrna city, Georgia, 13, 71492, 2021-01-19 14:47:03
+1206, Statesboro city, Georgia, 13, 73256, 2021-01-19 14:47:03
+1207, Stockbridge city, Georgia, 13, 73704, 2021-01-19 14:47:03
+1208, Sugar Hill city, Georgia, 13, 74180, 2021-01-19 14:47:03
+1209, Tucker city, Georgia, 13, 77652, 2021-01-19 14:47:03
+1210, Union City city, Georgia, 13, 78324, 2021-01-19 14:47:03
+1211, Valdosta city, Georgia, 13, 78800, 2021-01-19 14:47:03
+1212, Warner Robins city, Georgia, 13, 80508, 2021-01-19 14:47:03
+1213, Woodstock city, Georgia, 13, 84176, 2021-01-19 14:47:03
+1214, East Honolulu CDP, Hawaii, 15, 06290, 2021-01-19 14:47:03
+1215, Ewa Gentry CDP, Hawaii, 15, 07470, 2021-01-19 14:47:03
+1216, Hilo CDP, Hawaii, 15, 14650, 2021-01-19 14:47:03
+1217, Kahului CDP, Hawaii, 15, 22700, 2021-01-19 14:47:03
+1218, Kailua CDP Honolulu County, Hawaii, 15, 23150, 2021-01-19 14:47:03
+1219, Kaneohe CDP, Hawaii, 15, 28250, 2021-01-19 14:47:03
+1220, Kapolei CDP, Hawaii, 15, 30300, 2021-01-19 14:47:03
+1221, Makakilo CDP, Hawaii, 15, 47600, 2021-01-19 14:47:03
+1222, Mililani Mauka CDP, Hawaii, 15, 51000, 2021-01-19 14:47:03
+1223, Mililani Town CDP, Hawaii, 15, 51050, 2021-01-19 14:47:03
+1224, Pearl City CDP, Hawaii, 15, 62600, 2021-01-19 14:47:03
+1225, Schofield Barracks CDP, Hawaii, 15, 69050, 2021-01-19 14:47:03
+1226, Urban Honolulu CDP, Hawaii, 15, 71550, 2021-01-19 14:47:03
+1227, Waipahu CDP, Hawaii, 15, 79700, 2021-01-19 14:47:03
+1228, Boise City city, Idaho, 16, 08830, 2021-01-19 14:47:03
+1229, Caldwell city, Idaho, 16, 12250, 2021-01-19 14:47:03
+1230, Coeur d\Alene city, Idaho, 16, 16750, 2021-01-19 14:47:03
+1231, Eagle city, Idaho, 16, 23410, 2021-01-19 14:47:03
+1232, Idaho Falls city, Idaho, 16, 39700, 2021-01-19 14:47:03
+1233, Lewiston city, Idaho, 16, 46540, 2021-01-19 14:47:03
+1234, Meridian city, Idaho, 16, 52120, 2021-01-19 14:47:03
+1235, Moscow city, Idaho, 16, 54550, 2021-01-19 14:47:03
+1236, Nampa city, Idaho, 16, 56260, 2021-01-19 14:47:03
+1237, Pocatello city, Idaho, 16, 64090, 2021-01-19 14:47:03
+1238, Post Falls city, Idaho, 16, 64810, 2021-01-19 14:47:03
+1239, Rexburg city, Idaho, 16, 67420, 2021-01-19 14:47:03
+1240, Twin Falls city, Idaho, 16, 82810, 2021-01-19 14:47:03
+1241, Addison village, Illinois, 17, 00243, 2021-01-19 14:47:03
+1242, Algonquin village, Illinois, 17, 00685, 2021-01-19 14:47:03
+1243, Alton city, Illinois, 17, 01114, 2021-01-19 14:47:03
+1244, Arlington Heights village, Illinois, 17, 02154, 2021-01-19 14:47:03
+1245, Aurora city, Illinois, 17, 03012, 2021-01-19 14:47:03
+1246, Bartlett village, Illinois, 17, 04013, 2021-01-19 14:47:03
+1247, Batavia city, Illinois, 17, 04078, 2021-01-19 14:47:03
+1248, Belleville city, Illinois, 17, 04845, 2021-01-19 14:47:03
+1249, Belvidere city, Illinois, 17, 05092, 2021-01-19 14:47:03
+1250, Berwyn city, Illinois, 17, 05573, 2021-01-19 14:47:03
+1251, Bloomingdale village, Illinois, 17, 06587, 2021-01-19 14:47:03
+1252, Bloomington city, Illinois, 17, 06613, 2021-01-19 14:47:03
+1253, Blue Island city, Illinois, 17, 06704, 2021-01-19 14:47:03
+1254, Bolingbrook village, Illinois, 17, 07133, 2021-01-19 14:47:03
+1255, Buffalo Grove village, Illinois, 17, 09447, 2021-01-19 14:47:03
+1256, Burbank city, Illinois, 17, 09642, 2021-01-19 14:47:03
+1257, Calumet City city, Illinois, 17, 10487, 2021-01-19 14:47:03
+1258, Carbondale city, Illinois, 17, 11163, 2021-01-19 14:47:03
+1259, Carol Stream village, Illinois, 17, 11332, 2021-01-19 14:47:03
+1260, Carpentersville village, Illinois, 17, 11358, 2021-01-19 14:47:03
+1261, Champaign city, Illinois, 17, 12385, 2021-01-19 14:47:03
+1262, Charleston city, Illinois, 17, 12567, 2021-01-19 14:47:03
+1263, Chicago city, Illinois, 17, 14000, 2021-01-19 14:47:03
+1264, Chicago Heights city, Illinois, 17, 14026, 2021-01-19 14:47:03
+1265, Cicero town, Illinois, 17, 14351, 2021-01-19 14:47:03
+1266, Collinsville city, Illinois, 17, 15599, 2021-01-19 14:47:03
+1267, Crest Hill city, Illinois, 17, 17458, 2021-01-19 14:47:03
+1268, Crystal Lake city, Illinois, 17, 17887, 2021-01-19 14:47:03
+1269, Danville city, Illinois, 17, 18563, 2021-01-19 14:47:03
+1270, Darien city, Illinois, 17, 18628, 2021-01-19 14:47:03
+1271, Decatur city, Illinois, 17, 18823, 2021-01-19 14:47:03
+1272, DeKalb city, Illinois, 17, 19161, 2021-01-19 14:47:03
+1273, Des Plaines city, Illinois, 17, 19642, 2021-01-19 14:47:03
+1274, Dolton village, Illinois, 17, 20292, 2021-01-19 14:47:03
+1275, Downers Grove village, Illinois, 17, 20591, 2021-01-19 14:47:03
+1276, East Moline city, Illinois, 17, 22073, 2021-01-19 14:47:03
+1277, East Peoria city, Illinois, 17, 22164, 2021-01-19 14:47:03
+1278, East St. Louis city, Illinois, 17, 22255, 2021-01-19 14:47:03
+1279, Edwardsville city, Illinois, 17, 22697, 2021-01-19 14:47:03
+1280, Elgin city, Illinois, 17, 23074, 2021-01-19 14:47:03
+1281, Elk Grove Village village, Illinois, 17, 23256, 2021-01-19 14:47:03
+1282, Elmhurst city, Illinois, 17, 23620, 2021-01-19 14:47:03
+1283, College Station city, Texas, 48, 15976, 2021-01-19 14:47:03
+1284, Colleyville city, Texas, 48, 15988, 2021-01-19 14:47:03
+1285, Conroe city, Texas, 48, 16432, 2021-01-19 14:47:03
+1286, Converse city, Texas, 48, 16468, 2021-01-19 14:47:03
+1287, Coppell city, Texas, 48, 16612, 2021-01-19 14:47:03
+1288, Copperas Cove city, Texas, 48, 16624, 2021-01-19 14:47:03
+1289, Corinth city, Texas, 48, 16696, 2021-01-19 14:47:03
+1290, Corpus Christi city, Texas, 48, 17000, 2021-01-19 14:47:03
+1291, Corsicana city, Texas, 48, 17060, 2021-01-19 14:47:03
+1292, Dallas city, Texas, 48, 19000, 2021-01-19 14:47:03
+1293, Deer Park city, Texas, 48, 19624, 2021-01-19 14:47:03
+1294, Del Rio city, Texas, 48, 19792, 2021-01-19 14:47:03
+1295, Denison city, Texas, 48, 19900, 2021-01-19 14:47:03
+1296, Denton city, Texas, 48, 19972, 2021-01-19 14:47:03
+1297, DeSoto city, Texas, 48, 20092, 2021-01-19 14:47:03
+1298, Duncanville city, Texas, 48, 21628, 2021-01-19 14:47:03
+1299, Eagle Pass city, Texas, 48, 21892, 2021-01-19 14:47:03
+1300, Edinburg city, Texas, 48, 22660, 2021-01-19 14:47:03
+1301, El Paso city, Texas, 48, 24000, 2021-01-19 14:47:03
+1302, Euless city, Texas, 48, 24768, 2021-01-19 14:47:03
+1303, Farmers Branch city, Texas, 48, 25452, 2021-01-19 14:47:03
+1304, Flower Mound town, Texas, 48, 26232, 2021-01-19 14:47:03
+1305, Fort Hood CDP, Texas, 48, 26736, 2021-01-19 14:47:03
+1306, Fort Worth city, Texas, 48, 27000, 2021-01-19 14:47:03
+1307, Fresno CDP, Texas, 48, 27540, 2021-01-19 14:47:03
+1308, Friendswood city, Texas, 48, 27648, 2021-01-19 14:47:03
+1309, Frisco city, Texas, 48, 27684, 2021-01-19 14:47:03
+1310, Galveston city, Texas, 48, 28068, 2021-01-19 14:47:03
+1311, Garland city, Texas, 48, 29000, 2021-01-19 14:47:03
+1312, Georgetown city, Texas, 48, 29336, 2021-01-19 14:47:03
+1313, Grand Prairie city, Texas, 48, 30464, 2021-01-19 14:47:03
+1314, Grapevine city, Texas, 48, 30644, 2021-01-19 14:47:03
+1315, Greenville city, Texas, 48, 30920, 2021-01-19 14:47:03
+1316, Haltom City city, Texas, 48, 31928, 2021-01-19 14:47:03
+1317, Harker Heights city, Texas, 48, 32312, 2021-01-19 14:47:03
+1318, Harlingen city, Texas, 48, 32372, 2021-01-19 14:47:03
+1319, Houston city, Texas, 48, 35000, 2021-01-19 14:47:03
+1320, Huntsville city, Texas, 48, 35528, 2021-01-19 14:47:03
+1321, Hurst city, Texas, 48, 35576, 2021-01-19 14:47:03
+1322, Hutto city, Texas, 48, 35624, 2021-01-19 14:47:03
+1323, Irving city, Texas, 48, 37000, 2021-01-19 14:47:03
+1324, Keller city, Texas, 48, 38632, 2021-01-19 14:47:03
+1325, Kerrville city, Texas, 48, 39040, 2021-01-19 14:47:03
+1326, Killeen city, Texas, 48, 39148, 2021-01-19 14:47:03
+1327, Kingsville city, Texas, 48, 39352, 2021-01-19 14:47:03
+1328, Kyle city, Texas, 48, 39952, 2021-01-19 14:47:03
+1329, Lake Jackson city, Texas, 48, 40588, 2021-01-19 14:47:03
+1330, Lancaster city, Texas, 48, 41212, 2021-01-19 14:47:03
+1331, La Porte city, Texas, 48, 41440, 2021-01-19 14:47:03
+1332, Laredo city, Texas, 48, 41464, 2021-01-19 14:47:03
+1333, League City city, Texas, 48, 41980, 2021-01-19 14:47:03
+1334, Leander city, Texas, 48, 42016, 2021-01-19 14:47:03
+1335, Lewisville city, Texas, 48, 42508, 2021-01-19 14:47:03
+1336, Little Elm city, Texas, 48, 43012, 2021-01-19 14:47:03
+1337, Longview city, Texas, 48, 43888, 2021-01-19 14:47:03
+1338, Lubbock city, Texas, 48, 45000, 2021-01-19 14:47:03
+1339, Lufkin city, Texas, 48, 45072, 2021-01-19 14:47:03
+1340, McAllen city, Texas, 48, 45384, 2021-01-19 14:47:03
+1341, McKinney city, Texas, 48, 45744, 2021-01-19 14:47:03
+1342, Mansfield city, Texas, 48, 46452, 2021-01-19 14:47:03
+1343, Marshall city, Texas, 48, 46776, 2021-01-19 14:47:03
+1344, Mesquite city, Texas, 48, 47892, 2021-01-19 14:47:03
+1345, Midland city, Texas, 48, 48072, 2021-01-19 14:47:03
+1346, Midlothian city, Texas, 48, 48096, 2021-01-19 14:47:03
+1347, Mission city, Texas, 48, 48768, 2021-01-19 14:47:03
+1348, Mission Bend CDP, Texas, 48, 48772, 2021-01-19 14:47:03
+1349, Missouri City city, Texas, 48, 48804, 2021-01-19 14:47:03
+1350, Murphy city, Texas, 48, 50100, 2021-01-19 14:47:03
+1351, Nacogdoches city, Texas, 48, 50256, 2021-01-19 14:47:03
+1352, New Braunfels city, Texas, 48, 50820, 2021-01-19 14:47:03
+1353, North Richland Hills city, Texas, 48, 52356, 2021-01-19 14:47:03
+1354, Odessa city, Texas, 48, 53388, 2021-01-19 14:47:03
+1355, Paris city, Texas, 48, 55080, 2021-01-19 14:47:03
+1356, Pasadena city, Texas, 48, 56000, 2021-01-19 14:47:03
+1357, Pearland city, Texas, 48, 56348, 2021-01-19 14:47:03
+1358, Pflugerville city, Texas, 48, 57176, 2021-01-19 14:47:03
+1359, Pharr city, Texas, 48, 57200, 2021-01-19 14:47:03
+1360, Plainview city, Texas, 48, 57980, 2021-01-19 14:47:03
+1361, Plano city, Texas, 48, 58016, 2021-01-19 14:47:03
+1362, Port Arthur city, Texas, 48, 58820, 2021-01-19 14:47:03
+1363, Richardson city, Texas, 48, 61796, 2021-01-19 14:47:03
+1364, Rockwall city, Texas, 48, 62828, 2021-01-19 14:47:03
+1365, Rosenberg city, Texas, 48, 63284, 2021-01-19 14:47:03
+1366, Round Rock city, Texas, 48, 63500, 2021-01-19 14:47:03
+1367, Rowlett city, Texas, 48, 63572, 2021-01-19 14:47:03
+1368, Sachse city, Texas, 48, 64064, 2021-01-19 14:47:03
+1369, Saginaw city, Texas, 48, 64112, 2021-01-19 14:47:03
+1370, San Angelo city, Texas, 48, 64472, 2021-01-19 14:47:03
+1371, San Antonio city, Texas, 48, 65000, 2021-01-19 14:47:03
+1372, San Benito city, Texas, 48, 65036, 2021-01-19 14:47:03
+1373, San Juan city, Texas, 48, 65516, 2021-01-19 14:47:03
+1374, San Marcos city, Texas, 48, 65600, 2021-01-19 14:47:03
+1375, Schertz city, Texas, 48, 66128, 2021-01-19 14:47:03
+1376, Seguin city, Texas, 48, 66644, 2021-01-19 14:47:03
+1377, Sherman city, Texas, 48, 67496, 2021-01-19 14:47:03
+1378, Socorro city, Texas, 48, 68636, 2021-01-19 14:47:03
+1379, Southlake city, Texas, 48, 69032, 2021-01-19 14:47:03
+1380, Spring CDP, Texas, 48, 69596, 2021-01-19 14:47:03
+1381, Stephenville city, Texas, 48, 70208, 2021-01-19 14:47:03
+1382, Sugar Land city, Texas, 48, 70808, 2021-01-19 14:47:03
+1383, Temple city, Texas, 48, 72176, 2021-01-19 14:47:03
+1384, Texarkana city, Texas, 48, 72368, 2021-01-19 14:47:03
+1385, Texas City city, Texas, 48, 72392, 2021-01-19 14:47:03);
+1386, The Colony city, Texas, 48, 72530, 2021-01-19 14:47:03
+1387, The Woodlands CDP, Texas, 48, 72656, 2021-01-19 14:47:03
+1388, Timberwood Park CDP, Texas, 48, 73057, 2021-01-19 14:47:03
+1389, Tyler city, Texas, 48, 74144, 2021-01-19 14:47:03
+1390, University Park city, Texas, 48, 74492, 2021-01-19 14:47:03
+1391, Victoria city, Texas, 48, 75428, 2021-01-19 14:47:03
+1392, Waco city, Texas, 48, 76000, 2021-01-19 14:47:03
+1393, Watauga city, Texas, 48, 76672, 2021-01-19 14:47:03
+1394, Waxahachie city, Texas, 48, 76816, 2021-01-19 14:47:03
+1395, Weatherford city, Texas, 48, 76864, 2021-01-19 14:47:03
+1396, Weslaco city, Texas, 48, 77272, 2021-01-19 14:47:03
+1397, West Odessa CDP, Texas, 48, 77728, 2021-01-19 14:47:03
+1398, Wichita Falls city, Texas, 48, 79000, 2021-01-19 14:47:03
+1399, Wylie city, Texas, 48, 80356, 2021-01-19 14:47:03
+1400, American Fork city, Utah, 49, 01310, 2021-01-19 14:47:03
+1401, Bountiful city, Utah, 49, 07690, 2021-01-19 14:47:03
+1402, Cedar City city, Utah, 49, 11320, 2021-01-19 14:47:03
+1403, Clearfield city, Utah, 49, 13850, 2021-01-19 14:47:03
+1404, Clinton city, Utah, 49, 14290, 2021-01-19 14:47:03
+1405, Cottonwood Heights city, Utah, 49, 16270, 2021-01-19 14:47:03
+1406, Draper city, Utah, 49, 20120, 2021-01-19 14:47:03
+1407, Eagle Mountain city, Utah, 49, 20810, 2021-01-19 14:47:03
+1408, Farmington city, Utah, 49, 24740, 2021-01-19 14:47:03
+1409, Herriman city, Utah, 49, 34970, 2021-01-19 14:47:03
+1410, Holladay city, Utah, 49, 36070, 2021-01-19 14:47:03
+1411, Kaysville city, Utah, 49, 40360, 2021-01-19 14:47:03
+1412, Kearns, Utah, 49, 40470, 2021-01-19 14:47:03
+1413, Layton city, Utah, 49, 43660, 2021-01-19 14:47:03
+1414, Lehi city, Utah, 49, 44320, 2021-01-19 14:47:03
+1415, Logan city, Utah, 49, 45860, 2021-01-19 14:47:03
+1416, Magna, Utah, 49, 47290, 2021-01-19 14:47:03
+1417, Midvale city, Utah, 49, 49710, 2021-01-19 14:47:03
+1418, Millcreek city, Utah, 49, 50150, 2021-01-19 14:47:03
+1419, Murray city, Utah, 49, 53230, 2021-01-19 14:47:03
+1420, Ogden city, Utah, 49, 55980, 2021-01-19 14:47:03
+1421, Orem city, Utah, 49, 57300, 2021-01-19 14:47:03
+1422, Pleasant Grove city, Utah, 49, 60930, 2021-01-19 14:47:03
+1423, Provo city, Utah, 49, 62470, 2021-01-19 14:47:03
+1424, Riverton city, Utah, 49, 64340, 2021-01-19 14:47:03
+1425, Roy city, Utah, 49, 65110, 2021-01-19 14:47:03
+1426, St. George city, Utah, 49, 65330, 2021-01-19 14:47:03
+1427, Salt Lake City city, Utah, 49, 67000, 2021-01-19 14:47:03
+1428, Sandy city, Utah, 49, 67440, 2021-01-19 14:47:03
+1429, Saratoga Springs city, Utah, 49, 67825, 2021-01-19 14:47:03
+1430, South Jordan city, Utah, 49, 70850, 2021-01-19 14:47:03
+1431, South Salt Lake city, Utah, 49, 71070, 2021-01-19 14:47:03
+1432, Spanish Fork city, Utah, 49, 71290, 2021-01-19 14:47:03
+1433, Springville city, Utah, 49, 72280, 2021-01-19 14:47:03
+1434, Syracuse city, Utah, 49, 74810, 2021-01-19 14:47:03
+1435, Taylorsville city, Utah, 49, 75360, 2021-01-19 14:47:03
+1436, Tooele city, Utah, 49, 76680, 2021-01-19 14:47:03
+1437, Washington city, Utah, 49, 81960, 2021-01-19 14:47:03
+1438, West Jordan city, Utah, 49, 82950, 2021-01-19 14:47:03
+1439, West Valley City city, Utah, 49, 83470, 2021-01-19 14:47:03
+1440, Burlington city, Vermont, 50, 10675, 2021-01-19 14:47:03
+1441, Alexandria city, Virginia, 51, 01000, 2021-01-19 14:47:03
+1442, Annandale CDP, Virginia, 51, 01912, 2021-01-19 14:47:03
+1443, Arlington CDP, Virginia, 51, 03000, 2021-01-19 14:47:03
+1444, Ashburn CDP, Virginia, 51, 03320, 2021-01-19 14:47:03
+1445, Bailey\s Crossroads CDP, Virginia, 51, 04088, 2021-01-19 14:47:03
+1446, Blacksburg town, Virginia, 51, 07784, 2021-01-19 14:47:03
+1447, Bon Air CDP, Virginia, 51, 08472, 2021-01-19 14:47:03
+1448, Burke CDP, Virginia, 51, 11464, 2021-01-19 14:47:03
+1449, Cave Spring CDP, Virginia, 51, 13720, 2021-01-19 14:47:03
+1450, Centreville CDP, Virginia, 51, 14440, 2021-01-19 14:47:03
+1451, Chantilly CDP, Virginia, 51, 14744, 2021-01-19 14:47:03
+1452, Charlottesville city, Virginia, 51, 14968, 2021-01-19 14:47:03
+1453, Cherry Hill CDP, Virginia, 51, 15176, 2021-01-19 14:47:03
+1454, Chesapeake city, Virginia, 51, 16000, 2021-01-19 14:47:03
+1455, Chester CDP, Virginia, 51, 16096, 2021-01-19 14:47:03
+1456, Christiansburg town, Virginia, 51, 16608, 2021-01-19 14:47:03
+1457, Dale City CDP, Virginia, 51, 21088, 2021-01-19 14:47:03
+1458, Danville city, Virginia, 51, 21344, 2021-01-19 14:47:03
+1459, Fairfax city, Virginia, 51, 26496, 2021-01-19 14:47:03
+1460, Fair Oaks CDP, Virginia, 51, 26875, 2021-01-19 14:47:03
+1461, Fort Hunt CDP, Virginia, 51, 29136, 2021-01-19 14:47:03
+1462, Fredericksburg city, Virginia, 51, 29744, 2021-01-19 14:47:03
+1463, Hampton city, Virginia, 51, 35000, 2021-01-19 14:47:03
+1464, Harrisonburg city, Virginia, 51, 35624, 2021-01-19 14:47:03
+1465, Herndon town, Virginia, 51, 36648, 2021-01-19 14:47:03
+1466, Hopewell city, Virginia, 51, 38424, 2021-01-19 14:47:03
+1467, Idylwood CDP, Virginia, 51, 39448, 2021-01-19 14:47:03
+1468, Lake Ridge CDP, Virginia, 51, 43432, 2021-01-19 14:47:03
+1469, Laurel CDP, Virginia, 51, 44280, 2021-01-19 14:47:03
+1470, Leesburg town, Virginia, 51, 44984, 2021-01-19 14:47:03
+1471, Lincolnia CDP, Virginia, 51, 45784, 2021-01-19 14:47:03
+1472, Linton Hall CDP, Virginia, 51, 45957, 2021-01-19 14:47:03
+1473, Lorton CDP, Virginia, 51, 47064, 2021-01-19 14:47:03
+1474, Lynchburg city, Virginia, 51, 47672, 2021-01-19 14:47:03
+1475, McLean CDP, Virginia, 51, 48376, 2021-01-19 14:47:03
+1476, Manassas city, Virginia, 51, 48952, 2021-01-19 14:47:03
+1477, Marumsco CDP, Virginia, 51, 49792, 2021-01-19 14:47:03
+1478, Mechanicsville CDP, Virginia, 51, 50856, 2021-01-19 14:47:03
+1479, Montclair CDP, Virginia, 51, 52658, 2021-01-19 14:47:03
+1480, Newport News city, Virginia, 51, 56000, 2021-01-19 14:47:03
+1481, Norfolk city, Virginia, 51, 57000, 2021-01-19 14:47:03
+1482, Oakton CDP, Virginia, 51, 58472, 2021-01-19 14:47:03
+1483, Petersburg city, Virginia, 51, 61832, 2021-01-19 14:47:03
+1484, Portsmouth city, Virginia, 51, 64000, 2021-01-19 14:47:03
+1485, Reston CDP, Virginia, 51, 66672, 2021-01-19 14:47:03
+1486, Richmond city, Virginia, 51, 67000, 2021-01-19 14:47:03
+1487, Roanoke city, Virginia, 51, 68000, 2021-01-19 14:47:03
+1488, Rose Hill CDP Fairfax County, Virginia, 51, 68880, 2021-01-19 14:47:03
+1489, Salem city, Virginia, 51, 70000, 2021-01-19 14:47:03
+1490, Short Pump CDP, Virginia, 51, 72272, 2021-01-19 14:47:03
+1491, South Riding CDP, Virginia, 51, 74100, 2021-01-19 14:47:03
+1492, Springfield CDP, Virginia, 51, 74592, 2021-01-19 14:47:03
+1493, Staunton city, Virginia, 51, 75216, 2021-01-19 14:47:03
+1494, Sterling CDP, Virginia, 51, 75376, 2021-01-19 14:47:03
+1495, Suffolk city, Virginia, 51, 76432, 2021-01-19 14:47:03
+1496, Tuckahoe CDP, Virginia, 51, 79560, 2021-01-19 14:47:03
+1497, Tysons Corner CDP, Virginia, 51, 79952, 2021-01-19 14:47:03
+1498, Virginia Beach city, Virginia, 51, 82000, 2021-01-19 14:47:03
+1499, Waynesboro city, Virginia, 51, 83680, 2021-01-19 14:47:03
+1500, West Falls Church CDP, Virginia, 51, 84368, 2021-01-19 14:47:03
+1501, West Springfield CDP, Virginia, 51, 84976, 2021-01-19 14:47:03
+1502, Winchester city, Virginia, 51, 86720, 2021-01-19 14:47:03
+1503, Woodlawn CDP Fairfax County, Virginia, 51, 87410, 2021-01-19 14:47:03
+1504, Auburn city, Washington, 53, 03180, 2021-01-19 14:47:03
+1505, Bainbridge Island city, Washington, 53, 03736, 2021-01-19 14:47:03
+1506, Bellevue city, Washington, 53, 05210, 2021-01-19 14:47:03
+1507, Bellingham city, Washington, 53, 05280, 2021-01-19 14:47:03
+1508, Bothell city, Washington, 53, 07380, 2021-01-19 14:47:03
+1509, Bothell West CDP, Washington, 53, 07395, 2021-01-19 14:47:03
+1510, Bremerton city, Washington, 53, 07695, 2021-01-19 14:47:03
+1511, Bryn Mawr-Skyway CDP, Washington, 53, 08552, 2021-01-19 14:47:03
+1512, Burien city, Washington, 53, 08850, 2021-01-19 14:47:03
+1513, Camas city, Washington, 53, 09480, 2021-01-19 14:47:03
+1514, Cottage Lake CDP, Washington, 53, 14940, 2021-01-19 14:47:03
+1515, Des Moines city, Washington, 53, 17635, 2021-01-19 14:47:03
+1516, Eastmont CDP, Washington, 53, 19630, 2021-01-19 14:47:03
+1517, Edmonds city, Washington, 53, 20750, 2021-01-19 14:47:03
+1518, Everett city, Washington, 53, 22640, 2021-01-19 14:47:03
+1519, Fairwood CDP King County, Washington, 53, 23160, 2021-01-19 14:47:03
+1520, Federal Way city, Washington, 53, 23515, 2021-01-19 14:47:03
+1521, Five Corners CDP, Washington, 53, 24188, 2021-01-19 14:47:03
+1522, Graham CDP, Washington, 53, 27785, 2021-01-19 14:47:03
+1523, Issaquah city, Washington, 53, 33805, 2021-01-19 14:47:03
+1524, Kenmore city, Washington, 53, 35170, 2021-01-19 14:47:03
+1525, Kennewick city, Washington, 53, 35275, 2021-01-19 14:47:03
+1526, Kent city, Washington, 53, 35415, 2021-01-19 14:47:03
+1527, Kirkland city, Washington, 53, 35940, 2021-01-19 14:47:03
+1528, Lacey city, Washington, 53, 36745, 2021-01-19 14:47:03
+1529, Lake Stevens city, Washington, 53, 37900, 2021-01-19 14:47:03
+1530, Lakewood city, Washington, 53, 38038, 2021-01-19 14:47:03
+1531, Longview city, Washington, 53, 40245, 2021-01-19 14:47:03
+1532, Lynnwood city, Washington, 53, 40840, 2021-01-19 14:47:03
+1533, Maple Valley city, Washington, 53, 43150, 2021-01-19 14:47:03
+1534, Marysville city, Washington, 53, 43955, 2021-01-19 14:47:03
+1535, Mercer Island city, Washington, 53, 45005, 2021-01-19 14:47:03
+1536, Mill Creek city, Washington, 53, 45865, 2021-01-19 14:47:03
+1537, Mill Creek East CDP, Washington, 53, 45870, 2021-01-19 14:47:03
+1538, Moses Lake city, Washington, 53, 47245, 2021-01-19 14:47:03
+1539, Mountlake Terrace city, Washington, 53, 47490, 2021-01-19 14:47:03
+1540, Mount Vernon city, Washington, 53, 47560, 2021-01-19 14:47:03
+1541, Mukilteo city, Washington, 53, 47735, 2021-01-19 14:47:03
+1542, Oak Harbor city, Washington, 53, 50360, 2021-01-19 14:47:03
+1543, Olympia city, Washington, 53, 51300, 2021-01-19 14:47:03
+1544, Orchards CDP, Washington, 53, 51795, 2021-01-19 14:47:03
+1545, Parkland CDP, Washington, 53, 53335, 2021-01-19 14:47:03
+1546, Pasco city, Washington, 53, 53545, 2021-01-19 14:47:03
+1547, Pullman city, Washington, 53, 56625, 2021-01-19 14:47:03
+1548, Puyallup city, Washington, 53, 56695, 2021-01-19 14:47:03
+1549, Redmond city, Washington, 53, 57535, 2021-01-19 14:47:03
+1550, Renton city, Washington, 53, 57745, 2021-01-19 14:47:03
+1551, Richland city, Washington, 53, 58235, 2021-01-19 14:47:03
+1552, Salmon Creek CDP, Washington, 53, 61000, 2021-01-19 14:47:03
+1553, Sammamish city, Washington, 53, 61115, 2021-01-19 14:47:03
+1554, SeaTac city, Washington, 53, 62288, 2021-01-19 14:47:03
+1555, Seattle city, Washington, 53, 63000, 2021-01-19 14:47:03
+1556, Shoreline city, Washington, 53, 63960, 2021-01-19 14:47:03
+1557, Silver Firs CDP, Washington, 53, 64380, 2021-01-19 14:47:03
+1558, South Hill CDP, Washington, 53, 65922, 2021-01-19 14:47:03
+1559, Spanaway CDP, Washington, 53, 66255, 2021-01-19 14:47:03
+1560, Spokane city, Washington, 53, 67000, 2021-01-19 14:47:03
+1561, Spokane Valley city, Washington, 53, 67167, 2021-01-19 14:47:03
+1562, Tacoma city, Washington, 53, 70000, 2021-01-19 14:47:03
+1563, Tukwila city, Washington, 53, 72625, 2021-01-19 14:47:03
+1564, Union Hill-Novelty Hill CDP, Washington, 53, 73307, 2021-01-19 14:47:03
+1565, University Place city, Washington, 53, 73465, 2021-01-19 14:47:03
+1566, Vancouver city, Washington, 53, 74060, 2021-01-19 14:47:03
+1567, Walla Walla city, Washington, 53, 75775, 2021-01-19 14:47:03
+1568, Wenatchee city, Washington, 53, 77105, 2021-01-19 14:47:03
+1569, Yakima city, Washington, 53, 80010, 2021-01-19 14:47:03
+1570, Charleston city, West Virginia, 54, 14600, 2021-01-19 14:47:03
+1571, Huntington city, West Virginia, 54, 39460, 2021-01-19 14:47:03
+1572, Morgantown city, West Virginia, 54, 55756, 2021-01-19 14:47:03
+1573, Parkersburg city, West Virginia, 54, 62140, 2021-01-19 14:47:03
+1574, Wheeling city, West Virginia, 54, 86452, 2021-01-19 14:47:03
+1575, Appleton city, Wisconsin, 55, 02375, 2021-01-19 14:47:03
+1576, Beloit city, Wisconsin, 55, 06500, 2021-01-19 14:47:03
+1577, Brookfield city, Wisconsin, 55, 10025, 2021-01-19 14:47:03
+1578, Caledonia village, Wisconsin, 55, 11950, 2021-01-19 14:47:03
+1579, De Pere city, Wisconsin, 55, 19775, 2021-01-19 14:47:03
+1580, Eau Claire city, Wisconsin, 55, 22300, 2021-01-19 14:47:03
+1581, Fitchburg city, Wisconsin, 55, 25950, 2021-01-19 14:47:03
+1582, Fond du Lac city, Wisconsin, 55, 26275, 2021-01-19 14:47:03
+1583, Franklin city, Wisconsin, 55, 27300, 2021-01-19 14:47:03
+1584, Green Bay city, Wisconsin, 55, 31000, 2021-01-19 14:47:03
+1585, Greenfield city, Wisconsin, 55, 31175, 2021-01-19 14:47:03
+1586, Janesville city, Wisconsin, 55, 37825, 2021-01-19 14:47:03
+1587, Kenosha city, Wisconsin, 55, 39225, 2021-01-19 14:47:03
+1588, La Crosse city, Wisconsin, 55, 40775, 2021-01-19 14:47:03
+1589, Madison city, Wisconsin, 55, 48000, 2021-01-19 14:47:03
+1590, Manitowoc city, Wisconsin, 55, 48500, 2021-01-19 14:47:03
+1591, Menomonee Falls village, Wisconsin, 55, 51000, 2021-01-19 14:47:03
+1592, Mequon city, Wisconsin, 55, 51150, 2021-01-19 14:47:03
+1593, Milwaukee city, Wisconsin, 55, 53000, 2021-01-19 14:47:03
+1594, Mount Pleasant village, Wisconsin, 55, 54875, 2021-01-19 14:47:03
+1595, Muskego city, Wisconsin, 55, 55275, 2021-01-19 14:47:03
+1596, Neenah city, Wisconsin, 55, 55750, 2021-01-19 14:47:03
+1597, New Berlin city, Wisconsin, 55, 56375, 2021-01-19 14:47:03
+1598, Oak Creek city, Wisconsin, 55, 58800, 2021-01-19 14:47:03
+1599, Oshkosh city, Wisconsin, 55, 60500, 2021-01-19 14:47:03
+1600, Pleasant Prairie village, Wisconsin, 55, 63300, 2021-01-19 14:47:03
+1601, Racine city, Wisconsin, 55, 66000, 2021-01-19 14:47:03
+1602, Sheboygan city, Wisconsin, 55, 72975, 2021-01-19 14:47:03
+1603, South Milwaukee city, Wisconsin, 55, 75125, 2021-01-19 14:47:03
+1604, Stevens Point city, Wisconsin, 55, 77200, 2021-01-19 14:47:03
+1605, Sun Prairie city, Wisconsin, 55, 78600, 2021-01-19 14:47:03
+1606, Superior city, Wisconsin, 55, 78650, 2021-01-19 14:47:03
+1607, Watertown city, Wisconsin, 55, 83975, 2021-01-19 14:47:03
+1608, Waukesha city, Wisconsin, 55, 84250, 2021-01-19 14:47:03
+1609, Wausau city, Wisconsin, 55, 84475, 2021-01-19 14:47:03
+1610, Wauwatosa city, Wisconsin, 55, 84675, 2021-01-19 14:47:03
+1611, West Allis city, Wisconsin, 55, 85300, 2021-01-19 14:47:03
+1612, West Bend city, Wisconsin, 55, 85350, 2021-01-19 14:47:03
+1613, Casper city, Wyoming, 56, 13150, 2021-01-19 14:47:03
+1614, Cheyenne city, Wyoming, 56, 13900, 2021-01-19 14:47:03
+1615, Gillette city, Wyoming, 56, 31855, 2021-01-19 14:47:03
+1616, Laramie city, Wyoming, 56, 45050, 2021-01-19 14:47:03
+1617, Rock Springs city, Wyoming, 56, 67235, 2021-01-19 14:47:03
+1618, Arecibo zona urbana, Puerto Rico, 72, 03368, 2021-01-19 14:47:03
+1619, Bayamón zona urbana, Puerto Rico, 72, 06593, 2021-01-19 14:47:03
+1620, Caguas zona urbana, Puerto Rico, 72, 10334, 2021-01-19 14:47:03
+1621, Carolina zona urbana, Puerto Rico, 72, 14290, 2021-01-19 14:47:03
+1622, Cataño zona urbana, Puerto Rico, 72, 15193, 2021-01-19 14:47:03
+1623, Fajardo zona urbana, Puerto Rico, 72, 27964, 2021-01-19 14:47:03
+1624, Guayama zona urbana, Puerto Rico, 72, 32221, 2021-01-19 14:47:03
+1625, Guaynabo zona urbana, Puerto Rico, 72, 32522, 2021-01-19 14:47:03
+1626, Levittown comunidad, Puerto Rico, 72, 45336, 2021-01-19 14:47:03
+1627, Mayagüez zona urbana, Puerto Rico, 72, 52431, 2021-01-19 14:47:03
+1628, Ponce zona urbana, Puerto Rico, 72, 63820, 2021-01-19 14:47:03
+1629, San Juan zona urbana, Puerto Rico, 72, 76770, 2021-01-19 14:47:03
+1630, Trujillo Alto zona urbana, Puerto Rico, 72, 83606, 2021-01-19 14:47:03
+1631, Vega Baja zona urbana, Puerto Rico, 72, 85326, 2021-01-19 14:47:03
+1632, New Brighton city, Minnesota, 27, 45430, 2021-01-19 14:47:03
+1633, New Hope city, Minnesota, 27, 45628, 2021-01-19 14:47:03
+1634, Northfield city, Minnesota, 27, 46924, 2021-01-19 14:47:03
+1635, Oakdale city, Minnesota, 27, 47680, 2021-01-19 14:47:03
+1636, Owatonna city, Minnesota, 27, 49300, 2021-01-19 14:47:03
+1637, Plymouth city, Minnesota, 27, 51730, 2021-01-19 14:47:03
+1638, Prior Lake city, Minnesota, 27, 52594, 2021-01-19 14:47:03
+1639, Ramsey city, Minnesota, 27, 53026, 2021-01-19 14:47:03
+1640, Richfield city, Minnesota, 27, 54214, 2021-01-19 14:47:03
+1641, Rochester city, Minnesota, 27, 54880, 2021-01-19 14:47:03
+1642, Rosemount city, Minnesota, 27, 55726, 2021-01-19 14:47:03
+1643, Roseville city, Minnesota, 27, 55852, 2021-01-19 14:47:03
+1644, St. Cloud city, Minnesota, 27, 56896, 2021-01-19 14:47:03
+1645, St. Louis Park city, Minnesota, 27, 57220, 2021-01-19 14:47:03
+1646, St. Paul city, Minnesota, 27, 58000, 2021-01-19 14:47:03
+1647, Savage city, Minnesota, 27, 58738, 2021-01-19 14:47:03
+1648, Shakopee city, Minnesota, 27, 59350, 2021-01-19 14:47:03
+1649, Shoreview city, Minnesota, 27, 59998, 2021-01-19 14:47:03
+1650, South St. Paul city, Minnesota, 27, 61492, 2021-01-19 14:47:03
+1651, White Bear Lake city, Minnesota, 27, 69970, 2021-01-19 14:47:03
+1652, Winona city, Minnesota, 27, 71032, 2021-01-19 14:47:03
+1653, Woodbury city, Minnesota, 27, 71428, 2021-01-19 14:47:03
+1654, Biloxi city, Mississippi, 28, 06220, 2021-01-19 14:47:03
+1655, Brandon city, Mississippi, 28, 08300, 2021-01-19 14:47:03
+1656, Clinton city, Mississippi, 28, 14420, 2021-01-19 14:47:03
+1657, Columbus city, Mississippi, 28, 15380, 2021-01-19 14:47:03
+1658, Greenville city, Mississippi, 28, 29180, 2021-01-19 14:47:03
+1659, Gulfport city, Mississippi, 28, 29700, 2021-01-19 14:47:03
+1660, Hattiesburg city, Mississippi, 28, 31020, 2021-01-19 14:47:03
+1661, Horn Lake city, Mississippi, 28, 33700, 2021-01-19 14:47:03
+1662, Jackson city, Mississippi, 28, 36000, 2021-01-19 14:47:03
+1663, Madison city, Mississippi, 28, 44520, 2021-01-19 14:47:03
+1664, Meridian city, Mississippi, 28, 46640, 2021-01-19 14:47:03
+1665, Olive Branch city, Mississippi, 28, 54040, 2021-01-19 14:47:03
+1666, Oxford city, Mississippi, 28, 54840, 2021-01-19 14:47:03
+1667, Pascagoula city, Mississippi, 28, 55360, 2021-01-19 14:47:03
+1668, Pearl city, Mississippi, 28, 55760, 2021-01-19 14:47:03
+1669, Ridgeland city, Mississippi, 28, 62520, 2021-01-19 14:47:03
+1670, Southaven city, Mississippi, 28, 69280, 2021-01-19 14:47:03
+1671, Starkville city, Mississippi, 28, 70240, 2021-01-19 14:47:03
+1672, Tupelo city, Mississippi, 28, 74840, 2021-01-19 14:47:03
+1673, Vicksburg city, Mississippi, 28, 76720, 2021-01-19 14:47:03
+1674, Affton CDP, Missouri, 29, 00280, 2021-01-19 14:47:03
+1675, Arnold city, Missouri, 29, 01972, 2021-01-19 14:47:03
+1676, Ballwin city, Missouri, 29, 03160, 2021-01-19 14:47:03
+1677, Belton city, Missouri, 29, 04384, 2021-01-19 14:47:03
+1678, Blue Springs city, Missouri, 29, 06652, 2021-01-19 14:47:03
+1679, Cape Girardeau city, Missouri, 29, 11242, 2021-01-19 14:47:03
+1680, Chesterfield city, Missouri, 29, 13600, 2021-01-19 14:47:03
+1681, Columbia city, Missouri, 29, 15670, 2021-01-19 14:47:03
+1682, Concord CDP, Missouri, 29, 16030, 2021-01-19 14:47:03
+1683, Ferguson city, Missouri, 29, 23986, 2021-01-19 14:47:03
+1684, Florissant city, Missouri, 29, 24778, 2021-01-19 14:47:03
+1685, Fort Leonard Wood CDP, Missouri, 29, 25264, 2021-01-19 14:47:03
+1686, Gladstone city, Missouri, 29, 27190, 2021-01-19 14:47:03
+1687, Grandview city, Missouri, 29, 28324, 2021-01-19 14:47:03
+1688, Hazelwood city, Missouri, 29, 31276, 2021-01-19 14:47:03
+1689, Independence city, Missouri, 29, 35000, 2021-01-19 14:47:03
+1690, Jefferson City city, Missouri, 29, 37000, 2021-01-19 14:47:03
+1691, Joplin city, Missouri, 29, 37592, 2021-01-19 14:47:03
+1692, Kansas City city, Missouri, 29, 38000, 2021-01-19 14:47:03
+1693, Kirkwood city, Missouri, 29, 39044, 2021-01-19 14:47:03
+1694, Lee\s Summit city, Missouri, 29, 41348, 2021-01-19 14:47:03
+1695, Liberty city, Missouri, 29, 42032, 2021-01-19 14:47:03
+1696, Maryland Heights city, Missouri, 29, 46586, 2021-01-19 14:47:03
+1697, Mehlville CDP, Missouri, 29, 47180, 2021-01-19 14:47:03
+1698, Nixa city, Missouri, 29, 52616, 2021-01-19 14:47:03
+1699, Oakville CDP, Missouri, 29, 53876, 2021-01-19 14:47:03
+1700, O\Fallon city, Missouri, 29, 54074, 2021-01-19 14:47:03
+1701, Raymore city, Missouri, 29, 60752, 2021-01-19 14:47:03
+1702, Raytown city, Missouri, 29, 60788, 2021-01-19 14:47:03
+1703, Rolla city, Missouri, 29, 62912, 2021-01-19 14:47:03
+1704, St. Charles city, Missouri, 29, 64082, 2021-01-19 14:47:03
+1705, St. Joseph city, Missouri, 29, 64550, 2021-01-19 14:47:03
+1706, St. Louis city, Missouri, 29, 65000, 2021-01-19 14:47:03
+1707, St. Peters city, Missouri, 29, 65126, 2021-01-19 14:47:03
+1708, Sedalia city, Missouri, 29, 66440, 2021-01-19 14:47:03
+1709, Springfield city, Missouri, 29, 70000, 2021-01-19 14:47:03
+1710, University City city, Missouri, 29, 75220, 2021-01-19 14:47:03
+1711, Webster Groves city, Missouri, 29, 78154, 2021-01-19 14:47:03
+1712, Wentzville city, Missouri, 29, 78442, 2021-01-19 14:47:03
+1713, Wildwood city, Missouri, 29, 79820, 2021-01-19 14:47:03
+1714, Billings city, Montana, 30, 06550, 2021-01-19 14:47:03
+1715, Bozeman city, Montana, 30, 08950, 2021-01-19 14:47:03
+1716, Butte-Silver Bow balance, Montana, 30, 11397, 2021-01-19 14:47:03
+1717, Great Falls city, Montana, 30, 32800, 2021-01-19 14:47:03
+1718, Helena city, Montana, 30, 35600, 2021-01-19 14:47:03
+1719, Kalispell city, Montana, 30, 40075, 2021-01-19 14:47:03
+1720, Missoula city, Montana, 30, 50200, 2021-01-19 14:47:03
+1721, Bellevue city, Nebraska, 31, 03950, 2021-01-19 14:47:03
+1722, Columbus city, Nebraska, 31, 10110, 2021-01-19 14:47:03
+1723, Fremont city, Nebraska, 31, 17670, 2021-01-19 14:47:03
+1724, Grand Island city, Nebraska, 31, 19595, 2021-01-19 14:47:03
+1725, Hastings city, Nebraska, 31, 21415, 2021-01-19 14:47:03
+1726, Kearney city, Nebraska, 31, 25055, 2021-01-19 14:47:03
+1727, Lincoln city, Nebraska, 31, 28000, 2021-01-19 14:47:03
+1728, Norfolk city, Nebraska, 31, 34615, 2021-01-19 14:47:03
+1729, North Platte city, Nebraska, 31, 35000, 2021-01-19 14:47:03
+1730, Omaha city, Nebraska, 31, 37000, 2021-01-19 14:47:03
+1731, Papillion city, Nebraska, 31, 38295, 2021-01-19 14:47:03
+1732, Carson City, Nevada, 32, 09700, 2021-01-19 14:47:03
+1733, Elko city, Nevada, 32, 22500, 2021-01-19 14:47:03
+1734, Enterprise CDP, Nevada, 32, 23770, 2021-01-19 14:47:03
+1735, Henderson city, Nevada, 32, 31900, 2021-01-19 14:47:03
+1736, Las Vegas city, Nevada, 32, 40000, 2021-01-19 14:47:03
+1737, North Las Vegas city, Nevada, 32, 51800, 2021-01-19 14:47:03
+1738, Pahrump CDP, Nevada, 32, 53800, 2021-01-19 14:47:03
+1739, Paradise CDP, Nevada, 32, 54600, 2021-01-19 14:47:03
+1740, Reno city, Nevada, 32, 60600, 2021-01-19 14:47:03
+1741, Sparks city, Nevada, 32, 68400, 2021-01-19 14:47:03
+1742, Spring Valley CDP, Nevada, 32, 68585, 2021-01-19 14:47:03
+1743, Summerlin South CDP, Nevada, 32, 70900, 2021-01-19 14:47:03
+1744, Sunrise Manor CDP, Nevada, 32, 71400, 2021-01-19 14:47:03
+1745, Sun Valley CDP, Nevada, 32, 71600, 2021-01-19 14:47:03
+1746, Whitney CDP, Nevada, 32, 83800, 2021-01-19 14:47:03
+1747, Winchester CDP, Nevada, 32, 84600, 2021-01-19 14:47:03
+1748, Concord city, New Hampshire, 33, 14200, 2021-01-19 14:47:03
+1749, Derry CDP, New Hampshire, 33, 17860, 2021-01-19 14:47:03
+1750, Dover city, New Hampshire, 33, 18820, 2021-01-19 14:47:03
+1751, Keene city, New Hampshire, 33, 39300, 2021-01-19 14:47:03
+1752, Manchester city, New Hampshire, 33, 45140, 2021-01-19 14:47:03
+1753, Nashua city, New Hampshire, 33, 50260, 2021-01-19 14:47:03
+1754, Portsmouth city, New Hampshire, 33, 62900, 2021-01-19 14:47:03
+1755, Rochester city, New Hampshire, 33, 65140, 2021-01-19 14:47:03
+1756, Atlantic City city, New Jersey, 34, 02080, 2021-01-19 14:47:03
+1757, Avenel CDP, New Jersey, 34, 02350, 2021-01-19 14:47:03
+1758, Bayonne city, New Jersey, 34, 03580, 2021-01-19 14:47:03
+1759, Bergenfield borough, New Jersey, 34, 05170, 2021-01-19 14:47:03
+1760, Bridgeton city, New Jersey, 34, 07600, 2021-01-19 14:47:03
+1761, Camden city, New Jersey, 34, 10000, 2021-01-19 14:47:03
+1762, Carteret borough, New Jersey, 34, 10750, 2021-01-19 14:47:03
+1763, Cliffside Park borough, New Jersey, 34, 13570, 2021-01-19 14:47:03
+1764, Clifton city, New Jersey, 34, 13690, 2021-01-19 14:47:03
+1765, East Orange city, New Jersey, 34, 19390, 2021-01-19 14:47:03
+1766, Elizabeth city, New Jersey, 34, 21000, 2021-01-19 14:47:03
+1767, Elmwood Park borough, New Jersey, 34, 21300, 2021-01-19 14:47:03
+1768, Englewood city, New Jersey, 34, 21480, 2021-01-19 14:47:03
+1769, Fair Lawn borough, New Jersey, 34, 22470, 2021-01-19 14:47:03
+1770, Fort Lee borough, New Jersey, 34, 24420, 2021-01-19 14:47:03
+1771, Garfield city, New Jersey, 34, 25770, 2021-01-19 14:47:03
+1772, Hackensack city, New Jersey, 34, 28680, 2021-01-19 14:47:03
+1773, Hoboken city, New Jersey, 34, 32250, 2021-01-19 14:47:03
+1774, Jersey City city, New Jersey, 34, 36000, 2021-01-19 14:47:03
+1775, Kearny town, New Jersey, 34, 36510, 2021-01-19 14:47:03
+1776, Lakewood CDP, New Jersey, 34, 38580, 2021-01-19 14:47:03
+1777, Linden city, New Jersey, 34, 40350, 2021-01-19 14:47:03
+1778, Lodi borough, New Jersey, 34, 41100, 2021-01-19 14:47:03
+1779, Long Branch city, New Jersey, 34, 41310, 2021-01-19 14:47:03
+1780, Millville city, New Jersey, 34, 46680, 2021-01-19 14:47:03
+1781, Newark city, New Jersey, 34, 51000, 2021-01-19 14:47:03
+1782, New Brunswick city, New Jersey, 34, 51210, 2021-01-19 14:47:03
+1783, North Plainfield borough, New Jersey, 34, 53280, 2021-01-19 14:47:03
+1784, Old Bridge CDP, New Jersey, 34, 54690, 2021-01-19 14:47:03
+1785, Palisades Park borough, New Jersey, 34, 55770, 2021-01-19 14:47:03
+1786, Paramus borough, New Jersey, 34, 55950, 2021-01-19 14:47:03
+1787, Passaic city, New Jersey, 34, 56550, 2021-01-19 14:47:03
+1788, Paterson city, New Jersey, 34, 57000, 2021-01-19 14:47:03
+1789, Perth Amboy city, New Jersey, 34, 58200, 2021-01-19 14:47:03
+1790, Plainfield city, New Jersey, 34, 59190, 2021-01-19 14:47:03
+1791, Pleasantville city, New Jersey, 34, 59640, 2021-01-19 14:47:03
+1792, Princeton, New Jersey, 34, 60900, 2021-01-19 14:47:03
+1793, Rahway city, New Jersey, 34, 61530, 2021-01-19 14:47:03
+1794, Ridgewood village, New Jersey, 34, 63000, 2021-01-19 14:47:03
+1795, Roselle borough, New Jersey, 34, 64620, 2021-01-19 14:47:03
+1796, Sayreville borough, New Jersey, 34, 65790, 2021-01-19 14:47:03
+1797, Somerset CDP, New Jersey, 34, 68370, 2021-01-19 14:47:03
+1798, South Plainfield borough, New Jersey, 34, 69390, 2021-01-19 14:47:03
+1799, Summit city, New Jersey, 34, 71430, 2021-01-19 14:47:03
+1800, Toms River CDP, New Jersey, 34, 73110, 2021-01-19 14:47:03
+1801, Trenton city, New Jersey, 34, 74000, 2021-01-19 14:47:03
+1802, Union City city, New Jersey, 34, 74630, 2021-01-19 14:47:03
+1803, Vineland city, New Jersey, 34, 76070, 2021-01-19 14:47:03
+1804, Westfield town, New Jersey, 34, 79040, 2021-01-19 14:47:03
+1805, West New York town, New Jersey, 34, 79610, 2021-01-19 14:47:03
+1806, Alamogordo city, New Mexico, 35, 01780, 2021-01-19 14:47:03
+1807, Albuquerque city, New Mexico, 35, 02000, 2021-01-19 14:47:03
+1808, Carlsbad city, New Mexico, 35, 12150, 2021-01-19 14:47:03
+1809, Clovis city, New Mexico, 35, 16420, 2021-01-19 14:47:03
+1810, Farmington city, New Mexico, 35, 25800, 2021-01-19 14:47:03
+1811, Gallup city, New Mexico, 35, 28460, 2021-01-19 14:47:03
+1812, Hobbs city, New Mexico, 35, 32520, 2021-01-19 14:47:03
+1813, Las Cruces city, New Mexico, 35, 39380, 2021-01-19 14:47:03
+1814, Rio Rancho city, New Mexico, 35, 63460, 2021-01-19 14:47:03
+1815, Roswell city, New Mexico, 35, 64930, 2021-01-19 14:47:03
+1816, Santa Fe city, New Mexico, 35, 70500, 2021-01-19 14:47:03
+1817, South Valley CDP, New Mexico, 35, 74520, 2021-01-19 14:47:03
+1818, Albany city, New York, 36, 01000, 2021-01-19 14:47:03
+1819, Auburn city, New York, 36, 03078, 2021-01-19 14:47:03
+1820, Baldwin CDP, New York, 36, 04143, 2021-01-19 14:47:03
+1821, Bay Shore CDP, New York, 36, 04935, 2021-01-19 14:47:03
+1822, Binghamton city, New York, 36, 06607, 2021-01-19 14:47:03
+1823, Brentwood CDP, New York, 36, 08026, 2021-01-19 14:47:03
+1824, Brighton CDP, New York, 36, 08257, 2021-01-19 14:47:03
+1825, Buffalo city, New York, 36, 11000, 2021-01-19 14:47:03
+1826, Centereach CDP, New York, 36, 13376, 2021-01-19 14:47:03
+1827, Central Islip CDP, New York, 36, 13552, 2021-01-19 14:47:03
+1828, Cheektowaga CDP, New York, 36, 15000, 2021-01-19 14:47:03
+1829, Commack CDP, New York, 36, 17530, 2021-01-19 14:47:03
+1830, Copiague CDP, New York, 36, 18146, 2021-01-19 14:47:03
+1831, Coram CDP, New York, 36, 18157, 2021-01-19 14:47:03
+1832, Deer Park CDP, New York, 36, 19972, 2021-01-19 14:47:03
+1833, Dix Hills CDP, New York, 36, 20687, 2021-01-19 14:47:03
+1834, East Meadow CDP, New York, 36, 22502, 2021-01-19 14:47:03
+1835, East Northport CDP, New York, 36, 22612, 2021-01-19 14:47:03
+1836, East Patchogue CDP, New York, 36, 22733, 2021-01-19 14:47:03
+1837, Elmira city, New York, 36, 24229, 2021-01-19 14:47:03
+1838, Elmont CDP, New York, 36, 24273, 2021-01-19 14:47:03
+1839, Franklin Square CDP, New York, 36, 27309, 2021-01-19 14:47:03
+1840, Freeport village, New York, 36, 27485, 2021-01-19 14:47:03
+1841, Garden City village, New York, 36, 28178, 2021-01-19 14:47:03
+1842, Glen Cove city, New York, 36, 29113, 2021-01-19 14:47:03
+1843, Harrison village, New York, 36, 32402, 2021-01-19 14:47:03
+1844, Hempstead village, New York, 36, 33139, 2021-01-19 14:47:03
+1845, Hicksville CDP, New York, 36, 34374, 2021-01-19 14:47:03
+1846, Holbrook CDP, New York, 36, 35056, 2021-01-19 14:47:03
+1847, Holtsville CDP, New York, 36, 35254, 2021-01-19 14:47:03
+1848, Huntington Station CDP, New York, 36, 37044, 2021-01-19 14:47:03
+1849, Irondequoit CDP, New York, 36, 37737, 2021-01-19 14:47:03
+1850, Islip CDP, New York, 36, 37869, 2021-01-19 14:47:03
+1851, Ithaca city, New York, 36, 38077, 2021-01-19 14:47:03
+1852, Jamestown city, New York, 36, 38264, 2021-01-19 14:47:03
+1853, Kingston city, New York, 36, 39727, 2021-01-19 14:47:03
+1854, Kiryas Joel village, New York, 36, 39853, 2021-01-19 14:47:03
+1855, Lake Ronkonkoma CDP, New York, 36, 40838, 2021-01-19 14:47:03
+1856, Levittown CDP, New York, 36, 42081, 2021-01-19 14:47:03
+1857, Lindenhurst village, New York, 36, 42554, 2021-01-19 14:47:03
+1858, Lockport city, New York, 36, 43082, 2021-01-19 14:47:03
+1859, Long Beach city, New York, 36, 43335, 2021-01-19 14:47:03
+1860, Massapequa CDP, New York, 36, 45986, 2021-01-19 14:47:03
+1861, Medford CDP, New York, 36, 46404, 2021-01-19 14:47:03
+1862, Middletown city, New York, 36, 47042, 2021-01-19 14:47:03
+1863, Monsey CDP, New York, 36, 48010, 2021-01-19 14:47:03
+1864, Mount Vernon city, New York, 36, 49121, 2021-01-19 14:47:03
+1865, Nanuet CDP, New York, 36, 49407, 2021-01-19 14:47:03
+1866, Newburgh city, New York, 36, 50034, 2021-01-19 14:47:03
+1867, New City CDP, New York, 36, 50100, 2021-01-19 14:47:03
+1868, New Rochelle city, New York, 36, 50617, 2021-01-19 14:47:03
+1869, New York city, New York, 36, 51000, 2021-01-19 14:47:03
+1870, Niagara Falls city, New York, 36, 51055, 2021-01-19 14:47:03
+1871, North Amityville CDP, New York, 36, 51396, 2021-01-19 14:47:03
+1872, North Tonawanda city, New York, 36, 53682, 2021-01-19 14:47:03
+1873, Oceanside CDP, New York, 36, 54441, 2021-01-19 14:47:03
+1874, Ossining village, New York, 36, 55530, 2021-01-19 14:47:03
+1875, Peekskill city, New York, 36, 56979, 2021-01-19 14:47:03
+1876, Plainview CDP, New York, 36, 58442, 2021-01-19 14:47:03
+1877, Port Chester village, New York, 36, 59223, 2021-01-19 14:47:03
+1878, Poughkeepsie city, New York, 36, 59641, 2021-01-19 14:47:03
+1879, Rochester city, New York, 36, 63000, 2021-01-19 14:47:03
+1880, Rockville Centre village, New York, 36, 63264, 2021-01-19 14:47:03
+1881, Rome city, New York, 36, 63418, 2021-01-19 14:47:03
+1882, Ronkonkoma CDP, New York, 36, 63473, 2021-01-19 14:47:03
+1883, Rotterdam CDP, New York, 36, 63924, 2021-01-19 14:47:03
+1884, Saratoga Springs city, New York, 36, 65255, 2021-01-19 14:47:03
+1885, Schenectady city, New York, 36, 65508, 2021-01-19 14:47:03
+1886, Shirley CDP, New York, 36, 67070, 2021-01-19 14:47:03
+1887, Smithtown CDP, New York, 36, 67851, 2021-01-19 14:47:03
+1888, Spring Valley village, New York, 36, 70420, 2021-01-19 14:47:03
+1889, Syosset CDP, New York, 36, 72554, 2021-01-19 14:47:03
+1890, Syracuse city, New York, 36, 73000, 2021-01-19 14:47:03
+1891, Tonawanda CDP, New York, 36, 74183, 2021-01-19 14:47:03
+1892, Troy city, New York, 36, 75484, 2021-01-19 14:47:03
+1893, Uniondale CDP, New York, 36, 76089, 2021-01-19 14:47:03
+1894, Utica city, New York, 36, 76540, 2021-01-19 14:47:03
+1895, Valley Stream village, New York, 36, 76705, 2021-01-19 14:47:03
+1896, Wantagh CDP, New York, 36, 78146, 2021-01-19 14:47:03
+1897, Watertown city, New York, 36, 78608, 2021-01-19 14:47:03
+1898, West Babylon CDP, New York, 36, 79246, 2021-01-19 14:47:03
+1899, West Hempstead CDP, New York, 36, 80225, 2021-01-19 14:47:03
+1900, West Islip CDP, New York, 36, 80302, 2021-01-19 14:47:03
+1901, West Seneca CDP, New York, 36, 80907, 2021-01-19 14:47:03
+1902, White Plains city, New York, 36, 81677, 2021-01-19 14:47:03
+1903, Yonkers city, New York, 36, 84000, 2021-01-19 14:47:03
+1904, Apex town, North Carolina, 37, 01520, 2021-01-19 14:47:03
+1905, Asheboro city, North Carolina, 37, 02080, 2021-01-19 14:47:03
+1906, Asheville city, North Carolina, 37, 02140, 2021-01-19 14:47:03
+1907, Burlington city, North Carolina, 37, 09060, 2021-01-19 14:47:03
+1908, Carrboro town, North Carolina, 37, 10620, 2021-01-19 14:47:03
+1909, Cary town, North Carolina, 37, 10740, 2021-01-19 14:47:03
+1910, Chapel Hill town, North Carolina, 37, 11800, 2021-01-19 14:47:03
+1911, Charlotte city, North Carolina, 37, 12000, 2021-01-19 14:47:03
+1912, Concord city, North Carolina, 37, 14100, 2021-01-19 14:47:03
+1913, Cornelius town, North Carolina, 37, 14700, 2021-01-19 14:47:03
+1914, Durham city, North Carolina, 37, 19000, 2021-01-19 14:47:03
+1915, Fayetteville city, North Carolina, 37, 22920, 2021-01-19 14:47:03
+1916, Fuquay-Varina town, North Carolina, 37, 25300, 2021-01-19 14:47:03
+1917, Garner town, North Carolina, 37, 25480, 2021-01-19 14:47:03
+1918, Gastonia city, North Carolina, 37, 25580, 2021-01-19 14:47:03
+1919, Goldsboro city, North Carolina, 37, 26880, 2021-01-19 14:47:03
+1920, Greensboro city, North Carolina, 37, 28000, 2021-01-19 14:47:03
+1921, Greenville city, North Carolina, 37, 28080, 2021-01-19 14:47:03
+1922, Havelock city, North Carolina, 37, 30120, 2021-01-19 14:47:03
+1923, Hickory city, North Carolina, 37, 31060, 2021-01-19 14:47:03
+1924, High Point city, North Carolina, 37, 31400, 2021-01-19 14:47:03
+1925, Holly Springs town, North Carolina, 37, 32260, 2021-01-19 14:47:03
+1926, Huntersville town, North Carolina, 37, 33120, 2021-01-19 14:47:03
+1927, Indian Trail town, North Carolina, 37, 33560, 2021-01-19 14:47:03
+1928, Jacksonville city, North Carolina, 37, 34200, 2021-01-19 14:47:03
+1929, Kannapolis city, North Carolina, 37, 35200, 2021-01-19 14:47:03
+1930, Kernersville town, North Carolina, 37, 35600, 2021-01-19 14:47:03
+1931, Kinston city, North Carolina, 37, 35920, 2021-01-19 14:47:03
+1932, Lumberton city, North Carolina, 37, 39700, 2021-01-19 14:47:03
+1933, Matthews town, North Carolina, 37, 41960, 2021-01-19 14:47:03
+1934, Mint Hill town, North Carolina, 37, 43480, 2021-01-19 14:47:03
+1935, Monroe city, North Carolina, 37, 43920, 2021-01-19 14:47:03
+1936, Mooresville town, North Carolina, 37, 44220, 2021-01-19 14:47:03
+1937, Morrisville town, North Carolina, 37, 44520, 2021-01-19 14:47:03
+1938, New Bern city, North Carolina, 37, 46340, 2021-01-19 14:47:03
+1939, Raleigh city, North Carolina, 37, 55000, 2021-01-19 14:47:03
+1940, Rocky Mount city, North Carolina, 37, 57500, 2021-01-19 14:47:03
+1941, Salisbury city, North Carolina, 37, 58860, 2021-01-19 14:47:03
+1942, Sanford city, North Carolina, 37, 59280, 2021-01-19 14:47:03
+1943, Shelby city, North Carolina, 37, 61200, 2021-01-19 14:47:03
+1944, Statesville city, North Carolina, 37, 64740, 2021-01-19 14:47:03
+1945, Thomasville city, North Carolina, 37, 67420, 2021-01-19 14:47:03
+1946, Wake Forest town, North Carolina, 37, 70540, 2021-01-19 14:47:03
+1947, Wilmington city, North Carolina, 37, 74440, 2021-01-19 14:47:03
+1948, Wilson city, North Carolina, 37, 74540, 2021-01-19 14:47:03
+1949, Winston-Salem city, North Carolina, 37, 75000, 2021-01-19 14:47:03
+1950, Bismarck city, North Dakota, 38, 07200, 2021-01-19 14:47:03
+1951, Dickinson city, North Dakota, 38, 19620, 2021-01-19 14:47:03
+1952, Fargo city, North Dakota, 38, 25700, 2021-01-19 14:47:03
+1953, Grand Forks city, North Dakota, 38, 32060, 2021-01-19 14:47:03
+1954, Mandan city, North Dakota, 38, 49900, 2021-01-19 14:47:03
+1955, Minot city, North Dakota, 38, 53380, 2021-01-19 14:47:03
+1956, West Fargo city, North Dakota, 38, 84780, 2021-01-19 14:47:03
+1957, Williston city, North Dakota, 38, 86220, 2021-01-19 14:47:03
+1958, Akron city, Ohio, 39, 01000, 2021-01-19 14:47:03
+1959, Alliance city, Ohio, 39, 01420, 2021-01-19 14:47:03
+1960, Ashland city, Ohio, 39, 02568, 2021-01-19 14:47:03
+1961, Athens city, Ohio, 39, 02736, 2021-01-19 14:47:03
+1962, Austintown CDP, Ohio, 39, 03184, 2021-01-19 14:47:03
+1963, Avon city, Ohio, 39, 03352, 2021-01-19 14:47:03
+1964, Avon Lake city, Ohio, 39, 03464, 2021-01-19 14:47:03
+1965, Barberton city, Ohio, 39, 03828, 2021-01-19 14:47:03
+1966, Beavercreek city, Ohio, 39, 04720, 2021-01-19 14:47:03
+1967, Boardman CDP, Ohio, 39, 07454, 2021-01-19 14:47:03
+1968, Bowling Green city, Ohio, 39, 07972, 2021-01-19 14:47:03
+1969, Brunswick city, Ohio, 39, 09680, 2021-01-19 14:47:03
+1970, Canton city, Ohio, 39, 12000, 2021-01-19 14:47:03
+1971, Centerville city, Ohio, 39, 13190, 2021-01-19 14:47:03
+1972, Chillicothe city, Ohio, 39, 14184, 2021-01-19 14:47:03
+1973, Cincinnati city, Ohio, 39, 15000, 2021-01-19 14:47:03
+1974, Cleveland city, Ohio, 39, 16000, 2021-01-19 14:47:03
+1975, Cleveland Heights city, Ohio, 39, 16014, 2021-01-19 14:47:03
+1976, Columbus city, Ohio, 39, 18000, 2021-01-19 14:47:03
+1977, Cuyahoga Falls city, Ohio, 39, 19778, 2021-01-19 14:47:03
+1978, Dayton city, Ohio, 39, 21000, 2021-01-19 14:47:03
+1979, Delaware city, Ohio, 39, 21434, 2021-01-19 14:47:03
+1980, Dublin city, Ohio, 39, 22694, 2021-01-19 14:47:03
+1981, Elyria city, Ohio, 39, 25256, 2021-01-19 14:47:03
+1982, Euclid city, Ohio, 39, 25704, 2021-01-19 14:47:03
+1983, Fairborn city, Ohio, 39, 25914, 2021-01-19 14:47:03
+1984, Fairfield city, Ohio, 39, 25970, 2021-01-19 14:47:03
+1985, Findlay city, Ohio, 39, 27048, 2021-01-19 14:47:03
+1986, Gahanna city, Ohio, 39, 29106, 2021-01-19 14:47:03
+1987, Garfield Heights city, Ohio, 39, 29428, 2021-01-19 14:47:03
+1988, Green city, Ohio, 39, 31860, 2021-01-19 14:47:03
+1989, Grove City city, Ohio, 39, 32592, 2021-01-19 14:47:03
+1990, Hamilton city, Ohio, 39, 33012, 2021-01-19 14:47:03
+1991, Hilliard city, Ohio, 39, 35476, 2021-01-19 14:47:03
+1992, Huber Heights city, Ohio, 39, 36610, 2021-01-19 14:47:03
+1993, Hudson city, Ohio, 39, 36651, 2021-01-19 14:47:03
+1994, Kent city, Ohio, 39, 39872, 2021-01-19 14:47:03
+1995, Kettering city, Ohio, 39, 40040, 2021-01-19 14:47:03
+1996, Lakewood city, Ohio, 39, 41664, 2021-01-19 14:47:03
+1997, Lancaster city, Ohio, 39, 41720, 2021-01-19 14:47:03
+1998, Lebanon city, Ohio, 39, 42364, 2021-01-19 14:47:03
+1999, Lima city, Ohio, 39, 43554, 2021-01-19 14:47:03
+2000, Lorain city, Ohio, 39, 44856, 2021-01-19 14:47:03
+2001, Mansfield city, Ohio, 39, 47138, 2021-01-19 14:47:03
+2002, Maple Heights city, Ohio, 39, 47306, 2021-01-19 14:47:03
+2003, Marion city, Ohio, 39, 47754, 2021-01-19 14:47:03
+2004, Marysville city, Ohio, 39, 48160, 2021-01-19 14:47:03
+2005, Mason city, Ohio, 39, 48188, 2021-01-19 14:47:03
+2006, Massillon city, Ohio, 39, 48244, 2021-01-19 14:47:03
+2007, Medina city, Ohio, 39, 48790, 2021-01-19 14:47:03
+2008, Mentor city, Ohio, 39, 49056, 2021-01-19 14:47:03
+2009, Miamisburg city, Ohio, 39, 49434, 2021-01-19 14:47:03
+2010, Middletown city, Ohio, 39, 49840, 2021-01-19 14:47:03
+2011, Newark city, Ohio, 39, 54040, 2021-01-19 14:47:03
+2012, North Olmsted city, Ohio, 39, 56882, 2021-01-19 14:47:03
+2013, North Ridgeville city, Ohio, 39, 56966, 2021-01-19 14:47:03
+2014, North Royalton city, Ohio, 39, 57008, 2021-01-19 14:47:03
+2015, Oregon city, Ohio, 39, 58730, 2021-01-19 14:47:03
+2016, Oxford city, Ohio, 39, 59234, 2021-01-19 14:47:03
+2017, Parma city, Ohio, 39, 61000, 2021-01-19 14:47:03
+2018, Parma Heights city, Ohio, 39, 61028, 2021-01-19 14:47:03
+2019, Perrysburg city, Ohio, 39, 62148, 2021-01-19 14:47:03
+2020, Piqua city, Ohio, 39, 62848, 2021-01-19 14:47:03
+2021, Portsmouth city, Ohio, 39, 64304, 2021-01-19 14:47:03
+2022, Reynoldsburg city, Ohio, 39, 66390, 2021-01-19 14:47:03
+2023, Riverside city, Ohio, 39, 67468, 2021-01-19 14:47:03
+2024, Rocky River city, Ohio, 39, 68056, 2021-01-19 14:47:03
+2025, Sandusky city, Ohio, 39, 70380, 2021-01-19 14:47:03
+2026, Shaker Heights city, Ohio, 39, 71682, 2021-01-19 14:47:03
+2027, Sidney city, Ohio, 39, 72424, 2021-01-19 14:47:03
+2028, Solon city, Ohio, 39, 72928, 2021-01-19 14:47:03
+2029, South Euclid city, Ohio, 39, 73264, 2021-01-19 14:47:03
+2030, Springfield city, Ohio, 39, 74118, 2021-01-19 14:47:03
+2031, Stow city, Ohio, 39, 74944, 2021-01-19 14:47:03
+2032, Strongsville city, Ohio, 39, 75098, 2021-01-19 14:47:03
+2033, Toledo city, Ohio, 39, 77000, 2021-01-19 14:47:03
+2034, Trotwood city, Ohio, 39, 77504, 2021-01-19 14:47:03
+2035, Troy city, Ohio, 39, 77588, 2021-01-19 14:47:03
+2036, Upper Arlington city, Ohio, 39, 79002, 2021-01-19 14:47:03
+2037, Wadsworth city, Ohio, 39, 80304, 2021-01-19 14:47:03
+2038, Warren city, Ohio, 39, 80892, 2021-01-19 14:47:03
+2039, Westerville city, Ohio, 39, 83342, 2021-01-19 14:47:03
+2040, Westlake city, Ohio, 39, 83622, 2021-01-19 14:47:03
+2041, White Oak CDP, Ohio, 39, 84812, 2021-01-19 14:47:03
+2042, Willoughby city, Ohio, 39, 85484, 2021-01-19 14:47:03
+2043, Wooster city, Ohio, 39, 86548, 2021-01-19 14:47:03
+2044, Xenia city, Ohio, 39, 86772, 2021-01-19 14:47:03
+2045, Youngstown city, Ohio, 39, 88000, 2021-01-19 14:47:03
+2046, Zanesville city, Ohio, 39, 88084, 2021-01-19 14:47:03
+2047, Ardmore city, Oklahoma, 40, 02600, 2021-01-19 14:47:03
+2048, Bartlesville city, Oklahoma, 40, 04450, 2021-01-19 14:47:03
+2049, Bixby city, Oklahoma, 40, 06400, 2021-01-19 14:47:03
+2050, Broken Arrow city, Oklahoma, 40, 09050, 2021-01-19 14:47:03
+2051, Del City city, Oklahoma, 40, 19900, 2021-01-19 14:47:03
+2052, Duncan city, Oklahoma, 40, 21900, 2021-01-19 14:47:03
+2053, Edmond city, Oklahoma, 40, 23200, 2021-01-19 14:47:03
+2054, Enid city, Oklahoma, 40, 23950, 2021-01-19 14:47:03
+2055, Jenks city, Oklahoma, 40, 37800, 2021-01-19 14:47:03
+2056, Lawton city, Oklahoma, 40, 41850, 2021-01-19 14:47:03
+2057, Midwest City city, Oklahoma, 40, 48350, 2021-01-19 14:47:03
+2058, Moore city, Oklahoma, 40, 49200, 2021-01-19 14:47:03
+2059, Muskogee city, Oklahoma, 40, 50050, 2021-01-19 14:47:03
+2060, Mustang city, Oklahoma, 40, 50100, 2021-01-19 14:47:03
+2061, Norman city, Oklahoma, 40, 52500, 2021-01-19 14:47:03
+2062, Oklahoma City city, Oklahoma, 40, 55000, 2021-01-19 14:47:03
+2063, Owasso city, Oklahoma, 40, 56650, 2021-01-19 14:47:03
+2064, Ponca City city, Oklahoma, 40, 59850, 2021-01-19 14:47:03
+2065, Sapulpa city, Oklahoma, 40, 65400, 2021-01-19 14:47:03
+2066, Shawnee city, Oklahoma, 40, 66800, 2021-01-19 14:47:03
+2067, Stillwater city, Oklahoma, 40, 70300, 2021-01-19 14:47:03
+2068, Tulsa city, Oklahoma, 40, 75000, 2021-01-19 14:47:03
+2069, Yukon city, Oklahoma, 40, 82950, 2021-01-19 14:47:03
+2070, Albany city, Oregon, 41, 01000, 2021-01-19 14:47:03
+2071, Aloha CDP, Oregon, 41, 01650, 2021-01-19 14:47:03
+2072, Ashland city, Oregon, 41, 03050, 2021-01-19 14:47:03
+2073, Beaverton city, Oregon, 41, 05350, 2021-01-19 14:47:03
+2074, Bend city, Oregon, 41, 05800, 2021-01-19 14:47:03);
+2075, Bethany CDP, Oregon, 41, 05950, 2021-01-19 14:47:03
+2076, Corvallis city, Oregon, 41, 15800, 2021-01-19 14:47:03
+2077, Eugene city, Oregon, 41, 23850, 2021-01-19 14:47:03
+2078, Forest Grove city, Oregon, 41, 26200, 2021-01-19 14:47:03
+2079, Grants Pass city, Oregon, 41, 30550, 2021-01-19 14:47:03
+2080, Gresham city, Oregon, 41, 31250, 2021-01-19 14:47:03
+2081, Hayesville CDP, Oregon, 41, 32850, 2021-01-19 14:47:03
+2082, Hillsboro city, Oregon, 41, 34100, 2021-01-19 14:47:03
+2083, Keizer city, Oregon, 41, 38500, 2021-01-19 14:47:03
+2084, Klamath Falls city, Oregon, 41, 39700, 2021-01-19 14:47:03
+2085, Lake Oswego city, Oregon, 41, 40550, 2021-01-19 14:47:03
+2086, McMinnville city, Oregon, 41, 45000, 2021-01-19 14:47:03
+2087, Medford city, Oregon, 41, 47000, 2021-01-19 14:47:03
+2088, Milwaukie city, Oregon, 41, 48650, 2021-01-19 14:47:03
+2089, Newberg city, Oregon, 41, 52100, 2021-01-19 14:47:03
+2090, Oregon City city, Oregon, 41, 55200, 2021-01-19 14:47:03
+2091, Portland city, Oregon, 41, 59000, 2021-01-19 14:47:03
+2092, Redmond city, Oregon, 41, 61200, 2021-01-19 14:47:03
+2093, Roseburg city, Oregon, 41, 63650, 2021-01-19 14:47:03
+2094, Salem city, Oregon, 41, 64900, 2021-01-19 14:47:03
+2095, Springfield city, Oregon, 41, 69600, 2021-01-19 14:47:03
+2096, Tigard city, Oregon, 41, 73650, 2021-01-19 14:47:03
+2097, Tualatin city, Oregon, 41, 74950, 2021-01-19 14:47:03
+2098, West Linn city, Oregon, 41, 80150, 2021-01-19 14:47:03
+2099, Wilsonville city, Oregon, 41, 82800, 2021-01-19 14:47:03
+2100, Woodburn city, Oregon, 41, 83750, 2021-01-19 14:47:03
+2101, Allentown city, Pennsylvania, 42, 02000, 2021-01-19 14:47:03
+2102, Allison Park CDP, Pennsylvania, 42, 02056, 2021-01-19 14:47:03
+2103, Altoona city, Pennsylvania, 42, 02184, 2021-01-19 14:47:03
+2104, Bethel Park municipality, Pennsylvania, 42, 06064, 2021-01-19 14:47:03
+2105, Bethlehem city, Pennsylvania, 42, 06088, 2021-01-19 14:47:03
+2106, Chambersburg borough, Pennsylvania, 42, 12536, 2021-01-19 14:47:03
+2107, Chester city, Pennsylvania, 42, 13208, 2021-01-19 14:47:03
+2108, Drexel Hill CDP, Pennsylvania, 42, 19920, 2021-01-19 14:47:03
+2109, Easton city, Pennsylvania, 42, 21648, 2021-01-19 14:47:03
+2110, Erie city, Pennsylvania, 42, 24000, 2021-01-19 14:47:03
+2111, Harrisburg city, Pennsylvania, 42, 32800, 2021-01-19 14:47:03
+2112, Hazleton city, Pennsylvania, 42, 33408, 2021-01-19 14:47:03
+2113, Johnstown city, Pennsylvania, 42, 38288, 2021-01-19 14:47:03
+2114, Lancaster city, Pennsylvania, 42, 41216, 2021-01-19 14:47:03
+2115, Lebanon city, Pennsylvania, 42, 42168, 2021-01-19 14:47:03
+2116, Levittown CDP, Pennsylvania, 42, 42928, 2021-01-19 14:47:03
+2117, Monroeville municipality, Pennsylvania, 42, 50528, 2021-01-19 14:47:03
+2118, Murrysville municipality, Pennsylvania, 42, 52432, 2021-01-19 14:47:03
+2119, New Castle city, Pennsylvania, 42, 53368, 2021-01-19 14:47:03
+2120, Norristown borough, Pennsylvania, 42, 54656, 2021-01-19 14:47:03
+2121, Philadelphia city, Pennsylvania, 42, 60000, 2021-01-19 14:47:03
+2122, Pittsburgh city, Pennsylvania, 42, 61000, 2021-01-19 14:47:03
+2123, Plum borough, Pennsylvania, 42, 61536, 2021-01-19 14:47:03
+2124, Pottstown borough, Pennsylvania, 42, 62416, 2021-01-19 14:47:03
+2125, Reading city, Pennsylvania, 42, 63624, 2021-01-19 14:47:03
+2126, Scranton city, Pennsylvania, 42, 69000, 2021-01-19 14:47:03
+2127, State College borough, Pennsylvania, 42, 73808, 2021-01-19 14:47:03
+2128, Upper St. Clair CDP, Pennsylvania, 42, 79277, 2021-01-19 14:47:03
+2129, West Mifflin borough, Pennsylvania, 42, 83512, 2021-01-19 14:47:03
+2130, Wilkes-Barre city, Pennsylvania, 42, 85152, 2021-01-19 14:47:03
+2131, Williamsport city, Pennsylvania, 42, 85312, 2021-01-19 14:47:03
+2132, York city, Pennsylvania, 42, 87048, 2021-01-19 14:47:03
+2133, Cranston city, Rhode Island, 44, 19180, 2021-01-19 14:47:03
+2134, East Providence city, Rhode Island, 44, 22960, 2021-01-19 14:47:03
+2135, Newport city, Rhode Island, 44, 49960, 2021-01-19 14:47:03
+2136, Pawtucket city, Rhode Island, 44, 54640, 2021-01-19 14:47:03
+2137, Providence city, Rhode Island, 44, 59000, 2021-01-19 14:47:03
+2138, Warwick city, Rhode Island, 44, 74300, 2021-01-19 14:47:03
+2139, Westerly CDP, Rhode Island, 44, 76820, 2021-01-19 14:47:03
+2140, Woonsocket city, Rhode Island, 44, 80780, 2021-01-19 14:47:03
+2141, Aiken city, South Carolina, 45, 00550, 2021-01-19 14:47:03
+2142, Anderson city, South Carolina, 45, 01360, 2021-01-19 14:47:03
+2143, Charleston city, South Carolina, 45, 13330, 2021-01-19 14:47:03
+2144, Columbia city, South Carolina, 45, 16000, 2021-01-19 14:47:03
+2145, Conway city, South Carolina, 45, 16405, 2021-01-19 14:47:03
+2146, Easley city, South Carolina, 45, 21985, 2021-01-19 14:47:03
+2147, Florence city, South Carolina, 45, 25810, 2021-01-19 14:47:03
+2148, Goose Creek city, South Carolina, 45, 29815, 2021-01-19 14:47:03
+2149, Greenville city, South Carolina, 45, 30850, 2021-01-19 14:47:03
+2150, Greenwood city, South Carolina, 45, 30895, 2021-01-19 14:47:03
+2151, Greer city, South Carolina, 45, 30985, 2021-01-19 14:47:03
+2152, Hanahan city, South Carolina, 45, 32065, 2021-01-19 14:47:03
+2153, Hilton Head Island town, South Carolina, 45, 34045, 2021-01-19 14:47:03
+2154, Lexington town, South Carolina, 45, 41335, 2021-01-19 14:47:03
+2155, Mauldin city, South Carolina, 45, 45115, 2021-01-19 14:47:03
+2156, Mount Pleasant town, South Carolina, 45, 48535, 2021-01-19 14:47:03
+2157, Myrtle Beach city, South Carolina, 45, 49075, 2021-01-19 14:47:03
+2158, North Augusta city, South Carolina, 45, 50695, 2021-01-19 14:47:03
+2159, North Charleston city, South Carolina, 45, 50875, 2021-01-19 14:47:03
+2160, Rock Hill city, South Carolina, 45, 61405, 2021-01-19 14:47:03
+2161, St. Andrews CDP, South Carolina, 45, 62395, 2021-01-19 14:47:03
+2162, Simpsonville city, South Carolina, 45, 66580, 2021-01-19 14:47:03
+2163, Socastee CDP, South Carolina, 45, 67390, 2021-01-19 14:47:03
+2164, Spartanburg city, South Carolina, 45, 68290, 2021-01-19 14:47:03
+2165, Summerville town, South Carolina, 45, 70270, 2021-01-19 14:47:03
+2166, Sumter city, South Carolina, 45, 70405, 2021-01-19 14:47:03
+2167, Taylors CDP, South Carolina, 45, 71395, 2021-01-19 14:47:03
+2168, Wade Hampton CDP, South Carolina, 45, 73870, 2021-01-19 14:47:03
+2169, Aberdeen city, South Dakota, 46, 00100, 2021-01-19 14:47:03
+2170, Brookings city, South Dakota, 46, 07580, 2021-01-19 14:47:03
+2171, Rapid City city, South Dakota, 46, 52980, 2021-01-19 14:47:03
+2172, Sioux Falls city, South Dakota, 46, 59020, 2021-01-19 14:47:03
+2173, Watertown city, South Dakota, 46, 69300, 2021-01-19 14:47:03
+2174, Bartlett city, Tennessee, 47, 03440, 2021-01-19 14:47:03
+2175, Brentwood city, Tennessee, 47, 08280, 2021-01-19 14:47:03
+2176, Bristol city, Tennessee, 47, 08540, 2021-01-19 14:47:03
+2177, Chattanooga city, Tennessee, 47, 14000, 2021-01-19 14:47:03
+2178, Clarksville city, Tennessee, 47, 15160, 2021-01-19 14:47:03
+2179, Cleveland city, Tennessee, 47, 15400, 2021-01-19 14:47:03
+2180, Collierville town, Tennessee, 47, 16420, 2021-01-19 14:47:03
+2181, Columbia city, Tennessee, 47, 16540, 2021-01-19 14:47:03
+2182, Cookeville city, Tennessee, 47, 16920, 2021-01-19 14:47:03
+2183, East Ridge city, Tennessee, 47, 22720, 2021-01-19 14:47:03
+2184, Farragut town, Tennessee, 47, 25760, 2021-01-19 14:47:03
+2185, Franklin city, Tennessee, 47, 27740, 2021-01-19 14:47:03
+2186, Gallatin city, Tennessee, 47, 28540, 2021-01-19 14:47:03
+2187, Germantown city, Tennessee, 47, 28960, 2021-01-19 14:47:03
+2188, Hendersonville city, Tennessee, 47, 33280, 2021-01-19 14:47:03
+2189, Jackson city, Tennessee, 47, 37640, 2021-01-19 14:47:03
+2190, Johnson City city, Tennessee, 47, 38320, 2021-01-19 14:47:03
+2191, Kingsport city, Tennessee, 47, 39560, 2021-01-19 14:47:03
+2192, Knoxville city, Tennessee, 47, 40000, 2021-01-19 14:47:03
+2193, La Vergne city, Tennessee, 47, 41200, 2021-01-19 14:47:03
+2194, Lebanon city, Tennessee, 47, 41520, 2021-01-19 14:47:03
+2195, Maryville city, Tennessee, 47, 46380, 2021-01-19 14:47:03
+2196, Memphis city, Tennessee, 47, 48000, 2021-01-19 14:47:03
+2197, Morristown city, Tennessee, 47, 50280, 2021-01-19 14:47:03
+2198, Mount Juliet city, Tennessee, 47, 50780, 2021-01-19 14:47:03
+2199, Murfreesboro city, Tennessee, 47, 51560, 2021-01-19 14:47:03
+2200, Nashville-Davidson metropolitan government balance, Tennessee, 47, 52006, 2021-01-19 14:47:03
+2201, Oak Ridge city, Tennessee, 47, 55120, 2021-01-19 14:47:03
+2202, Shelbyville city, Tennessee, 47, 67760, 2021-01-19 14:47:03
+2203, Smyrna town, Tennessee, 47, 69420, 2021-01-19 14:47:03
+2204, Spring Hill city, Tennessee, 47, 70580, 2021-01-19 14:47:03
+2205, Abilene city, Texas, 48, 01000, 2021-01-19 14:47:03
+2206, Allen city, Texas, 48, 01924, 2021-01-19 14:47:03
+2207, Alvin city, Texas, 48, 02272, 2021-01-19 14:47:03
+2208, Amarillo city, Texas, 48, 03000, 2021-01-19 14:47:03
+2209, Arlington city, Texas, 48, 04000, 2021-01-19 14:47:03
+2210, Atascocita CDP, Texas, 48, 04462, 2021-01-19 14:47:03
+2211, Austin city, Texas, 48, 05000, 2021-01-19 14:47:03
+2212, Balch Springs city, Texas, 48, 05372, 2021-01-19 14:47:03
+2213, Baytown city, Texas, 48, 06128, 2021-01-19 14:47:03
+2214, Beaumont city, Texas, 48, 07000, 2021-01-19 14:47:03
+2215, Bedford city, Texas, 48, 07132, 2021-01-19 14:47:03
+2216, Belton city, Texas, 48, 07492, 2021-01-19 14:47:03
+2217, Benbrook city, Texas, 48, 07552, 2021-01-19 14:47:03
+2218, Big Spring city, Texas, 48, 08236, 2021-01-19 14:47:03
+2219, Brownsville city, Texas, 48, 10768, 2021-01-19 14:47:03
+2220, Brushy Creek CDP, Texas, 48, 10897, 2021-01-19 14:47:03
+2221, Bryan city, Texas, 48, 10912, 2021-01-19 14:47:03
+2222, Burleson city, Texas, 48, 11428, 2021-01-19 14:47:03
+2223, Canyon Lake CDP, Texas, 48, 12580, 2021-01-19 14:47:03
+2224, Carrollton city, Texas, 48, 13024, 2021-01-19 14:47:03
+2225, Cedar Hill city, Texas, 48, 13492, 2021-01-19 14:47:03
+2226, Cedar Park city, Texas, 48, 13552, 2021-01-19 14:47:03
+2227, Channelview CDP, Texas, 48, 14236, 2021-01-19 14:47:03
+2228, Cibolo city, Texas, 48, 14920, 2021-01-19 14:47:03
+2229, Cleburne city, Texas, 48, 15364, 2021-01-19 14:47:03
+2230, Cloverleaf CDP, Texas, 48, 15628, 2021-01-19 14:47:03
+2231, Selma city, Alabama, 01, 69120, 2021-01-19 14:58:47
+2232, Anthem CDP, Arizona, 04, 02430, 2021-01-19 14:58:47
+2233, Eloy city, Arizona, 04, 22360, 2021-01-19 14:58:47
+2234, Bryant city, Arkansas, 05, 09460, 2021-01-19 14:58:47
+2235, Albany city, California, 06, 00674, 2021-01-19 14:58:47
+2236, Casa de Oro-Mount Helix CDP, California, 06, 11691, 2021-01-19 14:58:47
+2237, Chowchilla city, California, 06, 13294, 2021-01-19 14:58:47
+2238, Dixon city, California, 06, 19402, 2021-01-19 14:58:47
+2239, Calhoun city, Georgia, 13, 12456, 2021-01-19 14:58:47
+2240, Fairburn city, Georgia, 13, 28380, 2021-01-19 14:58:47
+2241, Snellville city, Georgia, 13, 71604, 2021-01-19 14:58:47
+2242, Thomasville city, Georgia, 13, 76224, 2021-01-19 14:58:47
+2243, Tucker city, Georgia, 13, 77625, 2021-01-19 14:58:47
+2244, Kihei CDP, Hawaii, 15, 36500, 2021-01-19 14:58:47
+2245, Wahiawa CDP, Hawaii, 15, 72650, 2021-01-19 14:58:47
+2246, Bellwood village, Illinois, 17, 04975, 2021-01-19 14:58:47
+2247, Evergreen Park village, Illinois, 17, 24634, 2021-01-19 14:58:47
+2248, Homewood village, Illinois, 17, 35879, 2021-01-19 14:58:47
+2249, Lake Forest city, Illinois, 17, 41105, 2021-01-19 14:58:47
+2250, Mokena village, Illinois, 17, 49854, 2021-01-19 14:58:47
+2251, Montgomery village, Illinois, 17, 50218, 2021-01-19 14:58:47
+2252, Sycamore city, Illinois, 17, 74223, 2021-01-19 14:58:47
+2253, Seymour city, Indiana, 18, 68832, 2021-01-19 14:58:47
+2254, Natchitoches city, Louisiana, 22, 53545, 2021-01-19 14:58:47
+2255, Shenandoah CDP, Louisiana, 22, 69225, 2021-01-19 14:58:47
+2256, Ballenger Creek CDP, Maryland, 24, 03800, 2021-01-19 14:58:47
+2257, Calverton CDP, Maryland, 24, 12350, 2021-01-19 14:58:47
+2258, Elkridge CDP, Maryland, 24, 25750, 2021-01-19 14:58:47
+2259, White Oak CDP, Maryland, 24, 84375, 2021-01-19 14:58:47
+2260, Amherst Center CDP, Massachusetts, 25, 01360, 2021-01-19 14:58:47
+2261, Jenison CDP, Michigan, 26, 41680, 2021-01-19 14:58:47
+2262, Kerman city, California, 06, 38226, 2021-01-19 14:58:47
+2263, Orinda city, California, 06, 54232, 2021-01-19 14:58:47
+2264, Oroville city, California, 06, 54386, 2021-01-19 14:58:47
+2265, Willowbrook CDP, California, 06, 85614, 2021-01-19 14:58:47
+2266, Ansonia city, Connecticut, 09, 01150, 2021-01-19 14:58:47
+2267, Bear CDP, Delaware, 10, 04130, 2021-01-19 14:58:47
+2268, Bayshore Gardens CDP, Florida, 12, 04350, 2021-01-19 14:58:47
+2269, Cocoa city, Florida, 12, 13150, 2021-01-19 14:58:47
+2270, Country Walk CDP, Florida, 12, 15055, 2021-01-19 14:58:47
+2271, DeBary city, Florida, 12, 16675, 2021-01-19 14:58:47
+2272, Eustis city, Florida, 12, 21350, 2021-01-19 14:58:47
+2273, Ives Estates CDP, Florida, 12, 34400, 2021-01-19 14:58:47
+2274, Lealman CDP, Florida, 12, 39775, 2021-01-19 14:58:47
+2275, Woodmere CDP, New York, 36, 82942, 2021-01-19 14:58:47
+2276, Clemmons village, North Carolina, 37, 12960, 2021-01-19 14:58:47
+2277, Lexington city, North Carolina, 37, 38060, 2021-01-19 14:58:47
+2278, Forest Park city, Ohio, 39, 27706, 2021-01-19 14:58:47
+2279, Painesville city, Ohio, 39, 59416, 2021-01-19 14:58:47
+2280, Steubenville city, Ohio, 39, 74608, 2021-01-19 14:58:47
+2281, Sylvania city, Ohio, 39, 76022, 2021-01-19 14:58:47
+2282, Bethany city, Oklahoma, 40, 05700, 2021-01-19 14:58:47
+2283, Sand Springs city, Oklahoma, 40, 65300, 2021-01-19 14:58:47
+2284, Sherwood city, Oregon, 41, 67100, 2021-01-19 14:58:47
+2285, Baldwin borough, Pennsylvania, 42, 03928, 2021-01-19 14:58:47
+2286, Carlisle borough, Pennsylvania, 42, 11272, 2021-01-19 14:58:47
+2287, Central Falls city, Rhode Island, 44, 14140, 2021-01-19 14:58:47
+2288, South Burlington city, Vermont, 50, 66175, 2021-01-19 14:58:47
+2289, Franconia CDP, Virginia, 51, 29552, 2021-01-19 14:58:47
+2290, McNair CDP, Virginia, 51, 48450, 2021-01-19 14:58:47
+2291, Bonney Lake city, Washington, 53, 07170, 2021-01-19 14:58:47
+2292, Ellensburg city, Washington, 53, 21240, 2021-01-19 14:58:47
+2293, Frederickson CDP, Washington, 53, 25475, 2021-01-19 14:58:47
+2294, Hazel Dell CDP, Washington, 53, 30305, 2021-01-19 14:58:47
+2295, North Lynnwood CDP, Washington, 53, 49940, 2021-01-19 14:58:47
+2296, Port Angeles city, Washington, 53, 55365, 2021-01-19 14:58:47
+2297, Silverdale CDP, Washington, 53, 64365, 2021-01-19 14:58:47
+2298, Tumwater city, Washington, 53, 72905, 2021-01-19 14:58:47
+2299, Weirton city, West Virginia, 54, 85156, 2021-01-19 14:58:47
+2300, Cudahy city, Wisconsin, 55, 17975, 2021-01-19 14:58:47
+2301, Germantown village, Wisconsin, 55, 28875, 2021-01-19 14:58:47
+2302, Marshfield city, Wisconsin, 55, 49675, 2021-01-19 14:58:47
+2303, Tullahoma city, Tennessee, 47, 75320, 2021-01-19 14:58:47
+2304, Bay City city, Texas, 48, 05984, 2021-01-19 14:58:47
+2305, Brenham city, Texas, 48, 10156, 2021-01-19 14:58:47
+2306, Cinco Ranch CDP, Texas, 48, 14929, 2021-01-19 14:58:47
+2307, Dickinson city, Texas, 48, 20344, 2021-01-19 14:58:47
+2308, Ennis city, Texas, 48, 24348, 2021-01-19 14:58:47
+2309, Forney city, Texas, 48, 26604, 2021-01-19 14:58:47
+2310, Katy city, Texas, 48, 38476, 2021-01-19 14:58:47
+2311, Columbia Heights city, Minnesota, 27, 12700, 2021-01-19 14:58:47
+2312, Hopkins city, Minnesota, 27, 30140, 2021-01-19 14:58:47
+2313, West St. Paul city, Minnesota, 27, 69700, 2021-01-19 14:58:47
+2314, Willmar city, Minnesota, 27, 70420, 2021-01-19 14:58:47
+2315, Overland city, Missouri, 29, 55550, 2021-01-19 14:58:47
+2316, Ozark city, Missouri, 29, 55766, 2021-01-19 14:58:47
+2317, Warrensburg city, Missouri, 29, 77092, 2021-01-19 14:58:47
+2318, La Vista city, Nebraska, 31, 26385, 2021-01-19 14:58:47
+2319, Rutherford borough, New Jersey, 34, 65280, 2021-01-19 14:58:47
+2320, Sunland Park city, New Mexico, 35, 75640, 2021-01-19 14:58:47
+2321, Eastchester CDP, New York, 36, 21809, 2021-01-19 14:58:47
+2322, East Massapequa CDP, New York, 36, 22480, 2021-01-19 14:58:47
+2323, Merrick CDP, New York, 36, 46668, 2021-01-19 14:58:47
+2324, Mineola village, New York, 36, 47636, 2021-01-19 14:58:47
+2325, North Bay Shore CDP, New York, 36, 51495, 2021-01-19 14:58:47
+2326, North Valley Stream CDP, New York, 36, 53748, 2021-01-19 14:58:47
+2327, Fairhope city, Alabama, 01, 25240, 2021-01-19 15:09:39
+2328, Coolidge city, Arizona, 04, 15500, 2021-01-19 15:09:39
+2329, Douglas city, Arizona, 04, 20050, 2021-01-19 15:09:39
+2330, Arroyo Grande city, California, 06, 02868, 2021-01-19 15:09:39
+2331, East Hemet CDP, California, 06, 20697, 2021-01-19 15:09:39
+2332, Hermosa Beach city, California, 06, 33364, 2021-01-19 15:09:39
+2333, Imperial city, California, 06, 36280, 2021-01-19 15:09:39
+2334, La Palma city, California, 06, 40256, 2021-01-19 15:09:39
+2335, Linda CDP, California, 06, 41572, 2021-01-19 15:09:39
+2336, Pinole city, California, 06, 57288, 2021-01-19 15:09:39
+2337, Prunedale CDP, California, 06, 58870, 2021-01-19 15:09:39
+2338, Vincent CDP, California, 06, 82815, 2021-01-19 15:09:39
+2339, Fernley city, Nevada, 32, 24900, 2021-01-19 15:09:39
+2340, Mesquite city, Nevada, 32, 46000, 2021-01-19 15:09:39
+2341, Dover town, New Jersey, 34, 18070, 2021-01-19 15:09:39
+2342, Hawthorne borough, New Jersey, 34, 30570, 2021-01-19 15:09:39
+2343, Point Pleasant borough, New Jersey, 34, 59880, 2021-01-19 15:09:39
+2344, Woodbridge CDP, New Jersey, 34, 81950, 2021-01-19 15:09:39
+2345, Mamaroneck village, New York, 36, 44831, 2021-01-19 15:09:39
+2346, Mastic CDP, New York, 36, 46074, 2021-01-19 15:09:39
+2347, North Bellmore CDP, New York, 36, 51517, 2021-01-19 15:09:39
+2348, Plattsburgh city, New York, 36, 58574, 2021-01-19 15:09:39
+2349, Clayton town, North Carolina, 37, 12860, 2021-01-19 15:09:39
+2350, Elizabeth City city, North Carolina, 37, 20580, 2021-01-19 15:09:39
+2351, Ashtabula city, Ohio, 39, 02638, 2021-01-19 15:09:39
+2352, Mayfield Heights city, Ohio, 39, 48482, 2021-01-19 15:09:39
+2353, North Canton city, Ohio, 39, 56294, 2021-01-19 15:09:39
+2354, Pickerington city, Ohio, 39, 62498, 2021-01-19 15:09:39
+2355, Whitehall city, Ohio, 39, 84742, 2021-01-19 15:09:39
+2356, Coos Bay city, Oregon, 41, 15250, 2021-01-19 15:09:39
+2357, Happy Valley city, Oregon, 41, 32050, 2021-01-19 15:09:39
+2358, Hermiston city, Oregon, 41, 33700, 2021-01-19 15:09:39
+2359, Lebanon city, Oregon, 41, 41650, 2021-01-19 15:09:39
+2360, King of Prussia CDP, Pennsylvania, 42, 39736, 2021-01-19 15:09:39
+2361, Phoenixville borough, Pennsylvania, 42, 60120, 2021-01-19 15:09:39
+2362, West Chester borough, Pennsylvania, 42, 82704, 2021-01-19 15:09:39
+2363, North Myrtle Beach city, South Carolina, 45, 51280, 2021-01-19 15:09:39
+2364, Goodlettsville city, Tennessee, 47, 29920, 2021-01-19 15:09:39
+2365, Alamo city, Texas, 48, 01576, 2021-01-19 15:09:39
+2366, Angleton city, Texas, 48, 03264, 2021-01-19 15:09:39
+2367, Brownwood city, Texas, 48, 10780, 2021-01-19 15:09:39
+2368, Uvalde city, Texas, 48, 74588, 2021-01-19 15:09:39
+2369, North Ogden city, Utah, 49, 55100, 2021-01-19 15:09:39
+2370, North Salt Lake city, Utah, 49, 55210, 2021-01-19 15:09:39
+2371, Payson city, Utah, 49, 58730, 2021-01-19 15:09:39
+2372, Brambleton CDP, Virginia, 51, 09188, 2021-01-19 15:09:39
+2373, Franklin Farm CDP, Virginia, 51, 29628, 2021-01-19 15:09:39
+2374, Sudley CDP, Virginia, 51, 76416, 2021-01-19 15:09:39
+2375, Tysons CDP, Virginia, 51, 79950, 2021-01-19 15:09:39
+2376, Arlington city, Washington, 53, 02585, 2021-01-19 15:09:39
+2377, Covington city, Washington, 53, 15290, 2021-01-19 15:09:39
+2378, Elk Plain CDP, Washington, 53, 21205, 2021-01-19 15:09:39
+2379, Martha Lake CDP, Washington, 53, 43815, 2021-01-19 15:09:39
+2380, Middleton city, Wisconsin, 55, 51575, 2021-01-19 15:09:39
+2381, Apollo Beach CDP, Florida, 12, 01675, 2021-01-19 15:09:39
+2382, Safety Harbor city, Florida, 12, 62425, 2021-01-19 15:09:39
+2383, West Park city, Florida, 12, 76658, 2021-01-19 15:09:39
+2384, Clarkston city, Georgia, 13, 16544, 2021-01-19 15:09:39
+2385, Kingsland city, Georgia, 13, 43640, 2021-01-19 15:09:39
+2386, Norcross city, Georgia, 13, 55776, 2021-01-19 15:09:39
+2387, Stonecrest city, Georgia, 13, 73784, 2021-01-19 15:09:39
+2388, Kuna city, Idaho, 16, 44290, 2021-01-19 15:09:39
+2389, Mattoon city, Illinois, 17, 47553, 2021-01-19 15:09:39
+2390, Altoona city, Iowa, 19, 01630, 2021-01-19 15:09:39
+2391, Clive city, Iowa, 19, 14520, 2021-01-19 15:09:39
+2392, Zachary city, Louisiana, 22, 83405, 2021-01-19 15:09:39
+2393, Saco city, Maine, 23, 64675, 2021-01-19 15:09:39
+2394, Glenmont CDP, Maryland, 24, 33250, 2021-01-19 15:09:39
+2395, Hyattsville city, Maryland, 24, 41250, 2021-01-19 15:09:39
+2396, Lake Shore CDP, Maryland, 24, 44975, 2021-01-19 15:09:39
+2397, Seabrook CDP, Maryland, 24, 70775, 2021-01-19 15:09:39
+2398, Winthrop Town city, Massachusetts, 25, 81005, 2021-01-19 15:09:39
+2399, Wayne city, Michigan, 26, 84940, 2021-01-19 15:09:39
+2400, Anoka city, Minnesota, 27, 01720, 2021-01-19 15:09:39
+2401, Stillwater city, Minnesota, 27, 62824, 2021-01-19 15:09:39
+2402, Ocean Springs city, Mississippi, 28, 53520, 2021-01-19 15:09:39
+2403, Farmington city, Missouri, 29, 23752, 2021-01-19 15:09:39
+2404, Center Point city, Alabama, 01, 13264, 2021-01-19 15:16:04
+2405, Foley city, Alabama, 01, 26992, 2021-01-19 15:16:04
+2406, Helena city, Alabama, 01, 34024, 2021-01-19 15:16:04
+2407, Rio Rico CDP, Arizona, 04, 60180, 2021-01-19 15:16:04
+2408, Blythe city, California, 06, 07218, 2021-01-19 15:16:04
+2409, El Segundo city, California, 06, 22412, 2021-01-19 15:16:04
+2410, La Crescenta-Montrose CDP, California, 06, 39045, 2021-01-19 15:16:04
+2411, Live Oak CDP, California, 06, 41922, 2021-01-19 15:16:04
+2412, Nipomo CDP, California, 06, 51476, 2021-01-19 15:16:04
+2413, Shafter city, California, 06, 71106, 2021-01-19 15:16:04
+2414, Woodcrest CDP, California, 06, 86244, 2021-01-19 15:16:04
+2415, Cimarron Hills CDP, Colorado, 08, 14587, 2021-01-19 15:16:04
+2416, Sherrelwood CDP, Colorado, 08, 69810, 2021-01-19 15:16:04
+2417, Wallingford Center CDP, Connecticut, 09, 78880, 2021-01-19 15:16:04
+2418, Bartow city, Florida, 12, 03675, 2021-01-19 15:16:04
+2419, Belle Glade city, Florida, 12, 05200, 2021-01-19 15:16:04
+2420, Brownsville CDP, Florida, 12, 09000, 2021-01-19 15:16:04
+2421, Fish Hawk CDP, Florida, 12, 22387, 2021-01-19 15:16:04
+2422, Stuart city, Florida, 12, 68875, 2021-01-19 15:16:04
+2423, Forest Park city, Georgia, 13, 30536, 2021-01-19 15:16:04
+2424, South Fulton city, Georgia, 13, 72122, 2021-01-19 15:16:04
+2425, Winder city, Georgia, 13, 83420, 2021-01-19 15:16:04
+2426, Alsip village, Illinois, 17, 01010, 2021-01-19 15:16:04
+2427, Yorkville city, Illinois, 17, 84038, 2021-01-19 15:16:04
+2428, Griffith town, Indiana, 18, 30042, 2021-01-19 15:16:04
+2429, Erlanger city, Kentucky, 21, 25300, 2021-01-19 15:16:04
+2430, Madisonville city, Kentucky, 21, 49368, 2021-01-19 15:16:04
+2431, Winchester city, Kentucky, 21, 83676, 2021-01-19 15:16:04
+2432, Maryland City CDP, Maryland, 24, 51075, 2021-01-19 15:16:04
+2433, Forest Lake city, Minnesota, 27, 21770, 2021-01-19 15:16:04
+2434, Glassboro borough, New Jersey, 34, 26340, 2021-01-19 15:16:04
+2435, Secaucus town, New Jersey, 34, 66570, 2021-01-19 15:16:04
+2436, Hauppauge CDP, New York, 36, 32732, 2021-01-19 15:16:04
+2437, Lynbrook village, New York, 36, 43874, 2021-01-19 15:16:04
+2438, Leland town, North Carolina, 37, 37680, 2021-01-19 15:16:04
+2439, Morganton city, North Carolina, 37, 44400, 2021-01-19 15:16:04
+2440, Norwood city, Ohio, 39, 57386, 2021-01-19 15:16:04
+2441, Central Point city, Oregon, 41, 12400, 2021-01-19 15:16:04
+2442, Bluffton town, South Carolina, 45, 07210, 2021-01-19 15:16:04
+2443, Fort Mill town, South Carolina, 45, 26890, 2021-01-19 15:16:04
+2444, Alice city, Texas, 48, 01852, 2021-01-19 15:16:04
+2445, Crowley city, Texas, 48, 17960, 2021-01-19 15:16:04
+2446, Horizon City city, Texas, 48, 34832, 2021-01-19 15:16:04
+2447, Humble city, Texas, 48, 35348, 2021-01-19 15:16:04
+2448, La Marque city, Texas, 48, 41116, 2021-01-19 15:16:04
+2449, Palestine city, Texas, 48, 54708, 2021-01-19 15:16:04
+2450, Pecan Grove CDP, Texas, 48, 56482, 2021-01-19 15:16:04
+2451, Prosper town, Texas, 48, 59696, 2021-01-19 15:16:04
+2452, Brigham City city, Utah, 49, 08460, 2021-01-19 15:16:04
+2453, Culpeper town, Virginia, 51, 20752, 2021-01-19 15:16:04
+2454, Kingstowne CDP, Virginia, 51, 42746, 2021-01-19 15:16:04
+2455, Meadowbrook CDP, Virginia, 51, 50568, 2021-01-19 15:16:04
+2456, Battle Ground city, Washington, 53, 04475, 2021-01-19 15:16:04
+2457, Beckley city, West Virginia, 54, 05332, 2021-01-19 15:16:04
+2458, Martinsburg city, West Virginia, 54, 52060, 2021-01-19 15:16:04
+2459, Siloam Springs city, Arkansas, 05, 64370, 2021-01-19 15:21:57
+2460, Greenfield city, California, 06, 30994, 2021-01-19 15:21:57
+2461, Red Bluff city, California, 06, 59892, 2021-01-19 15:21:57
+2462, Rio Linda CDP, California, 06, 60942, 2021-01-19 15:21:57
+2463, Montrose city, Colorado, 08, 51745, 2021-01-19 15:21:57
+2464, Maitland city, Florida, 12, 42575, 2021-01-19 15:21:57
+2465, Panama City Beach city, Florida, 12, 54725, 2021-01-19 15:21:57
+2466, World Golf Village CDP, Florida, 12, 78740, 2021-01-19 15:21:57
+2467, Lithia Springs CDP, Georgia, 13, 46832, 2021-01-19 15:21:57
+2468, Powder Springs city, Georgia, 13, 62524, 2021-01-19 15:21:57
+2469, Waukee city, Iowa, 19, 82695, 2021-01-19 15:21:57
+2470, Westbrook city, Maine, 23, 82105, 2021-01-19 15:21:57
+2471, Rosedale CDP, Maryland, 24, 68400, 2021-01-19 15:21:57
+2472, Takoma Park city, Maryland, 24, 76650, 2021-01-19 15:21:57
+2473, Bridgewater Town city, Massachusetts, 25, 08130, 2021-01-19 15:21:57
+2474, Newburyport city, Massachusetts, 25, 45245, 2021-01-19 15:21:57
+2475, Randolph Town city, Massachusetts, 25, 56000, 2021-01-19 15:21:57
+2476, St. Michael city, Minnesota, 27, 57346, 2021-01-19 15:21:57
+2477, Old Jamestown CDP, Missouri, 29, 54352, 2021-01-19 15:21:57
+2478, Morristown town, New Jersey, 34, 48300, 2021-01-19 15:21:57
+2479, Cohoes city, New York, 36, 16749, 2021-01-19 15:21:57
+2480, Cortland city, New York, 36, 18388, 2021-01-19 15:21:57
+2481, North Babylon CDP, New York, 36, 51440, 2021-01-19 15:21:57
+2482, Roosevelt CDP, New York, 36, 63506, 2021-01-19 15:21:57
+2483, Selden CDP, New York, 36, 66212, 2021-01-19 15:21:57
+2484, Boone town, North Carolina, 37, 07080, 2021-01-19 15:21:57
+2485, Harrisburg town, North Carolina, 37, 29800, 2021-01-19 15:21:57
+2486, Lenoir city, North Carolina, 37, 37760, 2021-01-19 15:21:57
+2487, Murraysville CDP, North Carolina, 37, 45720, 2021-01-19 15:21:57
+2488, Stallings town, North Carolina, 37, 64420, 2021-01-19 15:21:57
+2489, Berea city, Ohio, 39, 05690, 2021-01-19 15:21:57
+2490, Pataskala city, Ohio, 39, 61112, 2021-01-19 15:21:57
+2491, Streetsboro city, Ohio, 39, 75014, 2021-01-19 15:21:57
+2492, Oak Grove CDP, Oregon, 41, 53900, 2021-01-19 15:21:57
+2493, Five Forks CDP, South Carolina, 45, 25540, 2021-01-19 15:21:57
+2494, Sevierville city, Tennessee, 47, 67120, 2021-01-19 15:21:57
+2495, Anna city, Texas, 48, 03300, 2021-01-19 15:21:57
+2496, Sienna Plantation CDP, Texas, 48, 67766, 2021-01-19 15:21:57
+2497, South Houston city, Texas, 48, 69020, 2021-01-19 15:21:57
+2498, Universal City city, Texas, 48, 74408, 2021-01-19 15:21:57
+2499, West University Place city, Texas, 48, 77956, 2021-01-19 15:21:57
+2500, Hurricane city, Utah, 49, 37170, 2021-01-19 15:21:57
+2501, South Ogden city, Utah, 49, 70960, 2021-01-19 15:21:57
+2502, Buckhall CDP, Virginia, 51, 10776, 2021-01-19 15:21:57
+2503, Hybla Valley CDP, Virginia, 51, 39304, 2021-01-19 15:21:57
+2504, Neabsco CDP, Virginia, 51, 55272, 2021-01-19 15:21:57
+2505, Lynden city, Washington, 53, 40805, 2021-01-19 15:21:57
+2506, Monroe city, Washington, 53, 46685, 2021-01-19 15:21:57
+2507, Fox Crossing village, Wisconsin, 55, 26982, 2021-01-19 15:21:57

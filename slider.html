@@ -1,0 +1,249 @@
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>jQuery UI Slider - Custom handle</title>
+  <link rel="stylesheet" href="//code.jquery.com/ui/1.13.1/themes/base/jquery-ui.css">
+  <style>
+  #custom-handle, .ui-slider-handle {
+    width: 2em;
+    height: 1.6em;
+    top: 50%;
+    margin-top: -.8em;
+    text-align: center;
+    line-height: 1.6em;
+  }
+  .ui-slider-handle {
+    margin-top: initial;
+    padding: 2px;
+    line-height: initial;
+  }
+  #slider{
+      width: 100%;
+      height: 7px;
+      outline: none;
+      border-radius: 3px;
+      position: relative;
+  }
+  #eq > span {
+    height:120px; float:left; margin:15px
+  }
+ body {
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+table {
+	font-size: 1em;
+}
+
+.ui-draggable, .ui-droppable {
+	background-position: top;
+}
+.show{
+  display: block;
+}
+.hide {
+  display: none;
+}
+  </style>
+  <script src="https://code.jquery.com/jquery-3.6.0.js"></script>
+  <script src="https://code.jquery.com/ui/1.13.1/jquery-ui.js"></script>
+  <script>
+  $( function() {
+    
+    $( "#eq > .slider" ).each(function() {
+      // read initial values from markup and remove that
+      var value = parseInt( $( this ).text(), 10 );
+      $( this ).empty().slider({
+        min: 0,
+        max: 10,
+        value: value,
+        range: "min",
+        animate: true,
+        orientation: "horizontal",
+        create: function(event,ui) {
+          $(this).find(".ui-slider-handle").text( $( this ).slider( "value" ) );
+        },
+        slide: function( event, ui ) {
+          $(ui.handle).text( ui.value );
+        }
+      });
+    });
+  } );
+  
+  $( function() {
+    $( "input" ).checkboxradio();
+  } );
+
+  </script>
+  <script src="common.js"></script>
+</head>
+<body>
+ <div id="races"  class="show">
+   <h1 style="float:center; margin: 50px; height: 30px;"> Race </h1>
+  <img id="myImg" src="race.jpeg" alt="The Pulpit Rock" style="width:400px; height:400px; margin: 100px;float:left;"></img>
+  <div style="float:right; width:500px;">
+   <div id="slider" class="masterslider" style="width:300px; height:15px; margin: 20px;">
+      <div id=""  class="mastercustom-handle ui-slider-handle"></div>
+      <br>
+      <p>How important is Race to you</p>
+    </div>
+    <br>
+    <br>
+      <div id="eq">
+        <p>
+          whites
+        </p>  
+        <div class = "slider" date-attr-race-name="white" style="width:300px; margin:20px;">
+          <div class ="custom-handle ui-slider-handle">0</div>
+        </div>
+        <p>
+          Blacks
+        </p> 
+        <div class = "slider" date-attr-race-name="Blacks" style="width:300px; margin:20px;">
+          <div class ="custom-handle ui-slider-handle">3</div>
+        </div>
+        <p>
+          Asian
+        </p>
+        <div class = "slider" date-attr-race-name="Asian" style="width:300px; margin:20px;">
+          <div class ="custom-handle ui-slider-handle">1</div>
+        </div>
+        <p>
+          Hispanic
+        </p>
+        <div class = "slider" date-attr-race-name="Hispanic" style="width:300px; margin:20px;">
+          <div class ="custom-handle ui-slider-handle">8</div>
+        </div>
+      </div>     
+   <button id="submitRace" style="margin:50px; align-items: center;">Continue</button>
+  
+  </div>
+  
+ </div>
+
+
+  <div id="ages"  class="hide">
+    <h1 style="float:center; margin: 50px; height: 30px;"> Age </h1>
+    <img id="myImg" src="Age.jpeg" alt="The Pulpit Rock" style="width:500px; height:500px; margin: 100px;float:left;"></img>
+    <div style="float:right; width:500px;">
+      <div id="ageslider" class="masterslider" style="width:300px; height:15px; margin: 20px;">
+        <div id=""   class="mastercustom-handle ui-slider-handle"></div>
+        <br>
+        <p>How important is Age to you</p>
+      </div>
+      <br>
+      <br>
+        <div id="eq">
+          <p>
+            0-10
+          </p>  
+          <div class = "slider" date-attr-age-value="0-10" style="width:300px; margin:20px;">
+            <div class ="custom-handle ui-slider-handle">5</div>
+          </div>
+          <p>
+            18-64
+          </p> 
+          <div class = "slider" date-attr-age-value="18-64" style="width:300px; margin:20px;">
+            <div class ="custom-handle ui-slider-handle">3</div>
+          </div>
+          <p>
+            64+
+          </p>
+          <div class = "slider" date-attr-age-value="64+" style="width:300px; margin:20px;">
+            <div class ="custom-handle ui-slider-handle">1</div>
+          </div>
+        </div>
+        
+
+      <button id="backtoRace" style="margin:50px; align-items:right;">Back to Race</button>
+      <button id="submitage" style="margin:50px; align-items: left;">Continue</button>
+
+
+    </div>
+  </div>
+
+  <div id="incomes"  class="hide">
+    <h1 style="float:center; margin: 50px; height: 30px;"> Income </h1>
+   <img id="myImg" src="Income.jpeg" alt="The Pulpit Rock" style="width:400px; height:400px; margin: 100px;float:left;"></img>
+   <div style="float:right; width:500px;">
+    <div id="incomeslider" class="masterslider" style="width:300px; height:15px; margin: 20px;">
+       <div id=""  class="mastercustom-handle ui-slider-handle"></div>
+       <br>
+       <p>How important is Income to you</p>
+    </div>
+     <br>
+     <br>
+      <div class="widget">
+        <fieldset>
+          <br>
+          <legend>Let us know what is more important for you</legend>
+          <label for="checkbox-1">Under50k</label>
+          <input type="checkbox" date-attr-income-value="Under50K" name="checkbox-1" id="checkbox-1">
+       
+          <label for="checkbox-2">50-100k</label>
+          <input type="checkbox" date-attr-income-value="50-100K" name="checkbox-2" id="checkbox-2">
+          <br>
+          <br>
+          <label for="checkbox-3">100-200k</label>
+          <input type="checkbox" date-attr-income-value="100-200K" name="checkbox-3" &nbsp; &nbsp; id="checkbox-3">
+
+          <label for="checkbox-4">200k+</label>
+          <input type="checkbox" date-attr-income-value="200K+" name="checkbox-4" id="checkbox-4">
+        </fieldset>
+      </div>
+
+      <button id="backtoAge" style="margin:50px; align-items: left;">Back to Age</button>
+      <button id="submitincome" style="margin:50px; align-items: center;">Continue</button>
+
+
+    </div>
+</div> 
+  
+<div id="occupancys"  class="hide">
+  <h1 style="float:center; margin: 50px; height: 30px;"> Occupancy </h1>
+ <img id="myImg" src="Occupancy.jpeg" alt="The Pulpit Rock" style="width:400px; height:400px; margin: 100px;float:left;"></img>
+ <div style="float:right; width:500px;">
+  <div id="occupancyslider" class="masterslider" style="width:300px; height:15px; margin: 20px;">
+     <div id=""  class="mastercustom-handle ui-slider-handle"></div>
+     <br>
+     <p>How important is Occupancy to you</p>
+   </div>
+   <br>
+   <br>
+     <div id="eq">
+       <p>
+         RenterOccupied
+       </p>  
+       <div class = "slider" date-attr-occupancy-value="Renter-Occupied" style="width:300px; margin:20px;">
+         <div class ="custom-handle ui-slider-handle">0</div>
+       </div>
+       <p>
+         OwnerOccupied
+       </p> 
+       <div class = "slider" date-attr-occupancy-value="Owner-occupied" style="width:300px; margin:20px;">
+         <div class ="custom-handle ui-slider-handle">3</div>
+       </div>
+     </div>     
+     <div class="widget">
+      <fieldset>
+        <p>Let us know what is more important for you</p>
+        <label for="checkbox-5">Rental</label>
+        <input type="checkbox" date-attr-occupancy-values="Rental" name="checkbox-5" id="checkbox-5">
+     
+        <label for="checkbox-6">Owner</label>
+        <input type="checkbox" date-attr-occupancy-values="Owner" name="checkbox-6" id="checkbox-6">
+      </fieldset>
+    </div>
+
+   <button id="backtoIncome" style="margin:50px; align-items: left;">Back to Income</button>
+   <button id="submitoccupancy" style="margin:50px; align-items: center;">Continue</button>
+
+ </div>
+</div>
+
+</body>
+</html>
+
+
+
